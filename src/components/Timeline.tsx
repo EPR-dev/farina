@@ -150,7 +150,7 @@ export default function Timeline({
                 Math.max(milestones.length - 1, 1)) *
                 100}%`,
             }}
-            title="Divergence — counterfactual from here"
+            title="What if starts here — the story of what could have been"
           />
         )}
         <div

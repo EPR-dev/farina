@@ -33,7 +33,7 @@ export default function FeaturePanel({
           </button>
 
           {feature.scenario === "counterfactual" && (
-            <div className="badge speculative">Counterfactual scenario</div>
+            <div className="badge speculative">What if</div>
           )}
           {feature.scenario === "present_day" && (
             <div className="badge today">Present day · FRG</div>
@@ -46,17 +46,22 @@ export default function FeaturePanel({
           <p className="meta">
             {feature.scenario === "present_day"
               ? (feature.label ?? "Farina Restoration Group site").toUpperCase()
-              : `${feature.startYear ?? "—"}${
-                  feature.endYear && feature.endYear < 9000
-                    ? ` → ${feature.endYear}`
-                    : ""
-                }`}
-            {feature.lifecycle ? ` · ${feature.lifecycle.toUpperCase()}` : ""}
+              : feature.scenario === "counterfactual"
+                ? "A glimpse of what could have been"
+                : `${feature.startYear ?? "—"}${
+                    feature.endYear && feature.endYear < 9000
+                      ? ` → ${feature.endYear}`
+                      : ""
+                  }`}
+            {feature.lifecycle && feature.scenario !== "counterfactual"
+              ? ` · ${feature.lifecycle.toUpperCase()}`
+              : ""}
           </p>
 
           {feature.scenarioPopulation != null && (
             <p className="scenario-pop">
-              Scenario population: {feature.scenarioPopulation.toLocaleString()}
+              About {feature.scenarioPopulation.toLocaleString()} people in this
+              story
             </p>
           )}
 

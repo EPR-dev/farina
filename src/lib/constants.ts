@@ -39,7 +39,7 @@ export const LAYER_DEFS = [
   { id: "railway", label: "Railway" },
   { id: "photographs", label: "Historic photos" },
   { id: "water", label: "Water" },
-  { id: "counterfactual", label: "Counterfactual development" },
+  { id: "counterfactual", label: "What if town" },
   { id: "presentDay", label: "Today — FRG sites" },
   { id: "newspapers", label: "Newspaper stories" },
 ] as const;

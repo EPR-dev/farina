@@ -186,9 +186,9 @@ export default function Experience() {
                   {isToday
                     ? `Map: ${mapStats.present} today · ${mapStats.buildings} ruins`
                     : `Map: ${mapStats.buildings} hist${
-                        mapStats.alternate > 0
-                          ? ` · ${mapStats.alternate} alt`
-                          : ""
+                      mapStats.alternate > 0
+                        ? ` · ${mapStats.alternate} what if`
+                        : ""
                       }`}
                 </div>
               )}

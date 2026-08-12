@@ -60,7 +60,7 @@ export default function CompareSwipe({ open, onClose }: CompareSwipeProps) {
         <div>
           <strong>COMPARE 2026</strong>
           <span className="compare-sub">
-            Left: Actual Farina · Right: Counterfactual scenario
+            Left: Actual Farina · Right: What if
           </span>
         </div>
         <button type="button" className="floating-btn" onClick={onClose}>
@@ -79,8 +79,8 @@ export default function CompareSwipe({ open, onClose }: CompareSwipeProps) {
             interactive={false}
           />
           <div className="compare-label right">
-            Alternate Farina 2026
-            <em>Illustrative reconstruction</em>
+            What if Farina 2026
+            <em>A story of what could have been</em>
           </div>
         </div>
         <div className="compare-map compare-left" style={{ width: `${split}%` }}>

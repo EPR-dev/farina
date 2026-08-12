@@ -4,7 +4,7 @@ Full-screen interactive historical map exploring Farina, South Australia:
 
 - **Actual history** — documented rise and decline  
 - **Today** — Farina Restoration Group sites (trails, bakery, stabilised ruins)  
-- **What if?** — clearly labelled counterfactual: what if Farina had succeeded?
+- **What if?** — a fun story of what could have been if Farina had thrived
 
 **Repo:** [github.com/EPR-dev/farina](https://github.com/EPR-dev/farina)
 
@@ -45,14 +45,14 @@ npx vercel --yes --prod
 ## Useful scripts
 
 ```bash
-npm run generate:alternate   # counterfactual stock from population.json
+npm run generate:alternate   # what-if town stock from population.json
 npm run align:osm            # snap/translate geometry to OSM control
 ```
 
 ## Important
 
 - Named ruins/bakery/campground are **OSM-aligned**; many dwellings remain illustrative until the survey plan is georeferenced (see `data/geometry_validation.json`).
-- Counterfactual features are always labelled speculative (**Scenario population**, never fake census).
+- What If features are a story, not census fact — population chips say “About … people”.
 - Historic photos: only remotely displayed when rights allow; otherwise **VIEW AT SOURCE**.
 - Present-day layer cites [farinarestoration.com](https://farinarestoration.com/).
 

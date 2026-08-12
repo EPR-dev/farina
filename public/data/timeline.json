@@ -90,7 +90,7 @@
       "label": "1890",
       "mode": "both",
       "captionActual": "For a moment, Farina sits at the edge of Australia's expanding rail network.",
-      "captionWhatIf": "Counterfactual scenario — a service town takes root.",
+      "captionWhatIf": "Imagine it: a busy little service town taking root.",
       "camera": {
         "center": [
           138.2770715,
@@ -107,7 +107,7 @@
       "label": "1900",
       "mode": "both",
       "captionActual": "The rain doesn't come.",
-      "captionWhatIf": "Illustrative reconstruction — pastoral trade adapts.",
+      "captionWhatIf": "Pastoral trade finds a way — the town keeps its pulse.",
       "camera": {
         "center": [
           138.2770715,
@@ -124,7 +124,7 @@
       "label": "1910",
       "mode": "both",
       "captionActual": "The town begins to thin.",
-      "captionWhatIf": "Scenario assumption — inland transport hub, population ~1,500.",
+      "captionWhatIf": "An inland hub with about 1,500 people — trains, shops, and steady work.",
       "camera": {
         "center": [
           138.2770715,
@@ -141,7 +141,7 @@
       "label": "1920",
       "mode": "both",
       "captionActual": "Businesses close their doors.",
-      "captionWhatIf": "Speculative scenario — commercial street consolidates.",
+      "captionWhatIf": "Twelfth Street fills in — shops, hotels, and evening light.",
       "camera": {
         "center": [
           138.2770715,
@@ -158,7 +158,7 @@
       "label": "1930",
       "mode": "both",
       "captionActual": "Dust and distance.",
-      "captionWhatIf": "Counterfactual — an established regional town.",
+      "captionWhatIf": "Farina feels established — a proper regional town.",
       "camera": {
         "center": [
           138.2775715,
@@ -175,7 +175,7 @@
       "label": "1950",
       "mode": "both",
       "captionActual": "Services leave for larger centres.",
-      "captionWhatIf": "Illustrative reconstruction — post-war streets and clinic.",
+      "captionWhatIf": "Post-war streets and a clinic — everyday life, still here.",
       "camera": {
         "center": [
           138.2778715,
@@ -192,7 +192,7 @@
       "label": "1957",
       "mode": "both",
       "captionActual": "Standard gauge arrives. The town does not revive.",
-      "captionWhatIf": "Scenario — dual-gauge yards and freight work.",
+      "captionWhatIf": "Dual-gauge yards keep the freight — and the pay packets — rolling.",
       "camera": {
         "center": [
           138.2790715,
@@ -209,7 +209,7 @@
       "label": "1960",
       "mode": "both",
       "captionActual": "The post office closes. The cemetery fills its last names.",
-      "captionWhatIf": "Counterfactual scenario — small regional centre holds on.",
+      "captionWhatIf": "A small regional centre that simply refused to fade.",
       "camera": {
         "center": [
           138.2770715,
@@ -226,7 +226,7 @@
       "label": "1980",
       "mode": "both",
       "captionActual": "The permanent town is effectively gone.",
-      "captionWhatIf": "Speculative scenario based on continued regional development.",
+      "captionWhatIf": "Still growing quietly — schools, services, neighbours.",
       "camera": {
         "center": [
           138.2775715,
@@ -242,7 +242,7 @@
       "year": 2000,
       "label": "2000",
       "mode": "whatIf",
-      "caption": "Illustrative reconstruction — heritage centre within a living town.",
+      "caption": "A living town with its past still visible — heritage beside home.",
       "camera": {
         "center": [
           138.2778715,
@@ -259,7 +259,7 @@
       "label": "2026",
       "mode": "both",
       "captionActual": "The streets remain. The city does not.",
-      "captionWhatIf": "FARINA 2026 — COUNTERFACTUAL SCENARIO",
+      "captionWhatIf": "Farina 2026 — the town that made it.",
       "camera": {
         "center": [
           138.2775715,

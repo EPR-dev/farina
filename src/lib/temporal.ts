@@ -141,7 +141,7 @@ export function confidenceLabel(c: Confidence | string | undefined): string {
     case "approximate":
       return "Approximate";
     case "speculative":
-      return "Speculative";
+      return "Story";
     default:
       return "Unknown";
   }
@@ -200,7 +200,7 @@ export function populationLabel(year: number, mode: TimelineMode): string | null
   if (!pop) return null;
 
   if (mode === "whatIf" && year >= DIVERGENCE_YEAR) {
-    return `Scenario population: ${pop.value.toLocaleString()}`;
+    return `About ${pop.value.toLocaleString()} people`;
   }
 
   if (year < 1878) {
