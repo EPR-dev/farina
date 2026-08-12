@@ -31,11 +31,6 @@ export default function ModeToggle({ mode, onChange }: ModeToggleProps) {
       >
         What if?
       </button>
-      {mode === "today" && (
-        <span className="mode-note today">
-          Farina Restoration Group — present day
-        </span>
-      )}
     </div>
   );
 }

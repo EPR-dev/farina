@@ -156,40 +156,44 @@ export default function Experience() {
             </div>
           </header>
 
-          <StoryCaption text={caption} speculative={speculative} />
+          <div
+            className={`hud-stack${isToday ? " today" : ""}${speculative ? " whatif" : ""}`}
+          >
+            {isToday && (
+              <div className="scenario-banner today" role="status">
+                Present day · Farina Restoration Group · geometry approximate ·
+                not a survey plan
+              </div>
+            )}
 
-          <div className="stat-chips">
-            {pop && (
-              <div className={`pop-chip ${speculative ? "speculative" : ""}`}>
-                {pop}
-              </div>
-            )}
-            {(year >= 1878 || isToday) && (
-              <div
-                className={`pop-chip ${speculative ? "speculative" : ""} ${isToday ? "today" : ""}`}
-              >
-                {structures}
-              </div>
-            )}
-            {mapStats && (
-              <div className="pop-chip" title="Live features drawn on the map">
-                {isToday
-                  ? `Map: ${mapStats.present} today · ${mapStats.buildings} ruins`
-                  : `Map: ${mapStats.buildings} hist${
-                      mapStats.alternate > 0
-                        ? ` · ${mapStats.alternate} alt`
-                        : ""
-                    }`}
-              </div>
-            )}
-          </div>
+            <StoryCaption text={caption} speculative={speculative} />
 
-          {isToday && (
-            <div className="scenario-banner today" role="status">
-              Present day — sourced from farinarestoration.com · geometry
-              approximate · not a survey plan
+            <div className="stat-chips">
+              {pop && (
+                <div className={`pop-chip ${speculative ? "speculative" : ""}`}>
+                  {pop}
+                </div>
+              )}
+              {(year >= 1878 || isToday) && (
+                <div
+                  className={`pop-chip ${speculative ? "speculative" : ""} ${isToday ? "today" : ""}`}
+                >
+                  {structures}
+                </div>
+              )}
+              {mapStats && (
+                <div className="pop-chip" title="Live features drawn on the map">
+                  {isToday
+                    ? `Map: ${mapStats.present} today · ${mapStats.buildings} ruins`
+                    : `Map: ${mapStats.buildings} hist${
+                        mapStats.alternate > 0
+                          ? ` · ${mapStats.alternate} alt`
+                          : ""
+                      }`}
+                </div>
+              )}
             </div>
-          )}
+          </div>
 
           <FeaturePanel
             feature={feature}
