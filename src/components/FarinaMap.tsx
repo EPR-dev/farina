@@ -77,7 +77,7 @@ export default function FarinaMap({
         zoom: INITIAL_CAMERA.zoom,
         pitch: INITIAL_CAMERA.pitch,
         bearing: INITIAL_CAMERA.bearing,
-        attributionControl: true,
+        attributionControl: {},
         interactive,
         maxPitch: 60,
       });

@@ -4,15 +4,16 @@
  * Always construct via the default export.
  */
 import maplibrePackage from "maplibre-gl";
-import type { Map as MapLibreMap, MapOptions } from "maplibre-gl";
+import type {
+  IControl,
+  Map as MapLibreMap,
+  MapOptions,
+  NavigationControlOptions,
+} from "maplibre-gl";
 
 type MaplibreNamespace = {
   Map: new (options: MapOptions) => MapLibreMap;
-  NavigationControl: new (options?: {
-    showCompass?: boolean;
-    showZoom?: boolean;
-    visualizePitch?: boolean;
-  }) => { onRemove: () => void };
+  NavigationControl: new (options?: NavigationControlOptions) => IControl;
 };
 
 const maplibregl = ((maplibrePackage as unknown as { default?: MaplibreNamespace })
@@ -29,11 +30,9 @@ export function createMap(options: MapOptions): MapLibreMap {
   return new maplibregl.Map(options);
 }
 
-export function createNavigationControl(options?: {
-  showCompass?: boolean;
-  showZoom?: boolean;
-  visualizePitch?: boolean;
-}) {
+export function createNavigationControl(
+  options?: NavigationControlOptions,
+): IControl {
   return new maplibregl.NavigationControl(options);
 }
 
