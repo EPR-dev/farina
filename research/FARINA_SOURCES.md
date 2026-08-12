@@ -141,9 +141,9 @@ Priority: P1 = required for MVP layers · P2 = strengthen next pass · P3 = futu
 | --- | --- |
 | **SOURCE** | SA Attorney-General’s Department — Statement of Acknowledgement; AIATSIS Map of Indigenous Australia; Arabana native title (Dodd v SA [2012]); Adnyamathanha / Kuyani secondary references |
 | **URLS** | https://www.agd.sa.gov.au/aboriginal-affairs-and-reconciliation/statement-of-acknowledgement-welcome-to-country · https://aiatsis.gov.au/explore/map-indigenous-australia · https://www.nativetitlesa.org/pbcs/arabana-aboriginal-corporation-rntbc/ |
-| **WHAT IT CONTAINS** | Guidance to use Native Title Vision for local Traditional Owner names; Arabana determination covers large area including Marree/Lake Eyre; Farina sits in a culturally complex zone near Kuyani / Adnyamathanha associations per secondary sources — **not treated as a determination boundary map in this app** |
+| **WHAT IT CONTAINS** | AIATSIS Map of Indigenous Australia places Farina on **Kuyani** Country; Kuyani (Guyani) are often identified within the contemporary Adnyamathanha grouping; Arabana native title (Dodd v SA [2012]) covers a large area including Marree / Lake Eyre to the north — neighbouring Country. On-screen acknowledgement names Kuyani as Traditional Owners of Farina and also acknowledges Adnyamathanha and Arabana peoples of the broader region. **Not treated as a determination boundary map in this app.** |
 | **USAGE RIGHTS** | Acknowledgement text only; no invented boundaries or cultural sites |
-| **DATA THAT CAN BE EXTRACTED** | Cautious on-screen acknowledgement; research note for future consultation |
+| **DATA THAT CAN BE EXTRACTED** | Named Country acknowledgement (Kuyani + neighbours); still seek formal community guidance for deeper cultural mapping |
 | **PRIORITY** | P1 (acknowledgement); P3 (formal Country mapping after consultation) |
 
 ---

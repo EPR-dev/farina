@@ -17,11 +17,11 @@ export default function IntroOverlay({ onBegin }: IntroOverlayProps) {
       <div className="intro-veil" />
       <div className="intro-content">
         <p className="intro-ack">
-          We acknowledge the Aboriginal peoples of the Farina region and their
-          continuing connection to Country. Traditional Owner associations for
-          this specific locality require verification through Native Title
-          resources and community guidance — this experience does not map
-          cultural boundaries.
+          We acknowledge that Farina is on Kuyani Country. We recognise the
+          Kuyani people as Traditional Owners and Custodians of this land, and
+          pay our respects to Elders past and present. We also acknowledge
+          neighbouring Adnyamathanha and Arabana peoples of this broader
+          region. This experience does not map cultural boundaries.
         </p>
         <h1>FARINA</h1>
         <h2>Being Made Again</h2>

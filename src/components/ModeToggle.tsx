@@ -5,14 +5,9 @@ import type { TimelineMode } from "@/types/farina";
 interface ModeToggleProps {
   mode: TimelineMode;
   onChange: (mode: TimelineMode) => void;
-  pastDivergence: boolean;
 }
 
-export default function ModeToggle({
-  mode,
-  onChange,
-  pastDivergence,
-}: ModeToggleProps) {
+export default function ModeToggle({ mode, onChange }: ModeToggleProps) {
   return (
     <div className="mode-toggle" role="group" aria-label="Map story mode">
       <button
@@ -36,9 +31,6 @@ export default function ModeToggle({
       >
         What if?
       </button>
-      {mode === "whatIf" && pastDivergence && (
-        <span className="mode-note">Counterfactual scenario</span>
-      )}
       {mode === "today" && (
         <span className="mode-note today">
           Farina Restoration Group — present day

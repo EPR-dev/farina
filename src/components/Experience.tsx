@@ -77,7 +77,6 @@ export default function Experience() {
   const structures = isToday
     ? `${presentData.features.length} FRG / present sites`
     : structuresLabel(structureCount, mode);
-  const denseScenario = speculative && year >= 1910;
 
   const handleModeChange = (next: TimelineMode) => {
     setMode(next);
@@ -121,11 +120,7 @@ export default function Experience() {
               <span className="brand-title">Farina</span>
               <span className="brand-sub">Being Made Again</span>
             </div>
-            <ModeToggle
-              mode={mode}
-              onChange={handleModeChange}
-              pastDivergence={year >= DIVERGENCE_YEAR}
-            />
+            <ModeToggle mode={mode} onChange={handleModeChange} />
             <div className="top-actions">
               {!isToday && (
                 <button
@@ -188,17 +183,6 @@ export default function Experience() {
               </div>
             )}
           </div>
-
-          {speculative && (
-            <div
-              className={`scenario-banner ${denseScenario ? "dense" : ""}`}
-              role="status"
-            >
-              {denseScenario
-                ? "Counterfactual scenario — illustrative reconstruction of continued regional development"
-                : "Speculative scenario based on continued regional development"}
-            </div>
-          )}
 
           {isToday && (
             <div className="scenario-banner today" role="status">
