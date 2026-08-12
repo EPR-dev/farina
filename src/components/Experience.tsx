@@ -119,7 +119,7 @@ export default function Experience() {
           <header className="top-bar">
             <div className="brand">
               <span className="brand-title">Farina</span>
-              <span className="brand-sub">The City That Never Was</span>
+              <span className="brand-sub">Being Made Again</span>
             </div>
             <ModeToggle
               mode={mode}

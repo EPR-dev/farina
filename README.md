@@ -1,4 +1,4 @@
-# Farina — The City That Never Was
+# Farina — Being Made Again
 
 Full-screen interactive historical map exploring Farina, South Australia:
 

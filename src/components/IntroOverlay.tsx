@@ -24,10 +24,11 @@ export default function IntroOverlay({ onBegin }: IntroOverlayProps) {
           cultural boundaries.
         </p>
         <h1>FARINA</h1>
-        <h2>The City That Never Was</h2>
+        <h2>Being Made Again</h2>
         <p className="intro-years">1878 → 2026</p>
         <p className="intro-tag">
-          Explore the town that was built for a future that never arrived.
+          It never became the city it was promised — but people are working hard
+          to make it something again.
         </p>
         <button type="button" className="begin-btn" onClick={onBegin}>
           Begin

@@ -1,6 +1,6 @@
 # Farina Sources Research Notes
 
-Compiled for MVP: *Farina, The City That Never Was*.  
+Compiled for MVP: *Farina — Being Made Again*.  
 Priority: P1 = required for MVP layers · P2 = strengthen next pass · P3 = future enrichment.
 
 ---
