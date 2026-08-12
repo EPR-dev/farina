@@ -1,0 +1,197 @@
+{
+  "personsPerDwelling": 2.6,
+  "notes": "Actual series uses archival/secondary estimates. Scenario series is illustrative reconstruction only — always label as Scenario population.",
+  "actual": [
+    {
+      "year": 1870,
+      "value": 10,
+      "confidence": "approximate",
+      "sourceIds": ["source_frg_navigating"],
+      "note": "Pre-survey pastoral/wells era — sparse European presence"
+    },
+    {
+      "year": 1878,
+      "value": 50,
+      "confidence": "approximate",
+      "sourceIds": ["source_frg_history", "source_frg_navigating"],
+      "note": "Town proclaimed; early settlement"
+    },
+    {
+      "year": 1880,
+      "value": 100,
+      "confidence": "approximate",
+      "sourceIds": ["source_frg_history"],
+      "note": "Settlement underway before railhead"
+    },
+    {
+      "year": 1882,
+      "value": 250,
+      "confidence": "approximate",
+      "sourceIds": ["source_frg_history"],
+      "note": "Railhead boom begins (22 May 1882)"
+    },
+    {
+      "year": 1884,
+      "value": 400,
+      "confidence": "approximate",
+      "sourceIds": ["source_frg_history"],
+      "note": "Peak railhead years; line extends north to Marree"
+    },
+    {
+      "year": 1890,
+      "value": 600,
+      "confidence": "approximate",
+      "sourceIds": ["source_frg_history"],
+      "note": "FRG / secondary sources peak estimate (~600)"
+    },
+    {
+      "year": 1900,
+      "value": 450,
+      "confidence": "approximate",
+      "sourceIds": ["source_frg_history"],
+      "note": "Post-railhead decline underway; drought pressure"
+    },
+    {
+      "year": 1910,
+      "value": 380,
+      "confidence": "approximate",
+      "sourceIds": ["source_frg_history"],
+      "note": "Gradual thinning of permanent population"
+    },
+    {
+      "year": 1920,
+      "value": 320,
+      "confidence": "approximate",
+      "sourceIds": ["source_frg_history"],
+      "note": "Still a livestock transport point but smaller town"
+    },
+    {
+      "year": 1927,
+      "value": 280,
+      "confidence": "approximate",
+      "sourceIds": ["source_frg_history"],
+      "note": "Nearby copper/silver mining closing era"
+    },
+    {
+      "year": 1930,
+      "value": 220,
+      "confidence": "approximate",
+      "sourceIds": ["source_frg_history"],
+      "note": "Depression-era decline"
+    },
+    {
+      "year": 1950,
+      "value": 120,
+      "confidence": "approximate",
+      "sourceIds": ["source_frg_town_guide"],
+      "note": "Services consolidating elsewhere (e.g. Leigh Creek)"
+    },
+    {
+      "year": 1957,
+      "value": 80,
+      "confidence": "approximate",
+      "sourceIds": ["source_frg_history"],
+      "note": "School closes 1957; standard gauge arrives but town does not revive"
+    },
+    {
+      "year": 1960,
+      "value": 40,
+      "confidence": "approximate",
+      "sourceIds": ["source_frg_town_guide", "source_frg_history"],
+      "note": "Post office closes 1960; cemetery last used ~1960"
+    },
+    {
+      "year": 1980,
+      "value": 5,
+      "confidence": "approximate",
+      "sourceIds": ["source_frg_history"],
+      "note": "Effective abandonment of permanent town population"
+    },
+    {
+      "year": 2006,
+      "value": 55,
+      "confidence": "documented",
+      "sourceIds": ["source_abs_farina"],
+      "note": "ABS census for broader Farina locality (not town proper)"
+    },
+    {
+      "year": 2021,
+      "value": 15,
+      "confidence": "documented",
+      "sourceIds": ["source_abs_farina"],
+      "note": "ABS 2021 State Suburb of Farina (includes surrounds)"
+    },
+    {
+      "year": 2026,
+      "value": 15,
+      "confidence": "approximate",
+      "sourceIds": ["source_abs_farina"],
+      "note": "Held near recent locality census; ghost town + station/camp visitors not counted as town population"
+    }
+  ],
+  "scenario": [
+    {
+      "year": 1884,
+      "value": 450,
+      "label": "Scenario population",
+      "reasoning": "Shared history at divergence; then retains regional transport role"
+    },
+    {
+      "year": 1890,
+      "value": 700,
+      "label": "Scenario population",
+      "reasoning": "Continues growing past historical peak as depot/service centre"
+    },
+    {
+      "year": 1900,
+      "value": 950,
+      "label": "Scenario population"
+    },
+    {
+      "year": 1910,
+      "value": 1200,
+      "label": "Scenario population",
+      "reasoning": "Modest inland transport and agricultural service centre"
+    },
+    {
+      "year": 1930,
+      "value": 1800,
+      "label": "Scenario population",
+      "reasoning": "Established regional town — still far below capital-city scale"
+    },
+    {
+      "year": 1950,
+      "value": 2300,
+      "label": "Scenario population",
+      "reasoning": "Post-war consolidation with clinic, sealed approach roads"
+    },
+    {
+      "year": 1957,
+      "value": 2400,
+      "label": "Scenario population"
+    },
+    {
+      "year": 1960,
+      "value": 2450,
+      "label": "Scenario population"
+    },
+    {
+      "year": 1980,
+      "value": 2700,
+      "label": "Scenario population",
+      "reasoning": "Small regional centre; comparable logic to Quorn-plus with retained services"
+    },
+    {
+      "year": 2000,
+      "value": 2850,
+      "label": "Scenario population"
+    },
+    {
+      "year": 2026,
+      "value": 3000,
+      "label": "Scenario population",
+      "reasoning": "Quorn-plus service town if rail/depot/ag services retained; bounded below ambitious hub fantasy",
+      "sourceIds": ["comparison_inland_sa"]
+    }
+  ]
+}

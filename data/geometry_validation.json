@@ -1,0 +1,103 @@
+{
+  "checkedAt": "2026-08-12T05:31:44.757Z",
+  "crs": "EPSG:4326",
+  "finding": "Placeholder town fabric was ~800–900 m south of OpenStreetMap-mapped Farina ruins. Wikipedia/gazetteer point (−30.075131, 138.276011) is not the ruin street centroid.",
+  "sources": [
+    {
+      "id": "osm",
+      "title": "OpenStreetMap Farina historic features",
+      "url": "https://www.openstreetmap.org/#map=17/-30.0664/138.2766",
+      "role": "Primary geometry control for ruins, bakery, streets, campground, railway precinct"
+    },
+    {
+      "id": "nominatim",
+      "title": "Nominatim — Farina Station Campground / Transcontinental Hotel",
+      "url": "https://nominatim.openstreetmap.org/",
+      "role": "Cross-check place centroids"
+    },
+    {
+      "id": "exploroz",
+      "title": "ExplorOz Farina Campground",
+      "url": "https://www.exploroz.com/places/98830/sa+farina-campground",
+      "role": "Campground DEG −30.062469, 138.273491"
+    },
+    {
+      "id": "wikipedia",
+      "title": "Farina, South Australia coordinates",
+      "url": "https://en.wikipedia.org/wiki/Farina,_South_Australia",
+      "role": "Locality point — rejected as town-fabric anchor (offset south)"
+    },
+    {
+      "id": "frg",
+      "title": "Farina Restoration Group site notes",
+      "url": "https://farinarestoration.com/",
+      "role": "Relative layout (Twelfth Street, bakery opposite hotel, cemetery west of camp)"
+    }
+  ],
+  "controlPairs": [
+    {
+      "id": "transcontinental",
+      "old": [
+        138.2756,
+        -30.07485
+      ],
+      "osm": [
+        138.277253,
+        -30.0674996
+      ]
+    },
+    {
+      "id": "bakery",
+      "old": [
+        138.27595,
+        -30.07515
+      ],
+      "osm": [
+        138.2765714,
+        -30.0673448
+      ]
+    },
+    {
+      "id": "exchange",
+      "old": [
+        138.2752,
+        -30.07455
+      ],
+      "osm": [
+        138.2765622,
+        -30.0656167
+      ]
+    },
+    {
+      "id": "postOffice",
+      "old": [
+        138.27565,
+        -30.07515
+      ],
+      "osm": [
+        138.2772821,
+        -30.0660112
+      ]
+    },
+    {
+      "id": "moffatt",
+      "old": [
+        138.27575,
+        -30.0741
+      ],
+      "osm": [
+        138.2758388,
+        -30.0660478
+      ]
+    }
+  ],
+  "meanShiftDegrees": {
+    "dLon": 0.0010715000000004692,
+    "dLat": 0.008255980000000562
+  },
+  "newTownCenter": [
+    138.2766492,
+    -30.0664189
+  ],
+  "residualNote": "Snapped landmarks match OSM centroids; approximate dwellings/parcels/alternate stock are rigidly translated and remain illustrative until cadastral georeference."
+}

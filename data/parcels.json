@@ -1,0 +1,2223 @@
+{
+  "type": "FeatureCollection",
+  "name": "farina_parcels_placeholder",
+  "properties": {
+    "placeholder": true,
+    "notes": "Temporary 48-lot subset of 432 surveyed allotments. Replace with digitised survey plan. Do not equate title activity with occupancy.",
+    "alignment": {
+      "dLon": 0.0010715000000004692,
+      "dLat": 0.008255980000000562,
+      "method": "mean_translate_to_osm_frame"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "parcel_001",
+        "lot_number": "1",
+        "name": "Allotment 1",
+        "type": "parcel",
+        "startYear": 1878,
+        "activityFrom": 1878,
+        "activityTo": 1920,
+        "endYear": 9999,
+        "confidence": "approximate",
+        "placeholder": true,
+        "note": "Placeholder lot — not equated with physical occupancy",
+        "sourceIds": [
+          "source_frg_land_titles"
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.2750715,
+              -30.06774402
+            ],
+            [
+              138.2755775,
+              -30.06774402
+            ],
+            [
+              138.2755775,
+              -30.06743602
+            ],
+            [
+              138.2750715,
+              -30.06743602
+            ],
+            [
+              138.2750715,
+              -30.06774402
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "parcel_002",
+        "lot_number": "2",
+        "name": "Allotment 2",
+        "type": "parcel",
+        "startYear": 1878,
+        "activityFrom": 1880,
+        "activityTo": 1928,
+        "endYear": 9999,
+        "confidence": "approximate",
+        "placeholder": true,
+        "note": "Placeholder lot — not equated with physical occupancy",
+        "sourceIds": [
+          "source_frg_land_titles"
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.2756215,
+              -30.06774402
+            ],
+            [
+              138.2761275,
+              -30.06774402
+            ],
+            [
+              138.2761275,
+              -30.06743602
+            ],
+            [
+              138.2756215,
+              -30.06743602
+            ],
+            [
+              138.2756215,
+              -30.06774402
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "parcel_003",
+        "lot_number": "3",
+        "name": "Allotment 3",
+        "type": "parcel",
+        "startYear": 1878,
+        "activityFrom": 1882,
+        "activityTo": 1936,
+        "endYear": 9999,
+        "confidence": "approximate",
+        "placeholder": true,
+        "note": "Placeholder lot — not equated with physical occupancy",
+        "sourceIds": [
+          "source_frg_land_titles"
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.2761715,
+              -30.06774402
+            ],
+            [
+              138.2766775,
+              -30.06774402
+            ],
+            [
+              138.2766775,
+              -30.06743602
+            ],
+            [
+              138.2761715,
+              -30.06743602
+            ],
+            [
+              138.2761715,
+              -30.06774402
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "parcel_004",
+        "lot_number": "4",
+        "name": "Allotment 4",
+        "type": "parcel",
+        "startYear": 1878,
+        "activityFrom": 1884,
+        "activityTo": 1944,
+        "endYear": 9999,
+        "confidence": "approximate",
+        "placeholder": true,
+        "note": "Placeholder lot — not equated with physical occupancy",
+        "sourceIds": [
+          "source_frg_land_titles"
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.2767215,
+              -30.06774402
+            ],
+            [
+              138.2772275,
+              -30.06774402
+            ],
+            [
+              138.2772275,
+              -30.06743602
+            ],
+            [
+              138.2767215,
+              -30.06743602
+            ],
+            [
+              138.2767215,
+              -30.06774402
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "parcel_005",
+        "lot_number": "5",
+        "name": "Allotment 5",
+        "type": "parcel",
+        "startYear": 1878,
+        "activityFrom": 1886,
+        "activityTo": 1952,
+        "endYear": 9999,
+        "confidence": "approximate",
+        "placeholder": true,
+        "note": "Placeholder lot — not equated with physical occupancy",
+        "sourceIds": [
+          "source_frg_land_titles"
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.27727149999998,
+              -30.06774402
+            ],
+            [
+              138.27777749999998,
+              -30.06774402
+            ],
+            [
+              138.27777749999998,
+              -30.06743602
+            ],
+            [
+              138.27727149999998,
+              -30.06743602
+            ],
+            [
+              138.27727149999998,
+              -30.06774402
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "parcel_006",
+        "lot_number": "6",
+        "name": "Allotment 6",
+        "type": "parcel",
+        "startYear": 1878,
+        "activityFrom": 1878,
+        "activityTo": 1960,
+        "endYear": 9999,
+        "confidence": "approximate",
+        "placeholder": true,
+        "note": "Placeholder lot — not equated with physical occupancy",
+        "sourceIds": [
+          "source_frg_land_titles"
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.2778215,
+              -30.06774402
+            ],
+            [
+              138.2783275,
+              -30.06774402
+            ],
+            [
+              138.2783275,
+              -30.06743602
+            ],
+            [
+              138.2778215,
+              -30.06743602
+            ],
+            [
+              138.2778215,
+              -30.06774402
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "parcel_007",
+        "lot_number": "7",
+        "name": "Allotment 7",
+        "type": "parcel",
+        "startYear": 1878,
+        "activityFrom": 1880,
+        "activityTo": 1920,
+        "endYear": 9999,
+        "confidence": "approximate",
+        "placeholder": true,
+        "note": "Placeholder lot — not equated with physical occupancy",
+        "sourceIds": [
+          "source_frg_land_titles"
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.2783715,
+              -30.06774402
+            ],
+            [
+              138.2788775,
+              -30.06774402
+            ],
+            [
+              138.2788775,
+              -30.06743602
+            ],
+            [
+              138.2783715,
+              -30.06743602
+            ],
+            [
+              138.2783715,
+              -30.06774402
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "parcel_008",
+        "lot_number": "8",
+        "name": "Allotment 8",
+        "type": "parcel",
+        "startYear": 1878,
+        "activityFrom": 1882,
+        "activityTo": 1928,
+        "endYear": 9999,
+        "confidence": "approximate",
+        "placeholder": true,
+        "note": "Placeholder lot — not equated with physical occupancy",
+        "sourceIds": [
+          "source_frg_land_titles"
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.2789215,
+              -30.06774402
+            ],
+            [
+              138.2794275,
+              -30.06774402
+            ],
+            [
+              138.2794275,
+              -30.06743602
+            ],
+            [
+              138.2789215,
+              -30.06743602
+            ],
+            [
+              138.2789215,
+              -30.06774402
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "parcel_009",
+        "lot_number": "9",
+        "name": "Allotment 9",
+        "type": "parcel",
+        "startYear": 1878,
+        "activityFrom": 1884,
+        "activityTo": 1928,
+        "endYear": 9999,
+        "confidence": "approximate",
+        "placeholder": true,
+        "note": "Placeholder lot — not equated with physical occupancy",
+        "sourceIds": [
+          "source_frg_land_titles"
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.2750715,
+              -30.06739402
+            ],
+            [
+              138.2755775,
+              -30.06739402
+            ],
+            [
+              138.2755775,
+              -30.067086019999998
+            ],
+            [
+              138.2750715,
+              -30.067086019999998
+            ],
+            [
+              138.2750715,
+              -30.06739402
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "parcel_010",
+        "lot_number": "10",
+        "name": "Allotment 10",
+        "type": "parcel",
+        "startYear": 1878,
+        "activityFrom": 1886,
+        "activityTo": 1936,
+        "endYear": 9999,
+        "confidence": "approximate",
+        "placeholder": true,
+        "note": "Placeholder lot — not equated with physical occupancy",
+        "sourceIds": [
+          "source_frg_land_titles"
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.2756215,
+              -30.06739402
+            ],
+            [
+              138.2761275,
+              -30.06739402
+            ],
+            [
+              138.2761275,
+              -30.067086019999998
+            ],
+            [
+              138.2756215,
+              -30.067086019999998
+            ],
+            [
+              138.2756215,
+              -30.06739402
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "parcel_011",
+        "lot_number": "11",
+        "name": "Allotment 11",
+        "type": "parcel",
+        "startYear": 1878,
+        "activityFrom": 1878,
+        "activityTo": 1944,
+        "endYear": 9999,
+        "confidence": "approximate",
+        "placeholder": true,
+        "note": "Placeholder lot — not equated with physical occupancy",
+        "sourceIds": [
+          "source_frg_land_titles"
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.2761715,
+              -30.06739402
+            ],
+            [
+              138.2766775,
+              -30.06739402
+            ],
+            [
+              138.2766775,
+              -30.067086019999998
+            ],
+            [
+              138.2761715,
+              -30.067086019999998
+            ],
+            [
+              138.2761715,
+              -30.06739402
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "parcel_012",
+        "lot_number": "12",
+        "name": "Allotment 12",
+        "type": "parcel",
+        "startYear": 1878,
+        "activityFrom": 1880,
+        "activityTo": 1952,
+        "endYear": 9999,
+        "confidence": "approximate",
+        "placeholder": true,
+        "note": "Placeholder lot — not equated with physical occupancy",
+        "sourceIds": [
+          "source_frg_land_titles"
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.2767215,
+              -30.06739402
+            ],
+            [
+              138.2772275,
+              -30.06739402
+            ],
+            [
+              138.2772275,
+              -30.067086019999998
+            ],
+            [
+              138.2767215,
+              -30.067086019999998
+            ],
+            [
+              138.2767215,
+              -30.06739402
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "parcel_013",
+        "lot_number": "13",
+        "name": "Allotment 13",
+        "type": "parcel",
+        "startYear": 1878,
+        "activityFrom": 1882,
+        "activityTo": 1960,
+        "endYear": 9999,
+        "confidence": "approximate",
+        "placeholder": true,
+        "note": "Placeholder lot — not equated with physical occupancy",
+        "sourceIds": [
+          "source_frg_land_titles"
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.27727149999998,
+              -30.06739402
+            ],
+            [
+              138.27777749999998,
+              -30.06739402
+            ],
+            [
+              138.27777749999998,
+              -30.067086019999998
+            ],
+            [
+              138.27727149999998,
+              -30.067086019999998
+            ],
+            [
+              138.27727149999998,
+              -30.06739402
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "parcel_014",
+        "lot_number": "14",
+        "name": "Allotment 14",
+        "type": "parcel",
+        "startYear": 1878,
+        "activityFrom": 1884,
+        "activityTo": 1920,
+        "endYear": 9999,
+        "confidence": "approximate",
+        "placeholder": true,
+        "note": "Placeholder lot — not equated with physical occupancy",
+        "sourceIds": [
+          "source_frg_land_titles"
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.2778215,
+              -30.06739402
+            ],
+            [
+              138.2783275,
+              -30.06739402
+            ],
+            [
+              138.2783275,
+              -30.067086019999998
+            ],
+            [
+              138.2778215,
+              -30.067086019999998
+            ],
+            [
+              138.2778215,
+              -30.06739402
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "parcel_015",
+        "lot_number": "15",
+        "name": "Allotment 15",
+        "type": "parcel",
+        "startYear": 1878,
+        "activityFrom": 1886,
+        "activityTo": 1928,
+        "endYear": 9999,
+        "confidence": "approximate",
+        "placeholder": true,
+        "note": "Placeholder lot — not equated with physical occupancy",
+        "sourceIds": [
+          "source_frg_land_titles"
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.2783715,
+              -30.06739402
+            ],
+            [
+              138.2788775,
+              -30.06739402
+            ],
+            [
+              138.2788775,
+              -30.067086019999998
+            ],
+            [
+              138.2783715,
+              -30.067086019999998
+            ],
+            [
+              138.2783715,
+              -30.06739402
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "parcel_016",
+        "lot_number": "16",
+        "name": "Allotment 16",
+        "type": "parcel",
+        "startYear": 1878,
+        "activityFrom": 1878,
+        "activityTo": 1936,
+        "endYear": 9999,
+        "confidence": "approximate",
+        "placeholder": true,
+        "note": "Placeholder lot — not equated with physical occupancy",
+        "sourceIds": [
+          "source_frg_land_titles"
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.2789215,
+              -30.06739402
+            ],
+            [
+              138.2794275,
+              -30.06739402
+            ],
+            [
+              138.2794275,
+              -30.067086019999998
+            ],
+            [
+              138.2789215,
+              -30.067086019999998
+            ],
+            [
+              138.2789215,
+              -30.06739402
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "parcel_017",
+        "lot_number": "17",
+        "name": "Allotment 17",
+        "type": "parcel",
+        "startYear": 1878,
+        "activityFrom": 1880,
+        "activityTo": 1936,
+        "endYear": 9999,
+        "confidence": "approximate",
+        "placeholder": true,
+        "note": "Placeholder lot — not equated with physical occupancy",
+        "sourceIds": [
+          "source_frg_land_titles"
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.2750715,
+              -30.06704402
+            ],
+            [
+              138.2755775,
+              -30.06704402
+            ],
+            [
+              138.2755775,
+              -30.06673602
+            ],
+            [
+              138.2750715,
+              -30.06673602
+            ],
+            [
+              138.2750715,
+              -30.06704402
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "parcel_018",
+        "lot_number": "18",
+        "name": "Allotment 18",
+        "type": "parcel",
+        "startYear": 1878,
+        "activityFrom": 1882,
+        "activityTo": 1944,
+        "endYear": 9999,
+        "confidence": "approximate",
+        "placeholder": true,
+        "note": "Placeholder lot — not equated with physical occupancy",
+        "sourceIds": [
+          "source_frg_land_titles"
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.2756215,
+              -30.06704402
+            ],
+            [
+              138.2761275,
+              -30.06704402
+            ],
+            [
+              138.2761275,
+              -30.06673602
+            ],
+            [
+              138.2756215,
+              -30.06673602
+            ],
+            [
+              138.2756215,
+              -30.06704402
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "parcel_019",
+        "lot_number": "19",
+        "name": "Allotment 19",
+        "type": "parcel",
+        "startYear": 1878,
+        "activityFrom": 1884,
+        "activityTo": 1952,
+        "endYear": 9999,
+        "confidence": "approximate",
+        "placeholder": true,
+        "note": "Placeholder lot — not equated with physical occupancy",
+        "sourceIds": [
+          "source_frg_land_titles"
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.2761715,
+              -30.06704402
+            ],
+            [
+              138.2766775,
+              -30.06704402
+            ],
+            [
+              138.2766775,
+              -30.06673602
+            ],
+            [
+              138.2761715,
+              -30.06673602
+            ],
+            [
+              138.2761715,
+              -30.06704402
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "parcel_020",
+        "lot_number": "20",
+        "name": "Allotment 20",
+        "type": "parcel",
+        "startYear": 1878,
+        "activityFrom": 1886,
+        "activityTo": 1960,
+        "endYear": 9999,
+        "confidence": "approximate",
+        "placeholder": true,
+        "note": "Placeholder lot — not equated with physical occupancy",
+        "sourceIds": [
+          "source_frg_land_titles"
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.2767215,
+              -30.06704402
+            ],
+            [
+              138.2772275,
+              -30.06704402
+            ],
+            [
+              138.2772275,
+              -30.06673602
+            ],
+            [
+              138.2767215,
+              -30.06673602
+            ],
+            [
+              138.2767215,
+              -30.06704402
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "parcel_021",
+        "lot_number": "21",
+        "name": "Allotment 21",
+        "type": "parcel",
+        "startYear": 1878,
+        "activityFrom": 1878,
+        "activityTo": 1920,
+        "endYear": 9999,
+        "confidence": "approximate",
+        "placeholder": true,
+        "note": "Placeholder lot — not equated with physical occupancy",
+        "sourceIds": [
+          "source_frg_land_titles"
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.27727149999998,
+              -30.06704402
+            ],
+            [
+              138.27777749999998,
+              -30.06704402
+            ],
+            [
+              138.27777749999998,
+              -30.06673602
+            ],
+            [
+              138.27727149999998,
+              -30.06673602
+            ],
+            [
+              138.27727149999998,
+              -30.06704402
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "parcel_022",
+        "lot_number": "22",
+        "name": "Allotment 22",
+        "type": "parcel",
+        "startYear": 1878,
+        "activityFrom": 1880,
+        "activityTo": 1928,
+        "endYear": 9999,
+        "confidence": "approximate",
+        "placeholder": true,
+        "note": "Placeholder lot — not equated with physical occupancy",
+        "sourceIds": [
+          "source_frg_land_titles"
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.2778215,
+              -30.06704402
+            ],
+            [
+              138.2783275,
+              -30.06704402
+            ],
+            [
+              138.2783275,
+              -30.06673602
+            ],
+            [
+              138.2778215,
+              -30.06673602
+            ],
+            [
+              138.2778215,
+              -30.06704402
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "parcel_023",
+        "lot_number": "23",
+        "name": "Allotment 23",
+        "type": "parcel",
+        "startYear": 1878,
+        "activityFrom": 1882,
+        "activityTo": 1936,
+        "endYear": 9999,
+        "confidence": "approximate",
+        "placeholder": true,
+        "note": "Placeholder lot — not equated with physical occupancy",
+        "sourceIds": [
+          "source_frg_land_titles"
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.2783715,
+              -30.06704402
+            ],
+            [
+              138.2788775,
+              -30.06704402
+            ],
+            [
+              138.2788775,
+              -30.06673602
+            ],
+            [
+              138.2783715,
+              -30.06673602
+            ],
+            [
+              138.2783715,
+              -30.06704402
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "parcel_024",
+        "lot_number": "24",
+        "name": "Allotment 24",
+        "type": "parcel",
+        "startYear": 1878,
+        "activityFrom": 1884,
+        "activityTo": 1944,
+        "endYear": 9999,
+        "confidence": "approximate",
+        "placeholder": true,
+        "note": "Placeholder lot — not equated with physical occupancy",
+        "sourceIds": [
+          "source_frg_land_titles"
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.2789215,
+              -30.06704402
+            ],
+            [
+              138.2794275,
+              -30.06704402
+            ],
+            [
+              138.2794275,
+              -30.06673602
+            ],
+            [
+              138.2789215,
+              -30.06673602
+            ],
+            [
+              138.2789215,
+              -30.06704402
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "parcel_025",
+        "lot_number": "25",
+        "name": "Allotment 25",
+        "type": "parcel",
+        "startYear": 1878,
+        "activityFrom": 1886,
+        "activityTo": 1944,
+        "endYear": 9999,
+        "confidence": "approximate",
+        "placeholder": true,
+        "note": "Placeholder lot — not equated with physical occupancy",
+        "sourceIds": [
+          "source_frg_land_titles"
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.2750715,
+              -30.06669402
+            ],
+            [
+              138.2755775,
+              -30.06669402
+            ],
+            [
+              138.2755775,
+              -30.06638602
+            ],
+            [
+              138.2750715,
+              -30.06638602
+            ],
+            [
+              138.2750715,
+              -30.06669402
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "parcel_026",
+        "lot_number": "26",
+        "name": "Allotment 26",
+        "type": "parcel",
+        "startYear": 1878,
+        "activityFrom": 1878,
+        "activityTo": 1952,
+        "endYear": 9999,
+        "confidence": "approximate",
+        "placeholder": true,
+        "note": "Placeholder lot — not equated with physical occupancy",
+        "sourceIds": [
+          "source_frg_land_titles"
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.2756215,
+              -30.06669402
+            ],
+            [
+              138.2761275,
+              -30.06669402
+            ],
+            [
+              138.2761275,
+              -30.06638602
+            ],
+            [
+              138.2756215,
+              -30.06638602
+            ],
+            [
+              138.2756215,
+              -30.06669402
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "parcel_027",
+        "lot_number": "27",
+        "name": "Allotment 27",
+        "type": "parcel",
+        "startYear": 1878,
+        "activityFrom": 1880,
+        "activityTo": 1960,
+        "endYear": 9999,
+        "confidence": "approximate",
+        "placeholder": true,
+        "note": "Placeholder lot — not equated with physical occupancy",
+        "sourceIds": [
+          "source_frg_land_titles"
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.2761715,
+              -30.06669402
+            ],
+            [
+              138.2766775,
+              -30.06669402
+            ],
+            [
+              138.2766775,
+              -30.06638602
+            ],
+            [
+              138.2761715,
+              -30.06638602
+            ],
+            [
+              138.2761715,
+              -30.06669402
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "parcel_028",
+        "lot_number": "28",
+        "name": "Allotment 28",
+        "type": "parcel",
+        "startYear": 1878,
+        "activityFrom": 1882,
+        "activityTo": 1920,
+        "endYear": 9999,
+        "confidence": "approximate",
+        "placeholder": true,
+        "note": "Placeholder lot — not equated with physical occupancy",
+        "sourceIds": [
+          "source_frg_land_titles"
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.2767215,
+              -30.06669402
+            ],
+            [
+              138.2772275,
+              -30.06669402
+            ],
+            [
+              138.2772275,
+              -30.06638602
+            ],
+            [
+              138.2767215,
+              -30.06638602
+            ],
+            [
+              138.2767215,
+              -30.06669402
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "parcel_029",
+        "lot_number": "29",
+        "name": "Allotment 29",
+        "type": "parcel",
+        "startYear": 1878,
+        "activityFrom": 1884,
+        "activityTo": 1928,
+        "endYear": 9999,
+        "confidence": "approximate",
+        "placeholder": true,
+        "note": "Placeholder lot — not equated with physical occupancy",
+        "sourceIds": [
+          "source_frg_land_titles"
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.27727149999998,
+              -30.06669402
+            ],
+            [
+              138.27777749999998,
+              -30.06669402
+            ],
+            [
+              138.27777749999998,
+              -30.06638602
+            ],
+            [
+              138.27727149999998,
+              -30.06638602
+            ],
+            [
+              138.27727149999998,
+              -30.06669402
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "parcel_030",
+        "lot_number": "30",
+        "name": "Allotment 30",
+        "type": "parcel",
+        "startYear": 1878,
+        "activityFrom": 1886,
+        "activityTo": 1936,
+        "endYear": 9999,
+        "confidence": "approximate",
+        "placeholder": true,
+        "note": "Placeholder lot — not equated with physical occupancy",
+        "sourceIds": [
+          "source_frg_land_titles"
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.2778215,
+              -30.06669402
+            ],
+            [
+              138.2783275,
+              -30.06669402
+            ],
+            [
+              138.2783275,
+              -30.06638602
+            ],
+            [
+              138.2778215,
+              -30.06638602
+            ],
+            [
+              138.2778215,
+              -30.06669402
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "parcel_031",
+        "lot_number": "31",
+        "name": "Allotment 31",
+        "type": "parcel",
+        "startYear": 1878,
+        "activityFrom": 1878,
+        "activityTo": 1944,
+        "endYear": 9999,
+        "confidence": "approximate",
+        "placeholder": true,
+        "note": "Placeholder lot — not equated with physical occupancy",
+        "sourceIds": [
+          "source_frg_land_titles"
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.2783715,
+              -30.06669402
+            ],
+            [
+              138.2788775,
+              -30.06669402
+            ],
+            [
+              138.2788775,
+              -30.06638602
+            ],
+            [
+              138.2783715,
+              -30.06638602
+            ],
+            [
+              138.2783715,
+              -30.06669402
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "parcel_032",
+        "lot_number": "32",
+        "name": "Allotment 32",
+        "type": "parcel",
+        "startYear": 1878,
+        "activityFrom": 1880,
+        "activityTo": 1952,
+        "endYear": 9999,
+        "confidence": "approximate",
+        "placeholder": true,
+        "note": "Placeholder lot — not equated with physical occupancy",
+        "sourceIds": [
+          "source_frg_land_titles"
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.2789215,
+              -30.06669402
+            ],
+            [
+              138.2794275,
+              -30.06669402
+            ],
+            [
+              138.2794275,
+              -30.06638602
+            ],
+            [
+              138.2789215,
+              -30.06638602
+            ],
+            [
+              138.2789215,
+              -30.06669402
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "parcel_033",
+        "lot_number": "33",
+        "name": "Allotment 33",
+        "type": "parcel",
+        "startYear": 1878,
+        "activityFrom": 1882,
+        "activityTo": 1952,
+        "endYear": 9999,
+        "confidence": "approximate",
+        "placeholder": true,
+        "note": "Placeholder lot — not equated with physical occupancy",
+        "sourceIds": [
+          "source_frg_land_titles"
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.2750715,
+              -30.06634402
+            ],
+            [
+              138.2755775,
+              -30.06634402
+            ],
+            [
+              138.2755775,
+              -30.06603602
+            ],
+            [
+              138.2750715,
+              -30.06603602
+            ],
+            [
+              138.2750715,
+              -30.06634402
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "parcel_034",
+        "lot_number": "34",
+        "name": "Allotment 34",
+        "type": "parcel",
+        "startYear": 1878,
+        "activityFrom": 1884,
+        "activityTo": 1960,
+        "endYear": 9999,
+        "confidence": "approximate",
+        "placeholder": true,
+        "note": "Placeholder lot — not equated with physical occupancy",
+        "sourceIds": [
+          "source_frg_land_titles"
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.2756215,
+              -30.06634402
+            ],
+            [
+              138.2761275,
+              -30.06634402
+            ],
+            [
+              138.2761275,
+              -30.06603602
+            ],
+            [
+              138.2756215,
+              -30.06603602
+            ],
+            [
+              138.2756215,
+              -30.06634402
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "parcel_035",
+        "lot_number": "35",
+        "name": "Allotment 35",
+        "type": "parcel",
+        "startYear": 1878,
+        "activityFrom": 1886,
+        "activityTo": 1920,
+        "endYear": 9999,
+        "confidence": "approximate",
+        "placeholder": true,
+        "note": "Placeholder lot — not equated with physical occupancy",
+        "sourceIds": [
+          "source_frg_land_titles"
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.2761715,
+              -30.06634402
+            ],
+            [
+              138.2766775,
+              -30.06634402
+            ],
+            [
+              138.2766775,
+              -30.06603602
+            ],
+            [
+              138.2761715,
+              -30.06603602
+            ],
+            [
+              138.2761715,
+              -30.06634402
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "parcel_036",
+        "lot_number": "36",
+        "name": "Allotment 36",
+        "type": "parcel",
+        "startYear": 1878,
+        "activityFrom": 1878,
+        "activityTo": 1928,
+        "endYear": 9999,
+        "confidence": "approximate",
+        "placeholder": true,
+        "note": "Placeholder lot — not equated with physical occupancy",
+        "sourceIds": [
+          "source_frg_land_titles"
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.2767215,
+              -30.06634402
+            ],
+            [
+              138.2772275,
+              -30.06634402
+            ],
+            [
+              138.2772275,
+              -30.06603602
+            ],
+            [
+              138.2767215,
+              -30.06603602
+            ],
+            [
+              138.2767215,
+              -30.06634402
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "parcel_037",
+        "lot_number": "37",
+        "name": "Allotment 37",
+        "type": "parcel",
+        "startYear": 1878,
+        "activityFrom": 1880,
+        "activityTo": 1936,
+        "endYear": 9999,
+        "confidence": "approximate",
+        "placeholder": true,
+        "note": "Placeholder lot — not equated with physical occupancy",
+        "sourceIds": [
+          "source_frg_land_titles"
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.27727149999998,
+              -30.06634402
+            ],
+            [
+              138.27777749999998,
+              -30.06634402
+            ],
+            [
+              138.27777749999998,
+              -30.06603602
+            ],
+            [
+              138.27727149999998,
+              -30.06603602
+            ],
+            [
+              138.27727149999998,
+              -30.06634402
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "parcel_038",
+        "lot_number": "38",
+        "name": "Allotment 38",
+        "type": "parcel",
+        "startYear": 1878,
+        "activityFrom": 1882,
+        "activityTo": 1944,
+        "endYear": 9999,
+        "confidence": "approximate",
+        "placeholder": true,
+        "note": "Placeholder lot — not equated with physical occupancy",
+        "sourceIds": [
+          "source_frg_land_titles"
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.2778215,
+              -30.06634402
+            ],
+            [
+              138.2783275,
+              -30.06634402
+            ],
+            [
+              138.2783275,
+              -30.06603602
+            ],
+            [
+              138.2778215,
+              -30.06603602
+            ],
+            [
+              138.2778215,
+              -30.06634402
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "parcel_039",
+        "lot_number": "39",
+        "name": "Allotment 39",
+        "type": "parcel",
+        "startYear": 1878,
+        "activityFrom": 1884,
+        "activityTo": 1952,
+        "endYear": 9999,
+        "confidence": "approximate",
+        "placeholder": true,
+        "note": "Placeholder lot — not equated with physical occupancy",
+        "sourceIds": [
+          "source_frg_land_titles"
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.2783715,
+              -30.06634402
+            ],
+            [
+              138.2788775,
+              -30.06634402
+            ],
+            [
+              138.2788775,
+              -30.06603602
+            ],
+            [
+              138.2783715,
+              -30.06603602
+            ],
+            [
+              138.2783715,
+              -30.06634402
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "parcel_040",
+        "lot_number": "40",
+        "name": "Allotment 40",
+        "type": "parcel",
+        "startYear": 1878,
+        "activityFrom": 1886,
+        "activityTo": 1960,
+        "endYear": 9999,
+        "confidence": "approximate",
+        "placeholder": true,
+        "note": "Placeholder lot — not equated with physical occupancy",
+        "sourceIds": [
+          "source_frg_land_titles"
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.2789215,
+              -30.06634402
+            ],
+            [
+              138.2794275,
+              -30.06634402
+            ],
+            [
+              138.2794275,
+              -30.06603602
+            ],
+            [
+              138.2789215,
+              -30.06603602
+            ],
+            [
+              138.2789215,
+              -30.06634402
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "parcel_041",
+        "lot_number": "41",
+        "name": "Allotment 41",
+        "type": "parcel",
+        "startYear": 1878,
+        "activityFrom": 1878,
+        "activityTo": 1960,
+        "endYear": 9999,
+        "confidence": "approximate",
+        "placeholder": true,
+        "note": "Placeholder lot — not equated with physical occupancy",
+        "sourceIds": [
+          "source_frg_land_titles"
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.2750715,
+              -30.065994019999998
+            ],
+            [
+              138.2755775,
+              -30.065994019999998
+            ],
+            [
+              138.2755775,
+              -30.065686019999998
+            ],
+            [
+              138.2750715,
+              -30.065686019999998
+            ],
+            [
+              138.2750715,
+              -30.065994019999998
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "parcel_042",
+        "lot_number": "42",
+        "name": "Allotment 42",
+        "type": "parcel",
+        "startYear": 1878,
+        "activityFrom": 1880,
+        "activityTo": 1920,
+        "endYear": 9999,
+        "confidence": "approximate",
+        "placeholder": true,
+        "note": "Placeholder lot — not equated with physical occupancy",
+        "sourceIds": [
+          "source_frg_land_titles"
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.2756215,
+              -30.065994019999998
+            ],
+            [
+              138.2761275,
+              -30.065994019999998
+            ],
+            [
+              138.2761275,
+              -30.065686019999998
+            ],
+            [
+              138.2756215,
+              -30.065686019999998
+            ],
+            [
+              138.2756215,
+              -30.065994019999998
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "parcel_043",
+        "lot_number": "43",
+        "name": "Allotment 43",
+        "type": "parcel",
+        "startYear": 1878,
+        "activityFrom": 1882,
+        "activityTo": 1928,
+        "endYear": 9999,
+        "confidence": "approximate",
+        "placeholder": true,
+        "note": "Placeholder lot — not equated with physical occupancy",
+        "sourceIds": [
+          "source_frg_land_titles"
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.2761715,
+              -30.065994019999998
+            ],
+            [
+              138.2766775,
+              -30.065994019999998
+            ],
+            [
+              138.2766775,
+              -30.065686019999998
+            ],
+            [
+              138.2761715,
+              -30.065686019999998
+            ],
+            [
+              138.2761715,
+              -30.065994019999998
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "parcel_044",
+        "lot_number": "44",
+        "name": "Allotment 44",
+        "type": "parcel",
+        "startYear": 1878,
+        "activityFrom": 1884,
+        "activityTo": 1936,
+        "endYear": 9999,
+        "confidence": "approximate",
+        "placeholder": true,
+        "note": "Placeholder lot — not equated with physical occupancy",
+        "sourceIds": [
+          "source_frg_land_titles"
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.2767215,
+              -30.065994019999998
+            ],
+            [
+              138.2772275,
+              -30.065994019999998
+            ],
+            [
+              138.2772275,
+              -30.065686019999998
+            ],
+            [
+              138.2767215,
+              -30.065686019999998
+            ],
+            [
+              138.2767215,
+              -30.065994019999998
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "parcel_045",
+        "lot_number": "45",
+        "name": "Allotment 45",
+        "type": "parcel",
+        "startYear": 1878,
+        "activityFrom": 1886,
+        "activityTo": 1944,
+        "endYear": 9999,
+        "confidence": "approximate",
+        "placeholder": true,
+        "note": "Placeholder lot — not equated with physical occupancy",
+        "sourceIds": [
+          "source_frg_land_titles"
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.27727149999998,
+              -30.065994019999998
+            ],
+            [
+              138.27777749999998,
+              -30.065994019999998
+            ],
+            [
+              138.27777749999998,
+              -30.065686019999998
+            ],
+            [
+              138.27727149999998,
+              -30.065686019999998
+            ],
+            [
+              138.27727149999998,
+              -30.065994019999998
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "parcel_046",
+        "lot_number": "46",
+        "name": "Allotment 46",
+        "type": "parcel",
+        "startYear": 1878,
+        "activityFrom": 1878,
+        "activityTo": 1952,
+        "endYear": 9999,
+        "confidence": "approximate",
+        "placeholder": true,
+        "note": "Placeholder lot — not equated with physical occupancy",
+        "sourceIds": [
+          "source_frg_land_titles"
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.2778215,
+              -30.065994019999998
+            ],
+            [
+              138.2783275,
+              -30.065994019999998
+            ],
+            [
+              138.2783275,
+              -30.065686019999998
+            ],
+            [
+              138.2778215,
+              -30.065686019999998
+            ],
+            [
+              138.2778215,
+              -30.065994019999998
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "parcel_047",
+        "lot_number": "47",
+        "name": "Allotment 47",
+        "type": "parcel",
+        "startYear": 1878,
+        "activityFrom": 1880,
+        "activityTo": 1960,
+        "endYear": 9999,
+        "confidence": "approximate",
+        "placeholder": true,
+        "note": "Placeholder lot — not equated with physical occupancy",
+        "sourceIds": [
+          "source_frg_land_titles"
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.2783715,
+              -30.065994019999998
+            ],
+            [
+              138.2788775,
+              -30.065994019999998
+            ],
+            [
+              138.2788775,
+              -30.065686019999998
+            ],
+            [
+              138.2783715,
+              -30.065686019999998
+            ],
+            [
+              138.2783715,
+              -30.065994019999998
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "parcel_048",
+        "lot_number": "48",
+        "name": "Allotment 48",
+        "type": "parcel",
+        "startYear": 1878,
+        "activityFrom": 1882,
+        "activityTo": 1920,
+        "endYear": 9999,
+        "confidence": "approximate",
+        "placeholder": true,
+        "note": "Placeholder lot — not equated with physical occupancy",
+        "sourceIds": [
+          "source_frg_land_titles"
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.2789215,
+              -30.065994019999998
+            ],
+            [
+              138.2794275,
+              -30.065994019999998
+            ],
+            [
+              138.2794275,
+              -30.065686019999998
+            ],
+            [
+              138.2789215,
+              -30.065686019999998
+            ],
+            [
+              138.2789215,
+              -30.065994019999998
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

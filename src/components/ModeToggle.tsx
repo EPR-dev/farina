@@ -1,0 +1,49 @@
+"use client";
+
+import type { TimelineMode } from "@/types/farina";
+
+interface ModeToggleProps {
+  mode: TimelineMode;
+  onChange: (mode: TimelineMode) => void;
+  pastDivergence: boolean;
+}
+
+export default function ModeToggle({
+  mode,
+  onChange,
+  pastDivergence,
+}: ModeToggleProps) {
+  return (
+    <div className="mode-toggle" role="group" aria-label="Map story mode">
+      <button
+        type="button"
+        className={mode === "actual" ? "active" : ""}
+        onClick={() => onChange("actual")}
+      >
+        Actual history
+      </button>
+      <button
+        type="button"
+        className={mode === "today" ? "active today" : ""}
+        onClick={() => onChange("today")}
+      >
+        Today
+      </button>
+      <button
+        type="button"
+        className={mode === "whatIf" ? "active whatif" : ""}
+        onClick={() => onChange("whatIf")}
+      >
+        What if?
+      </button>
+      {mode === "whatIf" && pastDivergence && (
+        <span className="mode-note">Counterfactual scenario</span>
+      )}
+      {mode === "today" && (
+        <span className="mode-note today">
+          Farina Restoration Group — present day
+        </span>
+      )}
+    </div>
+  );
+}

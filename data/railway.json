@@ -1,0 +1,186 @@
+{
+  "type": "FeatureCollection",
+  "name": "farina_railway_placeholder",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "EPSG:4326"
+    }
+  },
+  "properties": {
+    "placeholder": true,
+    "notes": "Approximate Great Northern / Ghan corridor through Farina. Replace with surveyed alignment from State Records / Data SA.",
+    "sourceIds": [
+      "source_frg_history",
+      "source_frg_navigating"
+    ],
+    "alignment": "translated_plus_osm_station",
+    "note": "Linework translated into OSM frame; station node snapped to Station Master House vicinity. Prefer OSM Ghan ways for production."
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "rail_to_farina",
+        "name": "Great Northern Railway — approach from south",
+        "type": "railway",
+        "segment": "south_approach",
+        "startYear": 1882,
+        "endYear": 1993,
+        "confidence": "approximate",
+        "placeholder": true,
+        "role": "railhead_arrival",
+        "sourceIds": [
+          "source_frg_history"
+        ],
+        "geometrySource": "translated_to_osm_frame"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            138.2730715,
+            -30.11174402
+          ],
+          [
+            138.2745715,
+            -30.09174402
+          ],
+          [
+            138.2760715,
+            -30.07674402
+          ],
+          [
+            138.2775715,
+            -30.069744019999998
+          ],
+          [
+            138.2785715,
+            -30.066744019999998
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "rail_north_extension",
+        "name": "Railway extension north toward Marree",
+        "type": "railway",
+        "segment": "north_extension",
+        "startYear": 1884,
+        "endYear": 1993,
+        "confidence": "approximate",
+        "placeholder": true,
+        "role": "through_line",
+        "sourceIds": [
+          "source_frg_history"
+        ],
+        "geometrySource": "translated_to_osm_frame"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            138.2785715,
+            -30.066744019999998
+          ],
+          [
+            138.2795715,
+            -30.05674402
+          ],
+          [
+            138.2810715,
+            -30.04174402
+          ],
+          [
+            138.2860715,
+            -30.02174402
+          ],
+          [
+            138.29607149999998,
+            -29.97174402
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "rail_standard_gauge",
+        "name": "Standard gauge alignment (1957)",
+        "type": "railway",
+        "segment": "standard_gauge",
+        "startYear": 1957,
+        "endYear": 1993,
+        "confidence": "approximate",
+        "placeholder": true,
+        "role": "standard_gauge",
+        "sourceIds": [
+          "source_frg_navigating"
+        ],
+        "geometrySource": "translated_to_osm_frame"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            138.2735715,
+            -30.11174402
+          ],
+          [
+            138.2750715,
+            -30.09174402
+          ],
+          [
+            138.2765715,
+            -30.07674402
+          ],
+          [
+            138.27807149999998,
+            -30.069744019999998
+          ],
+          [
+            138.2790715,
+            -30.06654402
+          ],
+          [
+            138.2800715,
+            -30.05674402
+          ],
+          [
+            138.2820715,
+            -30.04174402
+          ],
+          [
+            138.2870715,
+            -30.02174402
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "rail_station_point",
+        "name": "Farina railhead / station",
+        "type": "station",
+        "startYear": 1882,
+        "endYear": 1980,
+        "confidence": "approximate",
+        "placeholder": true,
+        "sourceIds": [
+          "source_frg_history"
+        ],
+        "geometrySource": "osm_aligned"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.2835282,
+          -30.0696431
+        ]
+      }
+    }
+  ]
+}

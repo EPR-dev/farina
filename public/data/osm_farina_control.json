@@ -1,0 +1,312 @@
+﻿[
+    {
+        "name":  "Exchange Hotel",
+        "lon":  138.2765622,
+        "lat":  -30.0656167,
+        "nodes":  5,
+        "historic":  "ruins",
+        "railway":  null,
+        "highway":  null,
+        "tourism":  null
+    },
+    {
+        "name":  "Farina Bakery",
+        "lon":  138.2765714,
+        "lat":  -30.0673448,
+        "nodes":  5,
+        "historic":  null,
+        "railway":  null,
+        "highway":  null,
+        "tourism":  null
+    },
+    {
+        "name":  "Farina Creek",
+        "lon":  138.2837292,
+        "lat":  -30.0404768,
+        "nodes":  96,
+        "historic":  null,
+        "railway":  null,
+        "highway":  null,
+        "tourism":  null
+    },
+    {
+        "name":  "Farina Homestead",
+        "lon":  138.274328,
+        "lat":  -30.0658829,
+        "nodes":  10,
+        "historic":  null,
+        "railway":  null,
+        "highway":  null,
+        "tourism":  null
+    },
+    {
+        "name":  "Farina Station Camground",
+        "lon":  138.2735649,
+        "lat":  -30.0620735,
+        "nodes":  20,
+        "historic":  null,
+        "railway":  null,
+        "highway":  null,
+        "tourism":  "camp_site"
+    },
+    {
+        "name":  "First Street",
+        "lon":  138.2761749,
+        "lat":  -30.0662637,
+        "nodes":  3,
+        "historic":  null,
+        "railway":  null,
+        "highway":  "track",
+        "tourism":  null
+    },
+    {
+        "name":  "First Street",
+        "lon":  138.2788889,
+        "lat":  -30.0661857,
+        "nodes":  5,
+        "historic":  null,
+        "railway":  null,
+        "highway":  "track",
+        "tourism":  null
+    },
+    {
+        "name":  "Gangers Fetlers House",
+        "lon":  138.2835425,
+        "lat":  -30.0768754,
+        "nodes":  5,
+        "historic":  "ruins",
+        "railway":  null,
+        "highway":  null,
+        "tourism":  null
+    },
+    {
+        "name":  "Goods Shed",
+        "lon":  138.283958,
+        "lat":  -30.0689161,
+        "nodes":  7,
+        "historic":  null,
+        "railway":  "platform",
+        "highway":  null,
+        "tourism":  null
+    },
+    {
+        "name":  "Guards House",
+        "lon":  138.2834639,
+        "lat":  -30.0673227,
+        "nodes":  7,
+        "historic":  "ruins",
+        "railway":  null,
+        "highway":  null,
+        "tourism":  null
+    },
+    {
+        "name":  "Historic Walking Trail",
+        "lon":  138.2788759,
+        "lat":  -30.0619516,
+        "nodes":  54,
+        "historic":  null,
+        "railway":  null,
+        "highway":  "track",
+        "tourism":  null
+    },
+    {
+        "name":  "Historic Walking Trail",
+        "lon":  138.2769581,
+        "lat":  -30.0617973,
+        "nodes":  17,
+        "historic":  null,
+        "railway":  null,
+        "highway":  "track",
+        "tourism":  null
+    },
+    {
+        "name":  "House Dam",
+        "lon":  138.2710488,
+        "lat":  -30.0623256,
+        "nodes":  12,
+        "historic":  null,
+        "railway":  null,
+        "highway":  null,
+        "tourism":  null
+    },
+    {
+        "name":  "Leigh Creek",
+        "lon":  138.2808749,
+        "lat":  -30.0999806,
+        "nodes":  96,
+        "historic":  null,
+        "railway":  null,
+        "highway":  null,
+        "tourism":  null
+    },
+    {
+        "name":  "Moffat House",
+        "lon":  138.2758388,
+        "lat":  -30.0660478,
+        "nodes":  5,
+        "historic":  null,
+        "railway":  null,
+        "highway":  null,
+        "tourism":  null
+    },
+    {
+        "name":  "Mulgaria Road",
+        "lon":  138.1271837,
+        "lat":  -30.054712,
+        "nodes":  210,
+        "historic":  null,
+        "railway":  null,
+        "highway":  "tertiary",
+        "tourism":  null
+    },
+    {
+        "name":  "North Terrace",
+        "lon":  138.2770109,
+        "lat":  -30.0654146,
+        "nodes":  10,
+        "historic":  null,
+        "railway":  null,
+        "highway":  "track",
+        "tourism":  null
+    },
+    {
+        "name":  "Old Ghan Railway (NG)",
+        "lon":  138.2837128,
+        "lat":  -30.0598786,
+        "nodes":  4,
+        "historic":  null,
+        "railway":  "abandoned",
+        "highway":  "path",
+        "tourism":  null
+    },
+    {
+        "name":  "Old Ghan Railway (NG)",
+        "lon":  138.2838877,
+        "lat":  -30.0710936,
+        "nodes":  19,
+        "historic":  null,
+        "railway":  "abandoned",
+        "highway":  "path",
+        "tourism":  null
+    },
+    {
+        "name":  "Old Ghan Railway (NG)",
+        "lon":  138.2834389,
+        "lat":  -30.0582387,
+        "nodes":  7,
+        "historic":  null,
+        "railway":  "abandoned",
+        "highway":  "path",
+        "tourism":  null
+    },
+    {
+        "name":  "Old Ghan Railway (SG)",
+        "lon":  138.2811716,
+        "lat":  -30.0581737,
+        "nodes":  3,
+        "historic":  null,
+        "railway":  "disused",
+        "highway":  null,
+        "tourism":  null
+    },
+    {
+        "name":  "Old Ghan Railway (SG)",
+        "lon":  138.2834571,
+        "lat":  -30.0660035,
+        "nodes":  11,
+        "historic":  null,
+        "railway":  "disused",
+        "highway":  null,
+        "tourism":  null
+    },
+    {
+        "name":  "Old Ghan Railway (SG)",
+        "lon":  138.289136,
+        "lat":  -30.0851432,
+        "nodes":  7,
+        "historic":  null,
+        "railway":  "abandoned",
+        "highway":  "path",
+        "tourism":  null
+    },
+    {
+        "name":  "Old Ghan Railway (SG)",
+        "lon":  138.2817531,
+        "lat":  -30.0602053,
+        "nodes":  4,
+        "historic":  null,
+        "railway":  "abandoned",
+        "highway":  "path",
+        "tourism":  null
+    },
+    {
+        "name":  "Police Station",
+        "lon":  138.2788311,
+        "lat":  -30.0655509,
+        "nodes":  5,
+        "historic":  "ruins",
+        "railway":  null,
+        "highway":  null,
+        "tourism":  null
+    },
+    {
+        "name":  "Post Office",
+        "lon":  138.2772821,
+        "lat":  -30.0660112,
+        "nodes":  7,
+        "historic":  "ruins",
+        "railway":  null,
+        "highway":  null,
+        "tourism":  null
+    },
+    {
+        "name":  "Second Street",
+        "lon":  138.2800585,
+        "lat":  -30.0668849,
+        "nodes":  5,
+        "historic":  null,
+        "railway":  null,
+        "highway":  "track",
+        "tourism":  null
+    },
+    {
+        "name":  "Station Master House",
+        "lon":  138.2835282,
+        "lat":  -30.0696431,
+        "nodes":  5,
+        "historic":  null,
+        "railway":  null,
+        "highway":  null,
+        "tourism":  null
+    },
+    {
+        "name":  "The Outback Highway",
+        "lon":  138.3138573,
+        "lat":  -30.1568611,
+        "nodes":  53,
+        "historic":  null,
+        "railway":  null,
+        "highway":  "secondary",
+        "tourism":  null
+    },
+    {
+        "name":  "The Outback Highway",
+        "lon":  138.2876385,
+        "lat":  -30.0750747,
+        "nodes":  17,
+        "historic":  null,
+        "railway":  null,
+        "highway":  "secondary",
+        "tourism":  null
+    },
+    {
+        "name":  "Transcontinental Hotel",
+        "lon":  138.277253,
+        "lat":  -30.0674996,
+        "nodes":  7,
+        "historic":  "ruins",
+        "railway":  null,
+        "highway":  null,
+        "tourism":  null
+    }
+]

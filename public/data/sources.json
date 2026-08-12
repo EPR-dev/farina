@@ -1,0 +1,191 @@
+[
+  {
+    "id": "source_frg_history",
+    "title": "History of Farina Settlement",
+    "publisher": "Farina Restoration Group",
+    "date": "n.d.",
+    "url": "https://farinarestoration.com/history/",
+    "type": "website",
+    "notes": "Primary narrative for proclamation, railhead dates, peak businesses, decline."
+  },
+  {
+    "id": "source_frg_town_guide",
+    "title": "Farina Town Guide / Walking Trail Notes",
+    "publisher": "Farina Restoration Group",
+    "date": "n.d.",
+    "url": "https://farinarestoration.com/about-farina/farina-town-guide/",
+    "type": "website",
+    "notes": "Documented building list with open/close years for several structures."
+  },
+  {
+    "id": "source_frg_navigating",
+    "title": "Navigating Farina",
+    "publisher": "Farina Restoration Group",
+    "date": "n.d.",
+    "url": "https://farinarestoration.com/about-farina/navigating-farina/",
+    "type": "website",
+    "notes": "Railway precinct, wells, early settlement north of creek, Transcontinental foundation stone."
+  },
+  {
+    "id": "source_frg_land_titles",
+    "title": "Farina Land Titles",
+    "publisher": "Farina Restoration Group",
+    "date": "n.d.",
+    "url": "https://farinarestoration.com/history/farina-land-titles/",
+    "type": "website",
+    "notes": "1876 Cornish & Peachey survey; 432 + 88 allotments; auction chronology."
+  },
+  {
+    "id": "source_nla_plan_1910",
+    "title": "Farina Town at the Government Gums Water Hole",
+    "publisher": "South Australia. Surveyor-General's Office / NLA",
+    "date": "1910",
+    "url": "https://nla.gov.au/nla.obj-231960689",
+    "type": "map",
+    "notes": "Historic town plan for future georeferencing. MVP uses placeholder grid."
+  },
+  {
+    "id": "source_slsa_b9329",
+    "title": "Distant view of Farina ca 1880 (B 9329)",
+    "publisher": "State Library of South Australia",
+    "date": "c.1880",
+    "url": "https://collections.slsa.sa.gov.au/resource/B+9329",
+    "type": "photograph",
+    "notes": "Samuel White Sweet; Wikimedia PD mirror used where available."
+  },
+  {
+    "id": "source_slsa_prg1610",
+    "title": "Township / street scene Farina 1897-98 (PRG 1610/11/175)",
+    "publisher": "State Library of South Australia",
+    "date": "1897-1898",
+    "url": "https://collections.slsa.sa.gov.au/resource/PRG+1610/11/175",
+    "type": "photograph",
+    "notes": "Robert Mitchell street view."
+  },
+  {
+    "id": "source_slsa_b8007",
+    "title": "Storekeeper's premises (J.W. Manfield) at Farina (B 8007)",
+    "publisher": "State Library of South Australia",
+    "date": "1882",
+    "url": "https://collections.slsa.sa.gov.au/resource/B+8007",
+    "type": "photograph",
+    "notes": "Manfield store; display via catalogue until reuse confirmed."
+  },
+  {
+    "id": "source_slsa_b24004",
+    "title": "Camels with wool from Nappamerry at Farina railway station (B 24004)",
+    "publisher": "State Library of South Australia",
+    "date": "1928",
+    "url": "https://collections.slsa.sa.gov.au/find/farina",
+    "type": "photograph",
+    "notes": "Railway / camel traffic evidence."
+  },
+  {
+    "id": "source_commons_farina",
+    "title": "Category: Farina, South Australia",
+    "publisher": "Wikimedia Commons",
+    "date": "various",
+    "url": "https://commons.wikimedia.org/wiki/Category:Farina,_South_Australia",
+    "type": "photograph_collection",
+    "notes": "PD historic and CC BY-SA modern ruin photos."
+  },
+  {
+    "id": "source_osm",
+    "title": "OpenStreetMap — Farina locality",
+    "publisher": "OpenStreetMap contributors",
+    "date": "2026",
+    "url": "https://www.openstreetmap.org/#map=16/-30.0751/138.2760",
+    "type": "spatial",
+    "notes": "Modern basemap context; ODbL attribution required."
+  },
+  {
+    "id": "source_agd_acknowledgement",
+    "title": "Statement of Acknowledgement and Welcome to Country",
+    "publisher": "Attorney-General's Department, South Australia",
+    "date": "n.d.",
+    "url": "https://www.agd.sa.gov.au/aboriginal-affairs-and-reconciliation/statement-of-acknowledgement-welcome-to-country",
+    "type": "guidance",
+    "notes": "Use Native Title Vision / general acknowledgement; do not invent Country boundaries."
+  },
+  {
+    "id": "source_arabana_nt",
+    "title": "Arabana Aboriginal Corporation RNTBC / Dodd v State of South Australia",
+    "publisher": "Native Title SA / Federal Court",
+    "date": "2012",
+    "url": "https://www.nativetitlesa.org/pbcs/arabana-aboriginal-corporation-rntbc/",
+    "type": "legal",
+    "notes": "Arabana determination includes Marree–Lake Eyre region; Farina Country naming requires further verification."
+  },
+  {
+    "id": "source_trove_sample",
+    "title": "Trove newspaper search — Farina railway / township",
+    "publisher": "National Library of Australia (Trove)",
+    "date": "various",
+    "url": "https://trove.nla.gov.au/search/category/newspapers?keyword=Farina%20South%20Australia",
+    "type": "newspaper_index",
+    "notes": "Link-out citations only in MVP; short excerpts where copyright permits."
+  },
+  {
+    "id": "comparison_inland_sa",
+    "title": "Comparable inland SA towns for counterfactual sizing",
+    "publisher": "Project methodology (Quorn, Hawker, Marree, Oodnadatta, Leigh Creek)",
+    "date": "2026",
+    "url": "",
+    "type": "methodology",
+    "notes": "Scenario population ~3,000 for alternate 2026 (Quorn-plus); see research/METHODOLOGY.md."
+  },
+  {
+    "id": "source_abs_farina",
+    "title": "Census QuickStats — Farina (State Suburb) / Wikipedia summary of ABS counts",
+    "publisher": "Australian Bureau of Statistics",
+    "date": "2006–2021",
+    "url": "https://en.wikipedia.org/wiki/Farina,_South_Australia",
+    "type": "census",
+    "notes": "Locality population 55 (2006) and 15 (2021) includes surrounds — not town proper occupied dwellings."
+  },
+  {
+    "id": "source_wiki_farina",
+    "title": "Farina, South Australia",
+    "publisher": "Wikipedia (secondary; cites school 1879–1957 and peak inventory)",
+    "date": "n.d.",
+    "url": "https://en.wikipedia.org/wiki/Farina,_South_Australia",
+    "type": "secondary",
+    "notes": "Use for cross-check of school dates and heyday inventory; prefer FRG for building narratives."
+  },
+  {
+    "id": "source_frg_site",
+    "title": "Farina Restoration Project Group — Home",
+    "publisher": "Farina Restoration Group",
+    "date": "2026",
+    "url": "https://farinarestoration.com/",
+    "type": "website",
+    "notes": "Present-day visitor access, seasonal bakery/cafe, volunteer works program, goods shed / NSU62 updates."
+  },
+  {
+    "id": "source_frg_five_year",
+    "title": "Restoration 5 Year Plan",
+    "publisher": "Farina Restoration Group",
+    "date": "n.d.",
+    "url": "https://farinarestoration.com/about-frg/restoration-5-year-plan/",
+    "type": "website",
+    "notes": "Stone priorities, railway precinct, Patterson House VC (2021), Ops Centre (2014), bakery operations."
+  },
+  {
+    "id": "source_osm_farina",
+    "title": "OpenStreetMap — Farina historic features",
+    "publisher": "OpenStreetMap contributors",
+    "date": "2026",
+    "url": "https://www.openstreetmap.org/#map=17/-30.0664/138.2766",
+    "type": "geodata",
+    "notes": "Primary control for ruin/bakery/street/campground/railway precinct centroids (ODbL)."
+  },
+  {
+    "id": "source_exploroz_camp",
+    "title": "Farina Campground (ExplorOz place 98830)",
+    "publisher": "ExplorOz",
+    "date": "n.d.",
+    "url": "https://www.exploroz.com/places/98830/sa+farina-campground",
+    "type": "website",
+    "notes": "Campground DEG -30.062469, 138.273491 — agrees with OSM campground node."
+  }
+]

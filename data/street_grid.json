@@ -1,0 +1,123 @@
+{
+  "type": "FeatureCollection",
+  "name": "farina_street_grid_osm_aligned",
+  "properties": {
+    "notes": "Street centreline sketch from OSM First/Second/North Terrace + inferred Twelfth Street. Not a cadastral survey.",
+    "alignment": "osm_2026"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "st_twelfth",
+        "name": "Twelfth Street (Main Road)",
+        "type": "street",
+        "geometrySource": "osm_inferred",
+        "note": "Inferred E–W main street through OSM bakery & Transcontinental Hotel"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            138.2748,
+            -30.06742
+          ],
+          [
+            138.2765714,
+            -30.0673448
+          ],
+          [
+            138.277253,
+            -30.0674996
+          ],
+          [
+            138.2792,
+            -30.06735
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "st_first",
+        "name": "First Street",
+        "type": "street",
+        "geometrySource": "osm_aligned"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            138.2749,
+            -30.0662637
+          ],
+          [
+            138.2761749,
+            -30.0662637
+          ],
+          [
+            138.2795,
+            -30.0662637
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "st_second",
+        "name": "Second Street",
+        "type": "street",
+        "geometrySource": "osm_aligned"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            138.2755,
+            -30.0668849
+          ],
+          [
+            138.2800585,
+            -30.0668849
+          ],
+          [
+            138.2825,
+            -30.0668849
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "st_north_terrace",
+        "name": "North Terrace",
+        "type": "street",
+        "geometrySource": "osm_aligned"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            138.2752,
+            -30.0654146
+          ],
+          [
+            138.2770109,
+            -30.0654146
+          ],
+          [
+            138.2788311,
+            -30.0654146
+          ],
+          [
+            138.2802,
+            -30.0654146
+          ]
+        ]
+      }
+    }
+  ]
+}

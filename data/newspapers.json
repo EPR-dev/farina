@@ -1,0 +1,41 @@
+[
+  {
+    "id": "news_001",
+    "title": "Trove search — Farina railway / township",
+    "date": "various",
+    "publication": "Multiple SA newspapers via Trove",
+    "url": "https://trove.nla.gov.au/search/category/newspapers?keyword=Farina%20railway",
+    "excerpt": null,
+    "notes": "Use Trove for era-specific articles. MVP links out; no substantial copyrighted text copied.",
+    "relatedFeatureIds": ["bldg_station"],
+    "sourceIds": ["source_trove_sample"],
+    "activeFrom": 1882,
+    "activeTo": 2026
+  },
+  {
+    "id": "news_002",
+    "title": "Trove search — Farina hotel",
+    "date": "various",
+    "publication": "Multiple SA newspapers via Trove",
+    "url": "https://trove.nla.gov.au/search/category/newspapers?keyword=Farina%20hotel",
+    "excerpt": null,
+    "notes": "Attach to hotel features for archival browsing.",
+    "relatedFeatureIds": ["bldg_transcontinental", "bldg_exchange"],
+    "sourceIds": ["source_trove_sample"],
+    "activeFrom": 1878,
+    "activeTo": 2026
+  },
+  {
+    "id": "news_003",
+    "title": "Trove search — Farina drought / wheat",
+    "date": "various",
+    "publication": "Multiple SA newspapers via Trove",
+    "url": "https://trove.nla.gov.au/search/category/newspapers?keyword=Farina%20drought",
+    "excerpt": null,
+    "notes": "Supports decline narrative beyond Goyder's Line; verify articles before quoting.",
+    "relatedFeatureIds": [],
+    "sourceIds": ["source_trove_sample"],
+    "activeFrom": 1900,
+    "activeTo": 2026
+  }
+]

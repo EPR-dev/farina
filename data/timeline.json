@@ -1,0 +1,291 @@
+{
+  "divergenceYear": 1884,
+  "milestones": [
+    {
+      "id": "before_1878",
+      "year": 1870,
+      "label": "BEFORE 1878",
+      "mode": "both",
+      "caption": "Country before the surveyed town.",
+      "camera": {
+        "center": [
+          138.2770715,
+          -30.066744019999998
+        ],
+        "zoom": 13.2,
+        "pitch": 45,
+        "bearing": -20
+      }
+    },
+    {
+      "id": "y1878",
+      "year": 1878,
+      "label": "1878",
+      "mode": "both",
+      "caption": "A town appears on paper.",
+      "camera": {
+        "center": [
+          138.2770715,
+          -30.066744019999998
+        ],
+        "zoom": 15.2,
+        "pitch": 50,
+        "bearing": -15
+      }
+    },
+    {
+      "id": "y1880",
+      "year": 1880,
+      "label": "1880",
+      "mode": "both",
+      "caption": "Settlement begins.",
+      "camera": {
+        "center": [
+          138.2770715,
+          -30.066744019999998
+        ],
+        "zoom": 15.4,
+        "pitch": 48,
+        "bearing": -12
+      }
+    },
+    {
+      "id": "y1882",
+      "year": 1882,
+      "label": "1882",
+      "mode": "both",
+      "caption": "The railway arrives.",
+      "camera": {
+        "center": [
+          138.27807149999998,
+          -30.069744019999998
+        ],
+        "zoom": 13.6,
+        "pitch": 40,
+        "bearing": 0
+      },
+      "storyBeat": "railhead"
+    },
+    {
+      "id": "y1884",
+      "year": 1884,
+      "label": "1884",
+      "mode": "both",
+      "captionActual": "The railway keeps going.",
+      "captionWhatIf": "Farina holds the line.",
+      "camera": {
+        "center": [
+          138.27807149999998,
+          -30.051744019999997
+        ],
+        "zoom": 11.8,
+        "pitch": 35,
+        "bearing": 10
+      },
+      "storyBeat": "divergence"
+    },
+    {
+      "id": "y1890",
+      "year": 1890,
+      "label": "1890",
+      "mode": "both",
+      "captionActual": "For a moment, Farina sits at the edge of Australia's expanding rail network.",
+      "captionWhatIf": "Counterfactual scenario — a service town takes root.",
+      "camera": {
+        "center": [
+          138.2770715,
+          -30.066744019999998
+        ],
+        "zoom": 15.1,
+        "pitch": 50,
+        "bearing": -18
+      }
+    },
+    {
+      "id": "y1900",
+      "year": 1900,
+      "label": "1900",
+      "mode": "both",
+      "captionActual": "The rain doesn't come.",
+      "captionWhatIf": "Illustrative reconstruction — pastoral trade adapts.",
+      "camera": {
+        "center": [
+          138.2770715,
+          -30.066744019999998
+        ],
+        "zoom": 15.2,
+        "pitch": 48,
+        "bearing": -16
+      }
+    },
+    {
+      "id": "y1910",
+      "year": 1910,
+      "label": "1910",
+      "mode": "both",
+      "captionActual": "The town begins to thin.",
+      "captionWhatIf": "Scenario assumption — inland transport hub, population ~1,500.",
+      "camera": {
+        "center": [
+          138.2770715,
+          -30.066744019999998
+        ],
+        "zoom": 15.2,
+        "pitch": 45,
+        "bearing": -10
+      }
+    },
+    {
+      "id": "y1920",
+      "year": 1920,
+      "label": "1920",
+      "mode": "both",
+      "captionActual": "Businesses close their doors.",
+      "captionWhatIf": "Speculative scenario — commercial street consolidates.",
+      "camera": {
+        "center": [
+          138.2770715,
+          -30.066744019999998
+        ],
+        "zoom": 15.2,
+        "pitch": 46,
+        "bearing": -12
+      }
+    },
+    {
+      "id": "y1930",
+      "year": 1930,
+      "label": "1930",
+      "mode": "both",
+      "captionActual": "Dust and distance.",
+      "captionWhatIf": "Counterfactual — an established regional town.",
+      "camera": {
+        "center": [
+          138.2775715,
+          -30.066744019999998
+        ],
+        "zoom": 15.2,
+        "pitch": 44,
+        "bearing": -8
+      }
+    },
+    {
+      "id": "y1950",
+      "year": 1950,
+      "label": "1950",
+      "mode": "both",
+      "captionActual": "Services leave for larger centres.",
+      "captionWhatIf": "Illustrative reconstruction — post-war streets and clinic.",
+      "camera": {
+        "center": [
+          138.2778715,
+          -30.066944019999998
+        ],
+        "zoom": 15.2,
+        "pitch": 42,
+        "bearing": -5
+      }
+    },
+    {
+      "id": "y1957",
+      "year": 1957,
+      "label": "1957",
+      "mode": "both",
+      "captionActual": "Standard gauge arrives. The town does not revive.",
+      "captionWhatIf": "Scenario — dual-gauge yards and freight work.",
+      "camera": {
+        "center": [
+          138.2790715,
+          -30.06624402
+        ],
+        "zoom": 15.2,
+        "pitch": 40,
+        "bearing": 5
+      }
+    },
+    {
+      "id": "y1960",
+      "year": 1960,
+      "label": "1960",
+      "mode": "both",
+      "captionActual": "The post office closes. The cemetery fills its last names.",
+      "captionWhatIf": "Counterfactual scenario — small regional centre holds on.",
+      "camera": {
+        "center": [
+          138.2770715,
+          -30.066744019999998
+        ],
+        "zoom": 15.2,
+        "pitch": 45,
+        "bearing": -10
+      }
+    },
+    {
+      "id": "y1980",
+      "year": 1980,
+      "label": "1980",
+      "mode": "both",
+      "captionActual": "The permanent town is effectively gone.",
+      "captionWhatIf": "Speculative scenario based on continued regional development.",
+      "camera": {
+        "center": [
+          138.2775715,
+          -30.066744019999998
+        ],
+        "zoom": 15.4,
+        "pitch": 42,
+        "bearing": -6
+      }
+    },
+    {
+      "id": "y2000",
+      "year": 2000,
+      "label": "2000",
+      "mode": "whatIf",
+      "caption": "Illustrative reconstruction — heritage centre within a living town.",
+      "camera": {
+        "center": [
+          138.2778715,
+          -30.066744019999998
+        ],
+        "zoom": 15.4,
+        "pitch": 40,
+        "bearing": 0
+      }
+    },
+    {
+      "id": "y2026",
+      "year": 2026,
+      "label": "2026",
+      "mode": "both",
+      "captionActual": "The streets remain. The city does not.",
+      "captionWhatIf": "FARINA 2026 — COUNTERFACTUAL SCENARIO",
+      "camera": {
+        "center": [
+          138.2775715,
+          -30.066744019999998
+        ],
+        "zoom": 15.5,
+        "pitch": 48,
+        "bearing": -15
+      },
+      "scenarioPopulation": 3000
+    },
+    {
+      "id": "y2026_today",
+      "year": 2026,
+      "label": "TODAY",
+      "mode": "today",
+      "captionToday": "Farina today — trails open year-round; the Farina Restoration Group stabilises stone ruins, runs a seasonal bakery, and interprets the railway precinct.",
+      "camera": {
+        "center": [
+          138.2775,
+          -30.0658
+        ],
+        "zoom": 14.2,
+        "pitch": 42,
+        "bearing": -8
+      }
+    }
+  ]
+}

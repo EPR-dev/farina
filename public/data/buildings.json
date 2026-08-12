@@ -1,0 +1,3623 @@
+{
+  "type": "FeatureCollection",
+  "name": "farina_buildings_documented",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "EPSG:4326"
+    }
+  },
+  "properties": {
+    "notes": "Footprints are approximate placeholders. Houses sized/placed as residential fabric off Twelfth Street; commercial/civic larger on the main-street spine. Replace with surveyed footprints when georeferenced.",
+    "placeholder": true,
+    "alignment": {
+      "method": "osm_snap_plus_mean_translate",
+      "controlSource": "OpenStreetMap API map extract 2026",
+      "dLon": 0.0010715000000004692,
+      "dLat": 0.008255980000000562,
+      "wikiLocalityPointRejected": {
+        "coordinates": [
+          138.276011,
+          -30.075131
+        ],
+        "reason": "Gazetteer/Wikipedia point lies ~800–900 m south of OSM-mapped township ruins and bakery"
+      },
+      "osmTownPoint": [
+        138.2766492,
+        -30.0664189
+      ]
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bldg_transcontinental",
+        "name": "Transcontinental Hotel",
+        "type": "hotel",
+        "startYear": 1878,
+        "endYear": 1918,
+        "ruinVisibleFrom": 1918,
+        "survivesAsRuin": true,
+        "status": "documented",
+        "confidence": "documented",
+        "dateConfidence": "documented",
+        "whatWasHere": "Furthest-north hotel in SA at opening. Foundation stone laid 5 June 1878 by a local Aboriginal woman. Later boarding house and cottage hospital; closed as hotel c. August 1918. Kidman converted to cottage/hospital; bush nursing 1928–1945.",
+        "sourceIds": [
+          "source_frg_town_guide",
+          "source_frg_navigating"
+        ],
+        "photoIds": [
+          "photo_007",
+          "photo_013"
+        ],
+        "people": [
+          "Sydney Kidman (later use)"
+        ],
+        "useClass": "commercial",
+        "mapKind": "landmark",
+        "geometrySource": "osm_aligned",
+        "geometryConfidence": "approximate",
+        "geometryNote": "Centroid snapped to OpenStreetMap historic feature (2026 extract); footprint size illustrative."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.277063,
+              -30.0676296
+            ],
+            [
+              138.277443,
+              -30.0676296
+            ],
+            [
+              138.277443,
+              -30.0673696
+            ],
+            [
+              138.277063,
+              -30.0673696
+            ],
+            [
+              138.277063,
+              -30.0676296
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bldg_exchange",
+        "name": "Exchange Hotel",
+        "type": "hotel",
+        "startYear": 1880,
+        "endYear": 1937,
+        "ruinVisibleFrom": 1937,
+        "survivesAsRuin": true,
+        "status": "documented",
+        "confidence": "documented",
+        "dateConfidence": "documented",
+        "whatWasHere": "Hotel operating c.1880–December 1937 (FRG also notes 1879 opening in navigating notes). Corner of Eleventh Street and North Terrace area.",
+        "sourceIds": [
+          "source_frg_town_guide",
+          "source_frg_navigating"
+        ],
+        "photoIds": [
+          "photo_009"
+        ],
+        "useClass": "commercial",
+        "mapKind": "landmark",
+        "geometrySource": "osm_aligned",
+        "geometryConfidence": "approximate",
+        "geometryNote": "Centroid snapped to OpenStreetMap historic feature (2026 extract); footprint size illustrative."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.2763822,
+              -30.0657367
+            ],
+            [
+              138.2767422,
+              -30.0657367
+            ],
+            [
+              138.2767422,
+              -30.065496699999997
+            ],
+            [
+              138.2763822,
+              -30.065496699999997
+            ],
+            [
+              138.2763822,
+              -30.0657367
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bldg_post_office",
+        "name": "Post Office",
+        "type": "post_telegraph",
+        "startYear": 1878,
+        "endYear": 1960,
+        "ruinVisibleFrom": 1960,
+        "survivesAsRuin": true,
+        "status": "documented",
+        "confidence": "documented",
+        "dateConfidence": "documented",
+        "whatWasHere": "Post office 1878–1960. Surviving building dates from the 1890s per FRG; telegraph connection to Overland Telegraph Line.",
+        "sourceIds": [
+          "source_frg_town_guide",
+          "source_frg_navigating"
+        ],
+        "photoIds": [
+          "photo_011",
+          "photo_014"
+        ],
+        "useClass": "civic",
+        "mapKind": "landmark",
+        "geometrySource": "osm_aligned",
+        "geometryConfidence": "approximate",
+        "geometryNote": "Centroid snapped to OpenStreetMap historic feature (2026 extract); footprint size illustrative."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.2771521,
+              -30.066111199999998
+            ],
+            [
+              138.2774121,
+              -30.066111199999998
+            ],
+            [
+              138.2774121,
+              -30.0659112
+            ],
+            [
+              138.2771521,
+              -30.0659112
+            ],
+            [
+              138.2771521,
+              -30.066111199999998
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bldg_bakery",
+        "name": "Scotch Oven Underground Bakery",
+        "type": "bakery",
+        "startYear": 1905,
+        "endYear": 1960,
+        "ruinVisibleFrom": 1960,
+        "survivesAsRuin": true,
+        "restoredYear": 2010,
+        "status": "documented",
+        "confidence": "approximate",
+        "dateConfidence": "approximate",
+        "whatWasHere": "Underground scotch oven bakery built early 20th century (exact year uncertain). Restored 2010; used seasonally by FRG volunteers.",
+        "sourceIds": [
+          "source_frg_town_guide",
+          "source_frg_navigating"
+        ],
+        "photoIds": [
+          "photo_008"
+        ],
+        "useClass": "commercial",
+        "mapKind": "landmark",
+        "geometrySource": "osm_aligned",
+        "geometryConfidence": "approximate",
+        "geometryNote": "Centroid snapped to OpenStreetMap historic feature (2026 extract); footprint size illustrative."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.2764614,
+              -30.0674348
+            ],
+            [
+              138.2766814,
+              -30.0674348
+            ],
+            [
+              138.2766814,
+              -30.0672548
+            ],
+            [
+              138.2764614,
+              -30.0672548
+            ],
+            [
+              138.2764614,
+              -30.0674348
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bldg_manfield_store",
+        "name": "Manfield / Bell General Store",
+        "type": "general_store",
+        "startYear": 1882,
+        "endYear": 1967,
+        "ruinVisibleFrom": 1967,
+        "survivesAsRuin": false,
+        "status": "documented",
+        "confidence": "approximate",
+        "dateConfidence": "approximate",
+        "whatWasHere": "Bell then Mansfield/Manfield general store. John Mansfield associated to c.1920 with camel trains; Bell family store 1920–1967 (FRG town guide). Exact footprint approximate.",
+        "sourceIds": [
+          "source_frg_town_guide",
+          "source_slsa_b8007"
+        ],
+        "photoIds": [
+          "photo_010"
+        ],
+        "people": [
+          "J.W. Manfield",
+          "John Mansfield",
+          "Bell family"
+        ],
+        "useClass": "commercial",
+        "mapKind": "landmark",
+        "geometrySource": "translated_to_osm_frame",
+        "geometryConfidence": "approximate"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.2771065,
+              -30.066944019999998
+            ],
+            [
+              138.2773865,
+              -30.066944019999998
+            ],
+            [
+              138.2773865,
+              -30.066744019999998
+            ],
+            [
+              138.2771065,
+              -30.066744019999998
+            ],
+            [
+              138.2771065,
+              -30.066944019999998
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bldg_blacksmith",
+        "name": "Blacksmith Forge & Stables",
+        "type": "blacksmith",
+        "startYear": 1882,
+        "endYear": 1940,
+        "ruinVisibleFrom": 1940,
+        "survivesAsRuin": true,
+        "status": "documented",
+        "confidence": "approximate",
+        "dateConfidence": "approximate",
+        "whatWasHere": "Blacksmith forge and stables on First Street (FRG trail). Closure year approximate.",
+        "sourceIds": [
+          "source_frg_town_guide"
+        ],
+        "photoIds": [],
+        "useClass": "commercial",
+        "mapKind": "landmark",
+        "placementNote": "Snapped toward Twelfth Street commercial spine (approximate site).",
+        "geometrySource": "translated_to_osm_frame",
+        "geometryConfidence": "approximate"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.27645650000002,
+              -30.067024019999998
+            ],
+            [
+              138.27673650000003,
+              -30.067024019999998
+            ],
+            [
+              138.27673650000003,
+              -30.06682402
+            ],
+            [
+              138.27645650000002,
+              -30.06682402
+            ],
+            [
+              138.27645650000002,
+              -30.067024019999998
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bldg_police",
+        "name": "Police Station & Cells",
+        "type": "police",
+        "startYear": 1890,
+        "endYear": 1950,
+        "ruinVisibleFrom": 1950,
+        "survivesAsRuin": true,
+        "status": "documented",
+        "confidence": "approximate",
+        "dateConfidence": "approximate",
+        "whatWasHere": "Police station built 1890s; closed 1950s after flood damage; police relocated to Leigh Creek.",
+        "sourceIds": [
+          "source_frg_town_guide",
+          "source_frg_navigating"
+        ],
+        "photoIds": [],
+        "useClass": "civic",
+        "mapKind": "landmark",
+        "geometrySource": "osm_aligned",
+        "geometryConfidence": "approximate",
+        "geometryNote": "Centroid snapped to OpenStreetMap historic feature (2026 extract); footprint size illustrative."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.2786911,
+              -30.0656609
+            ],
+            [
+              138.2789711,
+              -30.0656609
+            ],
+            [
+              138.2789711,
+              -30.065440900000002
+            ],
+            [
+              138.2786911,
+              -30.065440900000002
+            ],
+            [
+              138.2786911,
+              -30.0656609
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bldg_old_police",
+        "name": "Old Police Station",
+        "type": "police",
+        "startYear": 1876,
+        "endYear": 1935,
+        "ruinVisibleFrom": 1935,
+        "survivesAsRuin": true,
+        "status": "documented",
+        "confidence": "approximate",
+        "dateConfidence": "approximate",
+        "whatWasHere": "Earlier police station (opened 1876 replacing tent by creek). Wooden slab building closed 1935 per FRG navigating notes.",
+        "sourceIds": [
+          "source_frg_town_guide",
+          "source_frg_navigating"
+        ],
+        "photoIds": [],
+        "useClass": "civic",
+        "mapKind": "landmark",
+        "geometrySource": "translated_to_osm_frame",
+        "geometryConfidence": "approximate"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.27759149999997,
+              -30.066104019999997
+            ],
+            [
+              138.27785149999997,
+              -30.066104019999997
+            ],
+            [
+              138.27785149999997,
+              -30.06588402
+            ],
+            [
+              138.27759149999997,
+              -30.06588402
+            ],
+            [
+              138.27759149999997,
+              -30.066104019999997
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bldg_anglican",
+        "name": "Anglican Church",
+        "type": "church",
+        "startYear": 1890,
+        "endYear": 1967,
+        "ruinVisibleFrom": 1967,
+        "survivesAsRuin": true,
+        "status": "documented",
+        "confidence": "documented",
+        "dateConfidence": "documented",
+        "whatWasHere": "Anglican Church 1890–1967. Bell stand and interpretive photos remain on site.",
+        "sourceIds": [
+          "source_frg_town_guide"
+        ],
+        "photoIds": [],
+        "useClass": "civic",
+        "mapKind": "landmark",
+        "geometrySource": "translated_to_osm_frame",
+        "geometryConfidence": "approximate"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.27776649999998,
+              -30.06660402
+            ],
+            [
+              138.27802649999998,
+              -30.06660402
+            ],
+            [
+              138.27802649999998,
+              -30.06638402
+            ],
+            [
+              138.27776649999998,
+              -30.06638402
+            ],
+            [
+              138.27776649999998,
+              -30.06660402
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bldg_moffatt",
+        "name": "Moffatt House",
+        "type": "house",
+        "startYear": 1885,
+        "endYear": 1960,
+        "ruinVisibleFrom": 1960,
+        "survivesAsRuin": true,
+        "status": "documented",
+        "confidence": "approximate",
+        "dateConfidence": "approximate",
+        "whatWasHere": "Family home of Robert Moffatt; masonry residence with kitchen stove and slate flooring remnants.",
+        "sourceIds": [
+          "source_frg_town_guide"
+        ],
+        "photoIds": [
+          "photo_014"
+        ],
+        "people": [
+          "Robert Moffatt"
+        ],
+        "useClass": "dwelling",
+        "mapKind": "dwelling",
+        "geometrySource": "osm_aligned",
+        "geometryConfidence": "approximate",
+        "geometryNote": "Centroid snapped to OpenStreetMap historic feature (2026 extract); footprint size illustrative."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.2757388,
+              -30.0661278
+            ],
+            [
+              138.2759388,
+              -30.0661278
+            ],
+            [
+              138.2759388,
+              -30.0659678
+            ],
+            [
+              138.2757388,
+              -30.0659678
+            ],
+            [
+              138.2757388,
+              -30.0661278
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bldg_finn",
+        "name": "Finn Family House",
+        "type": "house",
+        "startYear": 1889,
+        "endYear": 1944,
+        "ruinVisibleFrom": 1944,
+        "survivesAsRuin": true,
+        "status": "documented",
+        "confidence": "approximate",
+        "dateConfidence": "documented",
+        "whatWasHere": "Home of Nat & Lucy Finn and their seven daughters, 1889–1944. Square water tank with daughters' names inscribed.",
+        "sourceIds": [
+          "source_frg_town_guide"
+        ],
+        "photoIds": [],
+        "people": [
+          "Nat Finn",
+          "Lucy Finn"
+        ],
+        "useClass": "dwelling",
+        "mapKind": "dwelling",
+        "geometrySource": "osm_aligned",
+        "geometryConfidence": "approximate",
+        "geometryNote": "Centroid snapped to OpenStreetMap historic feature (2026 extract); footprint size illustrative."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.2751043,
+              -30.0665406
+            ],
+            [
+              138.2752843,
+              -30.0665406
+            ],
+            [
+              138.2752843,
+              -30.0664006
+            ],
+            [
+              138.2751043,
+              -30.0664006
+            ],
+            [
+              138.2751043,
+              -30.0665406
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bldg_patterson",
+        "name": "Patterson House",
+        "type": "house",
+        "startYear": 1920,
+        "endYear": 1982,
+        "ruinVisibleFrom": 1982,
+        "survivesAsRuin": true,
+        "restoredYear": 2019,
+        "status": "documented",
+        "confidence": "approximate",
+        "dateConfidence": "approximate",
+        "whatWasHere": "John 'Gordie' Patterson family home from c.1920; Pattersons lived at Farina until 1982. Rebuilt by FRG 2017–2019; original fireplace retained.",
+        "sourceIds": [
+          "source_frg_town_guide"
+        ],
+        "photoIds": [],
+        "people": [
+          "John Patterson"
+        ],
+        "useClass": "dwelling",
+        "mapKind": "dwelling",
+        "geometrySource": "osm_aligned",
+        "geometryConfidence": "approximate",
+        "geometryNote": "Centroid snapped to OpenStreetMap historic feature (2026 extract); footprint size illustrative."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.2764814,
+              -30.0672348
+            ],
+            [
+              138.2767614,
+              -30.0672348
+            ],
+            [
+              138.2767614,
+              -30.067014800000003
+            ],
+            [
+              138.2764814,
+              -30.067014800000003
+            ],
+            [
+              138.2764814,
+              -30.0672348
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bldg_angels_rest",
+        "name": "Angels Rest",
+        "type": "house",
+        "startYear": 1890,
+        "endYear": 1950,
+        "ruinVisibleFrom": 1950,
+        "survivesAsRuin": true,
+        "status": "documented",
+        "confidence": "approximate",
+        "dateConfidence": "approximate",
+        "whatWasHere": "Residence associated with Celia Morris, who supported the town's young women. Burial marked in the cemetery.",
+        "sourceIds": [
+          "source_frg_town_guide"
+        ],
+        "photoIds": [],
+        "people": [
+          "Celia Morris"
+        ],
+        "useClass": "dwelling",
+        "mapKind": "dwelling",
+        "geometrySource": "translated_to_osm_frame",
+        "geometryConfidence": "approximate"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.2775165,
+              -30.066189019999996
+            ],
+            [
+              138.2776265,
+              -30.066189019999996
+            ],
+            [
+              138.2776265,
+              -30.066099019999996
+            ],
+            [
+              138.2775165,
+              -30.066099019999996
+            ],
+            [
+              138.2775165,
+              -30.066189019999996
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bldg_station",
+        "name": "Farina Railway Station",
+        "type": "railway",
+        "startYear": 1882,
+        "endYear": 1980,
+        "ruinVisibleFrom": 1980,
+        "survivesAsRuin": true,
+        "status": "documented",
+        "confidence": "approximate",
+        "dateConfidence": "documented",
+        "whatWasHere": "Railway station and facilities from railhead opening 22 May 1882. Precinct included goods shed, yards, water tower, fettlers' cottages. Line closed 1980s; rails removed 1993.",
+        "sourceIds": [
+          "source_frg_history",
+          "source_frg_navigating"
+        ],
+        "photoIds": [
+          "photo_003",
+          "photo_005",
+          "photo_012",
+          "photo_015",
+          "photo_016"
+        ],
+        "useClass": "railway",
+        "mapKind": "landmark",
+        "geometrySource": "osm_aligned",
+        "geometryConfidence": "approximate",
+        "geometryNote": "Centroid snapped to OpenStreetMap historic feature (2026 extract); footprint size illustrative."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.2833032,
+              -30.069793100000002
+            ],
+            [
+              138.2837532,
+              -30.069793100000002
+            ],
+            [
+              138.2837532,
+              -30.069493100000003
+            ],
+            [
+              138.2833032,
+              -30.069493100000003
+            ],
+            [
+              138.2833032,
+              -30.069793100000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bldg_school",
+        "name": "Farina School (site)",
+        "type": "school",
+        "startYear": 1879,
+        "endYear": 1957,
+        "ruinVisibleFrom": 1957,
+        "survivesAsRuin": false,
+        "status": "documented",
+        "confidence": "approximate",
+        "dateConfidence": "documented",
+        "whatWasHere": "Farina school operating 1879–1957 (secondary/Wikipedia inventory; refine with Education Dept records). Footprint approximate.",
+        "sourceIds": [
+          "source_frg_history",
+          "source_wiki_farina"
+        ],
+        "photoIds": [],
+        "useClass": "civic",
+        "mapKind": "landmark",
+        "geometrySource": "translated_to_osm_frame",
+        "geometryConfidence": "approximate"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.2775915,
+              -30.06722902
+            ],
+            [
+              138.2778515,
+              -30.06722902
+            ],
+            [
+              138.2778515,
+              -30.06700902
+            ],
+            [
+              138.2775915,
+              -30.06700902
+            ],
+            [
+              138.2775915,
+              -30.06722902
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bldg_grain_store",
+        "name": "Grain Store",
+        "type": "commerce",
+        "startYear": 1882,
+        "endYear": 1920,
+        "ruinVisibleFrom": 1920,
+        "survivesAsRuin": false,
+        "status": "documented",
+        "confidence": "approximate",
+        "dateConfidence": "approximate",
+        "whatWasHere": "Grain store among peak-era businesses (FRG history inventory). Footprint approximate; exact site uncertain.",
+        "sourceIds": [
+          "source_frg_history"
+        ],
+        "photoIds": [],
+        "placeholder": true,
+        "useClass": "commercial",
+        "mapKind": "landmark",
+        "geometrySource": "translated_to_osm_frame",
+        "geometryConfidence": "approximate"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.27739150000002,
+              -30.06691402
+            ],
+            [
+              138.27767150000003,
+              -30.06691402
+            ],
+            [
+              138.27767150000003,
+              -30.06671402
+            ],
+            [
+              138.27739150000002,
+              -30.06671402
+            ],
+            [
+              138.27739150000002,
+              -30.06691402
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bldg_bank",
+        "name": "Bank (site)",
+        "type": "commerce",
+        "startYear": 1884,
+        "endYear": 1930,
+        "ruinVisibleFrom": 1930,
+        "survivesAsRuin": false,
+        "status": "documented",
+        "confidence": "approximate",
+        "dateConfidence": "approximate",
+        "whatWasHere": "Bank listed among heyday institutions (FRG / secondary inventories). Exact bank name and footprint not yet confirmed from titles.",
+        "sourceIds": [
+          "source_frg_history",
+          "source_wiki_farina"
+        ],
+        "photoIds": [],
+        "placeholder": true,
+        "useClass": "commercial",
+        "mapKind": "landmark",
+        "placementNote": "Snapped toward Twelfth Street commercial spine (approximate site).",
+        "geometrySource": "translated_to_osm_frame",
+        "geometryConfidence": "approximate"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.2769815,
+              -30.066904019999996
+            ],
+            [
+              138.2772615,
+              -30.066904019999996
+            ],
+            [
+              138.2772615,
+              -30.066704019999996
+            ],
+            [
+              138.2769815,
+              -30.066704019999996
+            ],
+            [
+              138.2769815,
+              -30.066904019999996
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bldg_brewery_1",
+        "name": "Brewery (site A)",
+        "type": "brewery",
+        "startYear": 1883,
+        "endYear": 1910,
+        "ruinVisibleFrom": 1910,
+        "survivesAsRuin": false,
+        "status": "documented",
+        "confidence": "approximate",
+        "dateConfidence": "approximate",
+        "whatWasHere": "One of two breweries noted in peak-era inventories (FRG). Location approximate — not a surveyed footprint.",
+        "sourceIds": [
+          "source_frg_history"
+        ],
+        "photoIds": [],
+        "placeholder": true,
+        "useClass": "commercial",
+        "mapKind": "landmark",
+        "placementNote": "Snapped toward Twelfth Street commercial spine (approximate site).",
+        "geometrySource": "translated_to_osm_frame",
+        "geometryConfidence": "approximate"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.2756565,
+              -30.067024019999998
+            ],
+            [
+              138.2759365,
+              -30.067024019999998
+            ],
+            [
+              138.2759365,
+              -30.06682402
+            ],
+            [
+              138.2756565,
+              -30.06682402
+            ],
+            [
+              138.2756565,
+              -30.067024019999998
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bldg_brewery_2",
+        "name": "Brewery (site B)",
+        "type": "brewery",
+        "startYear": 1884,
+        "endYear": 1905,
+        "ruinVisibleFrom": 1905,
+        "survivesAsRuin": false,
+        "status": "documented",
+        "confidence": "approximate",
+        "dateConfidence": "approximate",
+        "whatWasHere": "Second brewery from peak-era inventories (FRG). Location approximate.",
+        "sourceIds": [
+          "source_frg_history"
+        ],
+        "photoIds": [],
+        "placeholder": true,
+        "useClass": "commercial",
+        "mapKind": "landmark",
+        "geometrySource": "translated_to_osm_frame",
+        "geometryConfidence": "approximate"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.27594150000002,
+              -30.06766402
+            ],
+            [
+              138.27622150000002,
+              -30.06766402
+            ],
+            [
+              138.27622150000002,
+              -30.06746402
+            ],
+            [
+              138.27594150000002,
+              -30.06746402
+            ],
+            [
+              138.27594150000002,
+              -30.06766402
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bldg_blacksmith_2",
+        "name": "Blacksmith (site 2)",
+        "type": "blacksmith",
+        "startYear": 1883,
+        "endYear": 1925,
+        "ruinVisibleFrom": 1925,
+        "survivesAsRuin": false,
+        "status": "documented",
+        "confidence": "approximate",
+        "dateConfidence": "approximate",
+        "whatWasHere": "FRG notes five blacksmiths at peak. Additional sites are approximate placements to reflect documented trade density — not named workshops.",
+        "sourceIds": [
+          "source_frg_history"
+        ],
+        "photoIds": [],
+        "placeholder": true,
+        "useClass": "commercial",
+        "mapKind": "landmark",
+        "placementNote": "Snapped toward Twelfth Street commercial spine (approximate site).",
+        "geometrySource": "translated_to_osm_frame",
+        "geometryConfidence": "approximate"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.27621150000002,
+              -30.067024019999998
+            ],
+            [
+              138.27649150000002,
+              -30.067024019999998
+            ],
+            [
+              138.27649150000002,
+              -30.06682402
+            ],
+            [
+              138.27621150000002,
+              -30.06682402
+            ],
+            [
+              138.27621150000002,
+              -30.067024019999998
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bldg_blacksmith_3",
+        "name": "Blacksmith (site 3)",
+        "type": "blacksmith",
+        "startYear": 1884,
+        "endYear": 1915,
+        "ruinVisibleFrom": 1915,
+        "survivesAsRuin": false,
+        "status": "documented",
+        "confidence": "approximate",
+        "dateConfidence": "approximate",
+        "whatWasHere": "Approximate additional blacksmith among five documented at peak (FRG).",
+        "sourceIds": [
+          "source_frg_history"
+        ],
+        "photoIds": [],
+        "placeholder": true,
+        "useClass": "commercial",
+        "mapKind": "landmark",
+        "placementNote": "Snapped toward Twelfth Street commercial spine (approximate site).",
+        "geometrySource": "translated_to_osm_frame",
+        "geometryConfidence": "approximate"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.2767615,
+              -30.067024019999998
+            ],
+            [
+              138.2770415,
+              -30.067024019999998
+            ],
+            [
+              138.2770415,
+              -30.06682402
+            ],
+            [
+              138.2767615,
+              -30.06682402
+            ],
+            [
+              138.2767615,
+              -30.067024019999998
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bldg_blacksmith_4",
+        "name": "Blacksmith (site 4)",
+        "type": "blacksmith",
+        "startYear": 1885,
+        "endYear": 1912,
+        "ruinVisibleFrom": 1912,
+        "survivesAsRuin": false,
+        "status": "documented",
+        "confidence": "approximate",
+        "dateConfidence": "approximate",
+        "whatWasHere": "Approximate additional blacksmith among five documented at peak (FRG).",
+        "sourceIds": [
+          "source_frg_history"
+        ],
+        "photoIds": [],
+        "placeholder": true,
+        "useClass": "commercial",
+        "mapKind": "landmark",
+        "placementNote": "Snapped toward Twelfth Street commercial spine (approximate site).",
+        "geometrySource": "translated_to_osm_frame",
+        "geometryConfidence": "approximate"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.2772115,
+              -30.067024019999998
+            ],
+            [
+              138.2774915,
+              -30.067024019999998
+            ],
+            [
+              138.2774915,
+              -30.06682402
+            ],
+            [
+              138.2772115,
+              -30.06682402
+            ],
+            [
+              138.2772115,
+              -30.067024019999998
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bldg_blacksmith_5",
+        "name": "Blacksmith (site 5)",
+        "type": "blacksmith",
+        "startYear": 1886,
+        "endYear": 1908,
+        "ruinVisibleFrom": 1908,
+        "survivesAsRuin": false,
+        "status": "documented",
+        "confidence": "approximate",
+        "dateConfidence": "approximate",
+        "whatWasHere": "Approximate additional blacksmith among five documented at peak (FRG).",
+        "sourceIds": [
+          "source_frg_history"
+        ],
+        "photoIds": [],
+        "placeholder": true,
+        "useClass": "commercial",
+        "mapKind": "landmark",
+        "geometrySource": "translated_to_osm_frame",
+        "geometryConfidence": "approximate"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.2775615,
+              -30.06753402
+            ],
+            [
+              138.2778415,
+              -30.06753402
+            ],
+            [
+              138.2778415,
+              -30.06733402
+            ],
+            [
+              138.2775615,
+              -30.06733402
+            ],
+            [
+              138.2775615,
+              -30.06753402
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bldg_goods_shed",
+        "name": "Railway Goods Shed",
+        "type": "railway",
+        "startYear": 1882,
+        "endYear": 1980,
+        "ruinVisibleFrom": 1980,
+        "survivesAsRuin": true,
+        "status": "documented",
+        "confidence": "approximate",
+        "dateConfidence": "approximate",
+        "whatWasHere": "Goods shed in railway precinct (FRG navigating notes). Exact footprint approximate.",
+        "sourceIds": [
+          "source_frg_navigating",
+          "source_frg_history"
+        ],
+        "photoIds": [
+          "photo_012"
+        ],
+        "placeholder": true,
+        "useClass": "railway",
+        "mapKind": "landmark",
+        "geometrySource": "osm_aligned",
+        "geometryConfidence": "approximate",
+        "geometryNote": "Centroid snapped to OpenStreetMap historic feature (2026 extract); footprint size illustrative."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.283758,
+              -30.0690411
+            ],
+            [
+              138.28415800000002,
+              -30.0690411
+            ],
+            [
+              138.28415800000002,
+              -30.0687911
+            ],
+            [
+              138.283758,
+              -30.0687911
+            ],
+            [
+              138.283758,
+              -30.0690411
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bldg_water_tower",
+        "name": "Railway Water Tower",
+        "type": "railway",
+        "startYear": 1882,
+        "endYear": 1980,
+        "ruinVisibleFrom": 1980,
+        "survivesAsRuin": true,
+        "status": "documented",
+        "confidence": "approximate",
+        "dateConfidence": "approximate",
+        "whatWasHere": "Water tower in railway precinct (FRG). Supports locomotive supply narrative.",
+        "sourceIds": [
+          "source_frg_navigating"
+        ],
+        "photoIds": [
+          "photo_004"
+        ],
+        "placeholder": true,
+        "useClass": "railway",
+        "mapKind": "landmark",
+        "geometrySource": "osm_aligned",
+        "geometryConfidence": "approximate",
+        "geometryNote": "Centroid snapped to OpenStreetMap historic feature (2026 extract); footprint size illustrative."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.28373800000003,
+              -30.0687861
+            ],
+            [
+              138.28387800000002,
+              -30.0687861
+            ],
+            [
+              138.28387800000002,
+              -30.068646100000002
+            ],
+            [
+              138.28373800000003,
+              -30.068646100000002
+            ],
+            [
+              138.28373800000003,
+              -30.0687861
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bldg_fettlers",
+        "name": "Fettlers' Cottages",
+        "type": "railway",
+        "startYear": 1882,
+        "endYear": 1960,
+        "ruinVisibleFrom": 1960,
+        "survivesAsRuin": true,
+        "status": "documented",
+        "confidence": "approximate",
+        "dateConfidence": "approximate",
+        "whatWasHere": "Fettlers' cottages in railway precinct (FRG Wells/railway trail notes).",
+        "sourceIds": [
+          "source_frg_navigating"
+        ],
+        "photoIds": [],
+        "placeholder": true,
+        "useClass": "railway",
+        "mapKind": "landmark",
+        "geometrySource": "osm_aligned",
+        "geometryConfidence": "approximate",
+        "geometryNote": "Centroid snapped to OpenStreetMap historic feature (2026 extract); footprint size illustrative."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.2833425,
+              -30.076985399999998
+            ],
+            [
+              138.28374250000002,
+              -30.076985399999998
+            ],
+            [
+              138.28374250000002,
+              -30.0767654
+            ],
+            [
+              138.2833425,
+              -30.0767654
+            ],
+            [
+              138.2833425,
+              -30.076985399999998
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bldg_stockyards",
+        "name": "Sheep & Cattle Yards",
+        "type": "railway",
+        "startYear": 1882,
+        "endYear": 1980,
+        "ruinVisibleFrom": 1980,
+        "survivesAsRuin": true,
+        "status": "documented",
+        "confidence": "approximate",
+        "dateConfidence": "approximate",
+        "whatWasHere": "Stock loading yards — Farina remained a livestock dispatch point well into the 20th century (FRG).",
+        "sourceIds": [
+          "source_frg_navigating",
+          "source_frg_history"
+        ],
+        "photoIds": [
+          "photo_003",
+          "photo_015"
+        ],
+        "placeholder": true,
+        "useClass": "railway",
+        "mapKind": "landmark",
+        "geometrySource": "osm_aligned",
+        "geometryConfidence": "approximate",
+        "geometryNote": "Centroid snapped to OpenStreetMap historic feature (2026 extract); footprint size illustrative."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.28363660000002,
+              -30.0671122
+            ],
+            [
+              138.28418660000003,
+              -30.0671122
+            ],
+            [
+              138.28418660000003,
+              -30.0667622
+            ],
+            [
+              138.28363660000002,
+              -30.0667622
+            ],
+            [
+              138.28363660000002,
+              -30.0671122
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bldg_house_approx_01",
+        "name": "Dwelling (approximate)",
+        "type": "house",
+        "startYear": 1883,
+        "endYear": 1915,
+        "ruinVisibleFrom": 1915,
+        "survivesAsRuin": false,
+        "status": "approximate",
+        "confidence": "approximate",
+        "dateConfidence": "approximate",
+        "placeholder": true,
+        "whatWasHere": "Illustrative occupancy density based on peak population (~600), not a named land title or documented resident. Location approximate on surveyed grid.",
+        "sourceIds": [
+          "source_frg_history",
+          "source_frg_land_titles"
+        ],
+        "photoIds": [],
+        "useClass": "dwelling",
+        "mapKind": "dwelling",
+        "geometrySource": "translated_to_osm_frame",
+        "geometryConfidence": "approximate"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.2752865,
+              -30.06773402
+            ],
+            [
+              138.2753965,
+              -30.06773402
+            ],
+            [
+              138.2753965,
+              -30.06764402
+            ],
+            [
+              138.2752865,
+              -30.06764402
+            ],
+            [
+              138.2752865,
+              -30.06773402
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bldg_house_approx_02",
+        "name": "Dwelling (approximate)",
+        "type": "house",
+        "startYear": 1884,
+        "endYear": 1920,
+        "ruinVisibleFrom": 1920,
+        "survivesAsRuin": false,
+        "status": "approximate",
+        "confidence": "approximate",
+        "dateConfidence": "approximate",
+        "placeholder": true,
+        "whatWasHere": "Illustrative occupancy density based on peak population (~600), not a named land title or documented resident. Location approximate on surveyed grid.",
+        "sourceIds": [
+          "source_frg_history",
+          "source_frg_land_titles"
+        ],
+        "photoIds": [],
+        "useClass": "dwelling",
+        "mapKind": "dwelling",
+        "geometrySource": "translated_to_osm_frame",
+        "geometryConfidence": "approximate"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.2755665,
+              -30.06773402
+            ],
+            [
+              138.2756765,
+              -30.06773402
+            ],
+            [
+              138.2756765,
+              -30.06764402
+            ],
+            [
+              138.2755665,
+              -30.06764402
+            ],
+            [
+              138.2755665,
+              -30.06773402
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bldg_house_approx_03",
+        "name": "Dwelling (approximate)",
+        "type": "house",
+        "startYear": 1885,
+        "endYear": 1925,
+        "ruinVisibleFrom": 1925,
+        "survivesAsRuin": false,
+        "status": "approximate",
+        "confidence": "approximate",
+        "dateConfidence": "approximate",
+        "placeholder": true,
+        "whatWasHere": "Illustrative occupancy density based on peak population (~600), not a named land title or documented resident. Location approximate on surveyed grid.",
+        "sourceIds": [
+          "source_frg_history",
+          "source_frg_land_titles"
+        ],
+        "photoIds": [],
+        "useClass": "dwelling",
+        "mapKind": "dwelling",
+        "geometrySource": "translated_to_osm_frame",
+        "geometryConfidence": "approximate"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.2758465,
+              -30.06773402
+            ],
+            [
+              138.2759565,
+              -30.06773402
+            ],
+            [
+              138.2759565,
+              -30.06764402
+            ],
+            [
+              138.2758465,
+              -30.06764402
+            ],
+            [
+              138.2758465,
+              -30.06773402
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bldg_house_approx_04",
+        "name": "Dwelling (approximate)",
+        "type": "house",
+        "startYear": 1886,
+        "endYear": 1930,
+        "ruinVisibleFrom": 1930,
+        "survivesAsRuin": true,
+        "status": "approximate",
+        "confidence": "approximate",
+        "dateConfidence": "approximate",
+        "placeholder": true,
+        "whatWasHere": "Illustrative occupancy density based on peak population (~600), not a named land title or documented resident. Location approximate on surveyed grid.",
+        "sourceIds": [
+          "source_frg_history",
+          "source_frg_land_titles"
+        ],
+        "photoIds": [],
+        "useClass": "dwelling",
+        "mapKind": "dwelling",
+        "geometrySource": "translated_to_osm_frame",
+        "geometryConfidence": "approximate"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.2752865,
+              -30.06751402
+            ],
+            [
+              138.2753965,
+              -30.06751402
+            ],
+            [
+              138.2753965,
+              -30.06742402
+            ],
+            [
+              138.2752865,
+              -30.06742402
+            ],
+            [
+              138.2752865,
+              -30.06751402
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bldg_house_approx_05",
+        "name": "Dwelling (approximate)",
+        "type": "house",
+        "startYear": 1887,
+        "endYear": 1935,
+        "ruinVisibleFrom": 1935,
+        "survivesAsRuin": false,
+        "status": "approximate",
+        "confidence": "approximate",
+        "dateConfidence": "approximate",
+        "placeholder": true,
+        "whatWasHere": "Illustrative occupancy density based on peak population (~600), not a named land title or documented resident. Location approximate on surveyed grid.",
+        "sourceIds": [
+          "source_frg_history",
+          "source_frg_land_titles"
+        ],
+        "photoIds": [],
+        "useClass": "dwelling",
+        "mapKind": "dwelling",
+        "geometrySource": "translated_to_osm_frame",
+        "geometryConfidence": "approximate"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.2755665,
+              -30.06751402
+            ],
+            [
+              138.2756765,
+              -30.06751402
+            ],
+            [
+              138.2756765,
+              -30.06742402
+            ],
+            [
+              138.2755665,
+              -30.06742402
+            ],
+            [
+              138.2755665,
+              -30.06751402
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bldg_house_approx_06",
+        "name": "Dwelling (approximate)",
+        "type": "house",
+        "startYear": 1888,
+        "endYear": 1940,
+        "ruinVisibleFrom": 1940,
+        "survivesAsRuin": false,
+        "status": "approximate",
+        "confidence": "approximate",
+        "dateConfidence": "approximate",
+        "placeholder": true,
+        "whatWasHere": "Illustrative occupancy density based on peak population (~600), not a named land title or documented resident. Location approximate on surveyed grid.",
+        "sourceIds": [
+          "source_frg_history",
+          "source_frg_land_titles"
+        ],
+        "photoIds": [],
+        "useClass": "dwelling",
+        "mapKind": "dwelling",
+        "geometrySource": "translated_to_osm_frame",
+        "geometryConfidence": "approximate"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.27588649999998,
+              -30.067934019999996
+            ],
+            [
+              138.2759965,
+              -30.067934019999996
+            ],
+            [
+              138.2759965,
+              -30.067844019999995
+            ],
+            [
+              138.27588649999998,
+              -30.067844019999995
+            ],
+            [
+              138.27588649999998,
+              -30.067934019999996
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bldg_house_approx_07",
+        "name": "Dwelling (approximate)",
+        "type": "house",
+        "startYear": 1889,
+        "endYear": 1945,
+        "ruinVisibleFrom": 1945,
+        "survivesAsRuin": false,
+        "status": "approximate",
+        "confidence": "approximate",
+        "dateConfidence": "approximate",
+        "placeholder": true,
+        "whatWasHere": "Illustrative occupancy density based on peak population (~600), not a named land title or documented resident. Location approximate on surveyed grid.",
+        "sourceIds": [
+          "source_frg_history",
+          "source_frg_land_titles"
+        ],
+        "photoIds": [],
+        "useClass": "dwelling",
+        "mapKind": "dwelling",
+        "geometrySource": "translated_to_osm_frame",
+        "geometryConfidence": "approximate"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.2761665,
+              -30.067934019999996
+            ],
+            [
+              138.2762765,
+              -30.067934019999996
+            ],
+            [
+              138.2762765,
+              -30.067844019999995
+            ],
+            [
+              138.2761665,
+              -30.067844019999995
+            ],
+            [
+              138.2761665,
+              -30.067934019999996
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bldg_house_approx_08",
+        "name": "Dwelling (approximate)",
+        "type": "house",
+        "startYear": 1882,
+        "endYear": 1950,
+        "ruinVisibleFrom": 1950,
+        "survivesAsRuin": true,
+        "status": "approximate",
+        "confidence": "approximate",
+        "dateConfidence": "approximate",
+        "placeholder": true,
+        "whatWasHere": "Illustrative occupancy density based on peak population (~600), not a named land title or documented resident. Location approximate on surveyed grid.",
+        "sourceIds": [
+          "source_frg_history",
+          "source_frg_land_titles"
+        ],
+        "photoIds": [],
+        "useClass": "dwelling",
+        "mapKind": "dwelling",
+        "geometrySource": "translated_to_osm_frame",
+        "geometryConfidence": "approximate"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.2764465,
+              -30.067934019999996
+            ],
+            [
+              138.2765565,
+              -30.067934019999996
+            ],
+            [
+              138.2765565,
+              -30.067844019999995
+            ],
+            [
+              138.2764465,
+              -30.067844019999995
+            ],
+            [
+              138.2764465,
+              -30.067934019999996
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bldg_house_approx_09",
+        "name": "Dwelling (approximate)",
+        "type": "house",
+        "startYear": 1883,
+        "endYear": 1955,
+        "ruinVisibleFrom": 1955,
+        "survivesAsRuin": false,
+        "status": "approximate",
+        "confidence": "approximate",
+        "dateConfidence": "approximate",
+        "placeholder": true,
+        "whatWasHere": "Illustrative occupancy density based on peak population (~600), not a named land title or documented resident. Location approximate on surveyed grid.",
+        "sourceIds": [
+          "source_frg_history",
+          "source_frg_land_titles"
+        ],
+        "photoIds": [],
+        "useClass": "dwelling",
+        "mapKind": "dwelling",
+        "geometrySource": "translated_to_osm_frame",
+        "geometryConfidence": "approximate"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.27588649999998,
+              -30.067714020000004
+            ],
+            [
+              138.2759965,
+              -30.067714020000004
+            ],
+            [
+              138.2759965,
+              -30.067624020000004
+            ],
+            [
+              138.27588649999998,
+              -30.067624020000004
+            ],
+            [
+              138.27588649999998,
+              -30.067714020000004
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bldg_house_approx_10",
+        "name": "Dwelling (approximate)",
+        "type": "house",
+        "startYear": 1884,
+        "endYear": 1910,
+        "ruinVisibleFrom": 1910,
+        "survivesAsRuin": false,
+        "status": "approximate",
+        "confidence": "approximate",
+        "dateConfidence": "approximate",
+        "placeholder": true,
+        "whatWasHere": "Illustrative occupancy density based on peak population (~600), not a named land title or documented resident. Location approximate on surveyed grid.",
+        "sourceIds": [
+          "source_frg_history",
+          "source_frg_land_titles"
+        ],
+        "photoIds": [],
+        "useClass": "dwelling",
+        "mapKind": "dwelling",
+        "geometrySource": "translated_to_osm_frame",
+        "geometryConfidence": "approximate"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.2761665,
+              -30.067714020000004
+            ],
+            [
+              138.2762765,
+              -30.067714020000004
+            ],
+            [
+              138.2762765,
+              -30.067624020000004
+            ],
+            [
+              138.2761665,
+              -30.067624020000004
+            ],
+            [
+              138.2761665,
+              -30.067714020000004
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bldg_house_approx_11",
+        "name": "Dwelling (approximate)",
+        "type": "house",
+        "startYear": 1885,
+        "endYear": 1915,
+        "ruinVisibleFrom": 1915,
+        "survivesAsRuin": false,
+        "status": "approximate",
+        "confidence": "approximate",
+        "dateConfidence": "approximate",
+        "placeholder": true,
+        "whatWasHere": "Illustrative occupancy density based on peak population (~600), not a named land title or documented resident. Location approximate on surveyed grid.",
+        "sourceIds": [
+          "source_frg_history",
+          "source_frg_land_titles"
+        ],
+        "photoIds": [],
+        "useClass": "dwelling",
+        "mapKind": "dwelling",
+        "geometrySource": "translated_to_osm_frame",
+        "geometryConfidence": "approximate"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.27638649999997,
+              -30.06808402
+            ],
+            [
+              138.27649649999998,
+              -30.06808402
+            ],
+            [
+              138.27649649999998,
+              -30.06799402
+            ],
+            [
+              138.27638649999997,
+              -30.06799402
+            ],
+            [
+              138.27638649999997,
+              -30.06808402
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bldg_house_approx_12",
+        "name": "Dwelling (approximate)",
+        "type": "house",
+        "startYear": 1886,
+        "endYear": 1920,
+        "ruinVisibleFrom": 1920,
+        "survivesAsRuin": true,
+        "status": "approximate",
+        "confidence": "approximate",
+        "dateConfidence": "approximate",
+        "placeholder": true,
+        "whatWasHere": "Illustrative occupancy density based on peak population (~600), not a named land title or documented resident. Location approximate on surveyed grid.",
+        "sourceIds": [
+          "source_frg_history",
+          "source_frg_land_titles"
+        ],
+        "photoIds": [],
+        "useClass": "dwelling",
+        "mapKind": "dwelling",
+        "geometrySource": "translated_to_osm_frame",
+        "geometryConfidence": "approximate"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.27666649999998,
+              -30.06808402
+            ],
+            [
+              138.27677649999998,
+              -30.06808402
+            ],
+            [
+              138.27677649999998,
+              -30.06799402
+            ],
+            [
+              138.27666649999998,
+              -30.06799402
+            ],
+            [
+              138.27666649999998,
+              -30.06808402
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bldg_house_approx_13",
+        "name": "Dwelling (approximate)",
+        "type": "house",
+        "startYear": 1887,
+        "endYear": 1925,
+        "ruinVisibleFrom": 1925,
+        "survivesAsRuin": false,
+        "status": "approximate",
+        "confidence": "approximate",
+        "dateConfidence": "approximate",
+        "placeholder": true,
+        "whatWasHere": "Illustrative occupancy density based on peak population (~600), not a named land title or documented resident. Location approximate on surveyed grid.",
+        "sourceIds": [
+          "source_frg_history",
+          "source_frg_land_titles"
+        ],
+        "photoIds": [],
+        "useClass": "dwelling",
+        "mapKind": "dwelling",
+        "geometrySource": "translated_to_osm_frame",
+        "geometryConfidence": "approximate"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.27694649999998,
+              -30.06808402
+            ],
+            [
+              138.2770565,
+              -30.06808402
+            ],
+            [
+              138.2770565,
+              -30.06799402
+            ],
+            [
+              138.27694649999998,
+              -30.06799402
+            ],
+            [
+              138.27694649999998,
+              -30.06808402
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bldg_house_approx_14",
+        "name": "Dwelling (approximate)",
+        "type": "house",
+        "startYear": 1888,
+        "endYear": 1930,
+        "ruinVisibleFrom": 1930,
+        "survivesAsRuin": false,
+        "status": "approximate",
+        "confidence": "approximate",
+        "dateConfidence": "approximate",
+        "placeholder": true,
+        "whatWasHere": "Illustrative occupancy density based on peak population (~600), not a named land title or documented resident. Location approximate on surveyed grid.",
+        "sourceIds": [
+          "source_frg_history",
+          "source_frg_land_titles"
+        ],
+        "photoIds": [],
+        "useClass": "dwelling",
+        "mapKind": "dwelling",
+        "geometrySource": "translated_to_osm_frame",
+        "geometryConfidence": "approximate"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.27638649999997,
+              -30.067864020000002
+            ],
+            [
+              138.27649649999998,
+              -30.067864020000002
+            ],
+            [
+              138.27649649999998,
+              -30.06777402
+            ],
+            [
+              138.27638649999997,
+              -30.06777402
+            ],
+            [
+              138.27638649999997,
+              -30.067864020000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bldg_house_approx_15",
+        "name": "Dwelling (approximate)",
+        "type": "house",
+        "startYear": 1889,
+        "endYear": 1935,
+        "ruinVisibleFrom": 1935,
+        "survivesAsRuin": false,
+        "status": "approximate",
+        "confidence": "approximate",
+        "dateConfidence": "approximate",
+        "placeholder": true,
+        "whatWasHere": "Illustrative occupancy density based on peak population (~600), not a named land title or documented resident. Location approximate on surveyed grid.",
+        "sourceIds": [
+          "source_frg_history",
+          "source_frg_land_titles"
+        ],
+        "photoIds": [],
+        "useClass": "dwelling",
+        "mapKind": "dwelling",
+        "geometrySource": "translated_to_osm_frame",
+        "geometryConfidence": "approximate"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.27666649999998,
+              -30.067864020000002
+            ],
+            [
+              138.27677649999998,
+              -30.067864020000002
+            ],
+            [
+              138.27677649999998,
+              -30.06777402
+            ],
+            [
+              138.27666649999998,
+              -30.06777402
+            ],
+            [
+              138.27666649999998,
+              -30.067864020000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bldg_house_approx_16",
+        "name": "Dwelling (approximate)",
+        "type": "house",
+        "startYear": 1882,
+        "endYear": 1940,
+        "ruinVisibleFrom": 1940,
+        "survivesAsRuin": true,
+        "status": "approximate",
+        "confidence": "approximate",
+        "dateConfidence": "approximate",
+        "placeholder": true,
+        "whatWasHere": "Illustrative occupancy density based on peak population (~600), not a named land title or documented resident. Location approximate on surveyed grid.",
+        "sourceIds": [
+          "source_frg_history",
+          "source_frg_land_titles"
+        ],
+        "photoIds": [],
+        "useClass": "dwelling",
+        "mapKind": "dwelling",
+        "geometrySource": "translated_to_osm_frame",
+        "geometryConfidence": "approximate"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.2770865,
+              -30.06813402
+            ],
+            [
+              138.2771965,
+              -30.06813402
+            ],
+            [
+              138.2771965,
+              -30.06804402
+            ],
+            [
+              138.2770865,
+              -30.06804402
+            ],
+            [
+              138.2770865,
+              -30.06813402
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bldg_house_approx_17",
+        "name": "Dwelling (approximate)",
+        "type": "house",
+        "startYear": 1883,
+        "endYear": 1945,
+        "ruinVisibleFrom": 1945,
+        "survivesAsRuin": false,
+        "status": "approximate",
+        "confidence": "approximate",
+        "dateConfidence": "approximate",
+        "placeholder": true,
+        "whatWasHere": "Illustrative occupancy density based on peak population (~600), not a named land title or documented resident. Location approximate on surveyed grid.",
+        "sourceIds": [
+          "source_frg_history",
+          "source_frg_land_titles"
+        ],
+        "photoIds": [],
+        "useClass": "dwelling",
+        "mapKind": "dwelling",
+        "geometrySource": "translated_to_osm_frame",
+        "geometryConfidence": "approximate"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.2773665,
+              -30.06813402
+            ],
+            [
+              138.2774765,
+              -30.06813402
+            ],
+            [
+              138.2774765,
+              -30.06804402
+            ],
+            [
+              138.2773665,
+              -30.06804402
+            ],
+            [
+              138.2773665,
+              -30.06813402
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bldg_house_approx_18",
+        "name": "Dwelling (approximate)",
+        "type": "house",
+        "startYear": 1884,
+        "endYear": 1950,
+        "ruinVisibleFrom": 1950,
+        "survivesAsRuin": false,
+        "status": "approximate",
+        "confidence": "approximate",
+        "dateConfidence": "approximate",
+        "placeholder": true,
+        "whatWasHere": "Illustrative occupancy density based on peak population (~600), not a named land title or documented resident. Location approximate on surveyed grid.",
+        "sourceIds": [
+          "source_frg_history",
+          "source_frg_land_titles"
+        ],
+        "photoIds": [],
+        "useClass": "dwelling",
+        "mapKind": "dwelling",
+        "geometrySource": "translated_to_osm_frame",
+        "geometryConfidence": "approximate"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.2776465,
+              -30.06813402
+            ],
+            [
+              138.2777565,
+              -30.06813402
+            ],
+            [
+              138.2777565,
+              -30.06804402
+            ],
+            [
+              138.2776465,
+              -30.06804402
+            ],
+            [
+              138.2776465,
+              -30.06813402
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bldg_house_approx_19",
+        "name": "Dwelling (approximate)",
+        "type": "house",
+        "startYear": 1885,
+        "endYear": 1955,
+        "ruinVisibleFrom": 1955,
+        "survivesAsRuin": false,
+        "status": "approximate",
+        "confidence": "approximate",
+        "dateConfidence": "approximate",
+        "placeholder": true,
+        "whatWasHere": "Illustrative occupancy density based on peak population (~600), not a named land title or documented resident. Location approximate on surveyed grid.",
+        "sourceIds": [
+          "source_frg_history",
+          "source_frg_land_titles"
+        ],
+        "photoIds": [],
+        "useClass": "dwelling",
+        "mapKind": "dwelling",
+        "geometrySource": "translated_to_osm_frame",
+        "geometryConfidence": "approximate"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.2770865,
+              -30.06791402
+            ],
+            [
+              138.2771965,
+              -30.06791402
+            ],
+            [
+              138.2771965,
+              -30.06782402
+            ],
+            [
+              138.2770865,
+              -30.06782402
+            ],
+            [
+              138.2770865,
+              -30.06791402
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bldg_house_approx_20",
+        "name": "Dwelling (approximate)",
+        "type": "house",
+        "startYear": 1886,
+        "endYear": 1910,
+        "ruinVisibleFrom": 1910,
+        "survivesAsRuin": true,
+        "status": "approximate",
+        "confidence": "approximate",
+        "dateConfidence": "approximate",
+        "placeholder": true,
+        "whatWasHere": "Illustrative occupancy density based on peak population (~600), not a named land title or documented resident. Location approximate on surveyed grid.",
+        "sourceIds": [
+          "source_frg_history",
+          "source_frg_land_titles"
+        ],
+        "photoIds": [],
+        "useClass": "dwelling",
+        "mapKind": "dwelling",
+        "geometrySource": "translated_to_osm_frame",
+        "geometryConfidence": "approximate"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.2773665,
+              -30.06791402
+            ],
+            [
+              138.2774765,
+              -30.06791402
+            ],
+            [
+              138.2774765,
+              -30.06782402
+            ],
+            [
+              138.2773665,
+              -30.06782402
+            ],
+            [
+              138.2773665,
+              -30.06791402
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bldg_house_approx_21",
+        "name": "Dwelling (approximate)",
+        "type": "house",
+        "startYear": 1887,
+        "endYear": 1915,
+        "ruinVisibleFrom": 1915,
+        "survivesAsRuin": false,
+        "status": "approximate",
+        "confidence": "approximate",
+        "dateConfidence": "approximate",
+        "placeholder": true,
+        "whatWasHere": "Illustrative occupancy density based on peak population (~600), not a named land title or documented resident. Location approximate on surveyed grid.",
+        "sourceIds": [
+          "source_frg_history",
+          "source_frg_land_titles"
+        ],
+        "photoIds": [],
+        "useClass": "dwelling",
+        "mapKind": "dwelling",
+        "geometrySource": "translated_to_osm_frame",
+        "geometryConfidence": "approximate"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.2778865,
+              -30.06803402
+            ],
+            [
+              138.2779965,
+              -30.06803402
+            ],
+            [
+              138.2779965,
+              -30.06794402
+            ],
+            [
+              138.2778865,
+              -30.06794402
+            ],
+            [
+              138.2778865,
+              -30.06803402
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bldg_house_approx_22",
+        "name": "Dwelling (approximate)",
+        "type": "house",
+        "startYear": 1888,
+        "endYear": 1920,
+        "ruinVisibleFrom": 1920,
+        "survivesAsRuin": false,
+        "status": "approximate",
+        "confidence": "approximate",
+        "dateConfidence": "approximate",
+        "placeholder": true,
+        "whatWasHere": "Illustrative occupancy density based on peak population (~600), not a named land title or documented resident. Location approximate on surveyed grid.",
+        "sourceIds": [
+          "source_frg_history",
+          "source_frg_land_titles"
+        ],
+        "photoIds": [],
+        "useClass": "dwelling",
+        "mapKind": "dwelling",
+        "geometrySource": "translated_to_osm_frame",
+        "geometryConfidence": "approximate"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.2781665,
+              -30.06803402
+            ],
+            [
+              138.2782765,
+              -30.06803402
+            ],
+            [
+              138.2782765,
+              -30.06794402
+            ],
+            [
+              138.2781665,
+              -30.06794402
+            ],
+            [
+              138.2781665,
+              -30.06803402
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bldg_house_approx_23",
+        "name": "Dwelling (approximate)",
+        "type": "house",
+        "startYear": 1889,
+        "endYear": 1925,
+        "ruinVisibleFrom": 1925,
+        "survivesAsRuin": false,
+        "status": "approximate",
+        "confidence": "approximate",
+        "dateConfidence": "approximate",
+        "placeholder": true,
+        "whatWasHere": "Illustrative occupancy density based on peak population (~600), not a named land title or documented resident. Location approximate on surveyed grid.",
+        "sourceIds": [
+          "source_frg_history",
+          "source_frg_land_titles"
+        ],
+        "photoIds": [],
+        "useClass": "dwelling",
+        "mapKind": "dwelling",
+        "geometrySource": "translated_to_osm_frame",
+        "geometryConfidence": "approximate"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.2784465,
+              -30.06803402
+            ],
+            [
+              138.2785565,
+              -30.06803402
+            ],
+            [
+              138.2785565,
+              -30.06794402
+            ],
+            [
+              138.2784465,
+              -30.06794402
+            ],
+            [
+              138.2784465,
+              -30.06803402
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bldg_house_approx_24",
+        "name": "Dwelling (approximate)",
+        "type": "house",
+        "startYear": 1882,
+        "endYear": 1930,
+        "ruinVisibleFrom": 1930,
+        "survivesAsRuin": true,
+        "status": "approximate",
+        "confidence": "approximate",
+        "dateConfidence": "approximate",
+        "placeholder": true,
+        "whatWasHere": "Illustrative occupancy density based on peak population (~600), not a named land title or documented resident. Location approximate on surveyed grid.",
+        "sourceIds": [
+          "source_frg_history",
+          "source_frg_land_titles"
+        ],
+        "photoIds": [],
+        "useClass": "dwelling",
+        "mapKind": "dwelling",
+        "geometrySource": "translated_to_osm_frame",
+        "geometryConfidence": "approximate"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.2778865,
+              -30.06781402
+            ],
+            [
+              138.2779965,
+              -30.06781402
+            ],
+            [
+              138.2779965,
+              -30.06772402
+            ],
+            [
+              138.2778865,
+              -30.06772402
+            ],
+            [
+              138.2778865,
+              -30.06781402
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bldg_house_approx_25",
+        "name": "Dwelling (approximate)",
+        "type": "house",
+        "startYear": 1883,
+        "endYear": 1935,
+        "ruinVisibleFrom": 1935,
+        "survivesAsRuin": false,
+        "status": "approximate",
+        "confidence": "approximate",
+        "dateConfidence": "approximate",
+        "placeholder": true,
+        "whatWasHere": "Illustrative occupancy density based on peak population (~600), not a named land title or documented resident. Location approximate on surveyed grid.",
+        "sourceIds": [
+          "source_frg_history",
+          "source_frg_land_titles"
+        ],
+        "photoIds": [],
+        "useClass": "dwelling",
+        "mapKind": "dwelling",
+        "geometrySource": "translated_to_osm_frame",
+        "geometryConfidence": "approximate"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.2781665,
+              -30.06781402
+            ],
+            [
+              138.2782765,
+              -30.06781402
+            ],
+            [
+              138.2782765,
+              -30.06772402
+            ],
+            [
+              138.2781665,
+              -30.06772402
+            ],
+            [
+              138.2781665,
+              -30.06781402
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bldg_house_approx_26",
+        "name": "Dwelling (approximate)",
+        "type": "house",
+        "startYear": 1884,
+        "endYear": 1940,
+        "ruinVisibleFrom": 1940,
+        "survivesAsRuin": false,
+        "status": "approximate",
+        "confidence": "approximate",
+        "dateConfidence": "approximate",
+        "placeholder": true,
+        "whatWasHere": "Illustrative occupancy density based on peak population (~600), not a named land title or documented resident. Location approximate on surveyed grid.",
+        "sourceIds": [
+          "source_frg_history",
+          "source_frg_land_titles"
+        ],
+        "photoIds": [],
+        "useClass": "dwelling",
+        "mapKind": "dwelling",
+        "geometrySource": "translated_to_osm_frame",
+        "geometryConfidence": "approximate"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.27498649999998,
+              -30.06573402
+            ],
+            [
+              138.2750965,
+              -30.06573402
+            ],
+            [
+              138.2750965,
+              -30.06564402
+            ],
+            [
+              138.27498649999998,
+              -30.06564402
+            ],
+            [
+              138.27498649999998,
+              -30.06573402
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bldg_house_approx_27",
+        "name": "Dwelling (approximate)",
+        "type": "house",
+        "startYear": 1885,
+        "endYear": 1945,
+        "ruinVisibleFrom": 1945,
+        "survivesAsRuin": false,
+        "status": "approximate",
+        "confidence": "approximate",
+        "dateConfidence": "approximate",
+        "placeholder": true,
+        "whatWasHere": "Illustrative occupancy density based on peak population (~600), not a named land title or documented resident. Location approximate on surveyed grid.",
+        "sourceIds": [
+          "source_frg_history",
+          "source_frg_land_titles"
+        ],
+        "photoIds": [],
+        "useClass": "dwelling",
+        "mapKind": "dwelling",
+        "geometrySource": "translated_to_osm_frame",
+        "geometryConfidence": "approximate"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.2752665,
+              -30.06573402
+            ],
+            [
+              138.2753765,
+              -30.06573402
+            ],
+            [
+              138.2753765,
+              -30.06564402
+            ],
+            [
+              138.2752665,
+              -30.06564402
+            ],
+            [
+              138.2752665,
+              -30.06573402
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bldg_house_approx_28",
+        "name": "Dwelling (approximate)",
+        "type": "house",
+        "startYear": 1886,
+        "endYear": 1950,
+        "ruinVisibleFrom": 1950,
+        "survivesAsRuin": true,
+        "status": "approximate",
+        "confidence": "approximate",
+        "dateConfidence": "approximate",
+        "placeholder": true,
+        "whatWasHere": "Illustrative occupancy density based on peak population (~600), not a named land title or documented resident. Location approximate on surveyed grid.",
+        "sourceIds": [
+          "source_frg_history",
+          "source_frg_land_titles"
+        ],
+        "photoIds": [],
+        "useClass": "dwelling",
+        "mapKind": "dwelling",
+        "geometrySource": "translated_to_osm_frame",
+        "geometryConfidence": "approximate"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.2755465,
+              -30.06573402
+            ],
+            [
+              138.2756565,
+              -30.06573402
+            ],
+            [
+              138.2756565,
+              -30.06564402
+            ],
+            [
+              138.2755465,
+              -30.06564402
+            ],
+            [
+              138.2755465,
+              -30.06573402
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bldg_house_approx_29",
+        "name": "Dwelling (approximate)",
+        "type": "house",
+        "startYear": 1887,
+        "endYear": 1955,
+        "ruinVisibleFrom": 1955,
+        "survivesAsRuin": false,
+        "status": "approximate",
+        "confidence": "approximate",
+        "dateConfidence": "approximate",
+        "placeholder": true,
+        "whatWasHere": "Illustrative occupancy density based on peak population (~600), not a named land title or documented resident. Location approximate on surveyed grid.",
+        "sourceIds": [
+          "source_frg_history",
+          "source_frg_land_titles"
+        ],
+        "photoIds": [],
+        "useClass": "dwelling",
+        "mapKind": "dwelling",
+        "geometrySource": "translated_to_osm_frame",
+        "geometryConfidence": "approximate"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.27498649999998,
+              -30.065514020000002
+            ],
+            [
+              138.2750965,
+              -30.065514020000002
+            ],
+            [
+              138.2750965,
+              -30.065424020000002
+            ],
+            [
+              138.27498649999998,
+              -30.065424020000002
+            ],
+            [
+              138.27498649999998,
+              -30.065514020000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bldg_house_approx_30",
+        "name": "Dwelling (approximate)",
+        "type": "house",
+        "startYear": 1888,
+        "endYear": 1910,
+        "ruinVisibleFrom": 1910,
+        "survivesAsRuin": false,
+        "status": "approximate",
+        "confidence": "approximate",
+        "dateConfidence": "approximate",
+        "placeholder": true,
+        "whatWasHere": "Illustrative occupancy density based on peak population (~600), not a named land title or documented resident. Location approximate on surveyed grid.",
+        "sourceIds": [
+          "source_frg_history",
+          "source_frg_land_titles"
+        ],
+        "photoIds": [],
+        "useClass": "dwelling",
+        "mapKind": "dwelling",
+        "geometrySource": "translated_to_osm_frame",
+        "geometryConfidence": "approximate"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.2752665,
+              -30.065514020000002
+            ],
+            [
+              138.2753765,
+              -30.065514020000002
+            ],
+            [
+              138.2753765,
+              -30.065424020000002
+            ],
+            [
+              138.2752665,
+              -30.065424020000002
+            ],
+            [
+              138.2752665,
+              -30.065514020000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bldg_house_approx_31",
+        "name": "Dwelling (approximate)",
+        "type": "house",
+        "startYear": 1889,
+        "endYear": 1915,
+        "ruinVisibleFrom": 1915,
+        "survivesAsRuin": false,
+        "status": "approximate",
+        "confidence": "approximate",
+        "dateConfidence": "approximate",
+        "placeholder": true,
+        "whatWasHere": "Illustrative occupancy density based on peak population (~600), not a named land title or documented resident. Location approximate on surveyed grid.",
+        "sourceIds": [
+          "source_frg_history",
+          "source_frg_land_titles"
+        ],
+        "photoIds": [],
+        "useClass": "dwelling",
+        "mapKind": "dwelling",
+        "geometrySource": "translated_to_osm_frame",
+        "geometryConfidence": "approximate"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.2754865,
+              -30.065634019999997
+            ],
+            [
+              138.2755965,
+              -30.065634019999997
+            ],
+            [
+              138.2755965,
+              -30.065544019999997
+            ],
+            [
+              138.2754865,
+              -30.065544019999997
+            ],
+            [
+              138.2754865,
+              -30.065634019999997
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bldg_house_approx_32",
+        "name": "Dwelling (approximate)",
+        "type": "house",
+        "startYear": 1882,
+        "endYear": 1920,
+        "ruinVisibleFrom": 1920,
+        "survivesAsRuin": true,
+        "status": "approximate",
+        "confidence": "approximate",
+        "dateConfidence": "approximate",
+        "placeholder": true,
+        "whatWasHere": "Illustrative occupancy density based on peak population (~600), not a named land title or documented resident. Location approximate on surveyed grid.",
+        "sourceIds": [
+          "source_frg_history",
+          "source_frg_land_titles"
+        ],
+        "photoIds": [],
+        "useClass": "dwelling",
+        "mapKind": "dwelling",
+        "geometrySource": "translated_to_osm_frame",
+        "geometryConfidence": "approximate"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.2757665,
+              -30.065634019999997
+            ],
+            [
+              138.2758765,
+              -30.065634019999997
+            ],
+            [
+              138.2758765,
+              -30.065544019999997
+            ],
+            [
+              138.2757665,
+              -30.065544019999997
+            ],
+            [
+              138.2757665,
+              -30.065634019999997
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bldg_house_approx_33",
+        "name": "Dwelling (approximate)",
+        "type": "house",
+        "startYear": 1883,
+        "endYear": 1925,
+        "ruinVisibleFrom": 1925,
+        "survivesAsRuin": false,
+        "status": "approximate",
+        "confidence": "approximate",
+        "dateConfidence": "approximate",
+        "placeholder": true,
+        "whatWasHere": "Illustrative occupancy density based on peak population (~600), not a named land title or documented resident. Location approximate on surveyed grid.",
+        "sourceIds": [
+          "source_frg_history",
+          "source_frg_land_titles"
+        ],
+        "photoIds": [],
+        "useClass": "dwelling",
+        "mapKind": "dwelling",
+        "geometrySource": "translated_to_osm_frame",
+        "geometryConfidence": "approximate"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.2760465,
+              -30.065634019999997
+            ],
+            [
+              138.2761565,
+              -30.065634019999997
+            ],
+            [
+              138.2761565,
+              -30.065544019999997
+            ],
+            [
+              138.2760465,
+              -30.065544019999997
+            ],
+            [
+              138.2760465,
+              -30.065634019999997
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bldg_house_approx_34",
+        "name": "Dwelling (approximate)",
+        "type": "house",
+        "startYear": 1884,
+        "endYear": 1930,
+        "ruinVisibleFrom": 1930,
+        "survivesAsRuin": false,
+        "status": "approximate",
+        "confidence": "approximate",
+        "dateConfidence": "approximate",
+        "placeholder": true,
+        "whatWasHere": "Illustrative occupancy density based on peak population (~600), not a named land title or documented resident. Location approximate on surveyed grid.",
+        "sourceIds": [
+          "source_frg_history",
+          "source_frg_land_titles"
+        ],
+        "photoIds": [],
+        "useClass": "dwelling",
+        "mapKind": "dwelling",
+        "geometrySource": "translated_to_osm_frame",
+        "geometryConfidence": "approximate"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.2754865,
+              -30.06541402
+            ],
+            [
+              138.2755965,
+              -30.06541402
+            ],
+            [
+              138.2755965,
+              -30.06532402
+            ],
+            [
+              138.2754865,
+              -30.06532402
+            ],
+            [
+              138.2754865,
+              -30.06541402
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bldg_house_approx_35",
+        "name": "Dwelling (approximate)",
+        "type": "house",
+        "startYear": 1885,
+        "endYear": 1935,
+        "ruinVisibleFrom": 1935,
+        "survivesAsRuin": false,
+        "status": "approximate",
+        "confidence": "approximate",
+        "dateConfidence": "approximate",
+        "placeholder": true,
+        "whatWasHere": "Illustrative occupancy density based on peak population (~600), not a named land title or documented resident. Location approximate on surveyed grid.",
+        "sourceIds": [
+          "source_frg_history",
+          "source_frg_land_titles"
+        ],
+        "photoIds": [],
+        "useClass": "dwelling",
+        "mapKind": "dwelling",
+        "geometrySource": "translated_to_osm_frame",
+        "geometryConfidence": "approximate"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.2757665,
+              -30.06541402
+            ],
+            [
+              138.2758765,
+              -30.06541402
+            ],
+            [
+              138.2758765,
+              -30.06532402
+            ],
+            [
+              138.2757665,
+              -30.06532402
+            ],
+            [
+              138.2757665,
+              -30.06541402
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bldg_house_approx_36",
+        "name": "Dwelling (approximate)",
+        "type": "house",
+        "startYear": 1886,
+        "endYear": 1940,
+        "ruinVisibleFrom": 1940,
+        "survivesAsRuin": true,
+        "status": "approximate",
+        "confidence": "approximate",
+        "dateConfidence": "approximate",
+        "placeholder": true,
+        "whatWasHere": "Illustrative occupancy density based on peak population (~600), not a named land title or documented resident. Location approximate on surveyed grid.",
+        "sourceIds": [
+          "source_frg_history",
+          "source_frg_land_titles"
+        ],
+        "photoIds": [],
+        "useClass": "dwelling",
+        "mapKind": "dwelling",
+        "geometrySource": "translated_to_osm_frame",
+        "geometryConfidence": "approximate"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.2760865,
+              -30.06558402
+            ],
+            [
+              138.2761965,
+              -30.06558402
+            ],
+            [
+              138.2761965,
+              -30.06549402
+            ],
+            [
+              138.2760865,
+              -30.06549402
+            ],
+            [
+              138.2760865,
+              -30.06558402
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bldg_house_approx_37",
+        "name": "Dwelling (approximate)",
+        "type": "house",
+        "startYear": 1887,
+        "endYear": 1945,
+        "ruinVisibleFrom": 1945,
+        "survivesAsRuin": false,
+        "status": "approximate",
+        "confidence": "approximate",
+        "dateConfidence": "approximate",
+        "placeholder": true,
+        "whatWasHere": "Illustrative occupancy density based on peak population (~600), not a named land title or documented resident. Location approximate on surveyed grid.",
+        "sourceIds": [
+          "source_frg_history",
+          "source_frg_land_titles"
+        ],
+        "photoIds": [],
+        "useClass": "dwelling",
+        "mapKind": "dwelling",
+        "geometrySource": "translated_to_osm_frame",
+        "geometryConfidence": "approximate"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.2763665,
+              -30.06558402
+            ],
+            [
+              138.2764765,
+              -30.06558402
+            ],
+            [
+              138.2764765,
+              -30.06549402
+            ],
+            [
+              138.2763665,
+              -30.06549402
+            ],
+            [
+              138.2763665,
+              -30.06558402
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bldg_house_approx_38",
+        "name": "Dwelling (approximate)",
+        "type": "house",
+        "startYear": 1888,
+        "endYear": 1950,
+        "ruinVisibleFrom": 1950,
+        "survivesAsRuin": false,
+        "status": "approximate",
+        "confidence": "approximate",
+        "dateConfidence": "approximate",
+        "placeholder": true,
+        "whatWasHere": "Illustrative occupancy density based on peak population (~600), not a named land title or documented resident. Location approximate on surveyed grid.",
+        "sourceIds": [
+          "source_frg_history",
+          "source_frg_land_titles"
+        ],
+        "photoIds": [],
+        "useClass": "dwelling",
+        "mapKind": "dwelling",
+        "geometrySource": "translated_to_osm_frame",
+        "geometryConfidence": "approximate"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.2766465,
+              -30.06558402
+            ],
+            [
+              138.2767565,
+              -30.06558402
+            ],
+            [
+              138.2767565,
+              -30.06549402
+            ],
+            [
+              138.2766465,
+              -30.06549402
+            ],
+            [
+              138.2766465,
+              -30.06558402
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bldg_house_approx_39",
+        "name": "Dwelling (approximate)",
+        "type": "house",
+        "startYear": 1889,
+        "endYear": 1955,
+        "ruinVisibleFrom": 1955,
+        "survivesAsRuin": false,
+        "status": "approximate",
+        "confidence": "approximate",
+        "dateConfidence": "approximate",
+        "placeholder": true,
+        "whatWasHere": "Illustrative occupancy density based on peak population (~600), not a named land title or documented resident. Location approximate on surveyed grid.",
+        "sourceIds": [
+          "source_frg_history",
+          "source_frg_land_titles"
+        ],
+        "photoIds": [],
+        "useClass": "dwelling",
+        "mapKind": "dwelling",
+        "geometrySource": "translated_to_osm_frame",
+        "geometryConfidence": "approximate"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.2760865,
+              -30.06536402
+            ],
+            [
+              138.2761965,
+              -30.06536402
+            ],
+            [
+              138.2761965,
+              -30.06527402
+            ],
+            [
+              138.2760865,
+              -30.06527402
+            ],
+            [
+              138.2760865,
+              -30.06536402
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bldg_house_approx_40",
+        "name": "Dwelling (approximate)",
+        "type": "house",
+        "startYear": 1882,
+        "endYear": 1910,
+        "ruinVisibleFrom": 1910,
+        "survivesAsRuin": true,
+        "status": "approximate",
+        "confidence": "approximate",
+        "dateConfidence": "approximate",
+        "placeholder": true,
+        "whatWasHere": "Illustrative occupancy density based on peak population (~600), not a named land title or documented resident. Location approximate on surveyed grid.",
+        "sourceIds": [
+          "source_frg_history",
+          "source_frg_land_titles"
+        ],
+        "photoIds": [],
+        "useClass": "dwelling",
+        "mapKind": "dwelling",
+        "geometrySource": "translated_to_osm_frame",
+        "geometryConfidence": "approximate"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.2763665,
+              -30.06536402
+            ],
+            [
+              138.2764765,
+              -30.06536402
+            ],
+            [
+              138.2764765,
+              -30.06527402
+            ],
+            [
+              138.2763665,
+              -30.06527402
+            ],
+            [
+              138.2763665,
+              -30.06536402
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

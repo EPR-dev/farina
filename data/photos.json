@@ -1,0 +1,430 @@
+[
+  {
+    "id": "photo_001",
+    "title": "Distant view of Farina",
+    "date": "c.1880",
+    "photographer": "Samuel White Sweet",
+    "collection": "State Library of South Australia B 9329",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Distant_view_of_Farina_ca_1880_(SLSA_B_9329)_(Samuel_White_Sweet).jpg",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Distant_view_of_Farina_ca_1880_%28SLSA_B_9329%29_%28Samuel_White_Sweet%29.jpg",
+    "rights": "Public domain",
+    "location": "Farina township overlook",
+    "coordinates": [
+      138.2762715,
+      -30.06794402
+    ],
+    "locationPrecision": "approximate",
+    "description": "Panoramic early view of Farina with tents, stone buildings and hotel in the background.",
+    "sourceIds": [
+      "source_slsa_b9329",
+      "source_commons_farina"
+    ],
+    "activeFrom": 1880,
+    "activeTo": 2026,
+    "subject": "historic",
+    "thenNowPairId": "pair_town_overview"
+  },
+  {
+    "id": "photo_002",
+    "title": "Street at Farina",
+    "date": "c.1897",
+    "photographer": "Robert Mitchell",
+    "collection": "State Library of South Australia PRG 1610/11/175",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Street_at_Farina,_South_Australia,_ca_1897,_Robert_Mitchell_photo_(SLSA_PRG-1610-11-175).jpg",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/64/Street_at_Farina%2C_South_Australia%2C_ca_1897%2C_Robert_Mitchell_photo_%28SLSA_PRG-1610-11-175%29.jpg",
+    "rights": "Public domain",
+    "location": "Twelfth Street (Main Road) area",
+    "coordinates": [
+      138.2768715,
+      -30.066744019999998
+    ],
+    "locationPrecision": "approximate",
+    "description": "Street scene showing commercial buildings including J. Napier & Co. signage in related views of the same period.",
+    "sourceIds": [
+      "source_slsa_prg1610",
+      "source_commons_farina"
+    ],
+    "activeFrom": 1890,
+    "activeTo": 2026,
+    "subject": "historic"
+  },
+  {
+    "id": "photo_003",
+    "title": "Camels with wool at Farina railway station",
+    "date": "1928",
+    "photographer": "Unknown",
+    "collection": "State Library of South Australia B 24004",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Camels_with_wool_from_Nappamerry_at_Farina_railway_station,_1928_(SLSA_B_24004).jpg",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/83/Camels_with_wool_from_Nappamerry_at_Farina_railway_station%2C_1928_%28SLSA_B_24004%29.jpg",
+    "rights": "Public domain",
+    "location": "Farina railway station precinct",
+    "coordinates": [
+      138.2790715,
+      -30.06624402
+    ],
+    "locationPrecision": "approximate",
+    "description": "Camel train delivering wool to the railway — evidence of Farina’s inland transport role after the railhead years.",
+    "sourceIds": [
+      "source_slsa_b24004",
+      "source_commons_farina"
+    ],
+    "activeFrom": 1920,
+    "activeTo": 2026,
+    "subject": "historic",
+    "buildingIds": [
+      "bldg_station",
+      "bldg_stockyards"
+    ]
+  },
+  {
+    "id": "photo_004",
+    "title": "Railway dam, Farina",
+    "date": "1909",
+    "photographer": "Alice Mary Hopewell",
+    "collection": "State Library of South Australia B 38333",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Railway_dam,_Farina,_1909_(SLSA_B_38333)_(Hopewell,_Alice_Mary).jpg",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Railway_dam%2C_Farina%2C_1909_%28SLSA_B_38333%29_%28Hopewell%2C_Alice_Mary%29.jpg",
+    "rights": "Public domain",
+    "location": "Railway water infrastructure",
+    "coordinates": [
+      138.2802715,
+      -30.065544019999997
+    ],
+    "locationPrecision": "approximate",
+    "description": "Railway dam illustrating water constraints for locomotive and town supply.",
+    "sourceIds": [
+      "source_commons_farina"
+    ],
+    "activeFrom": 1900,
+    "activeTo": 2026,
+    "subject": "historic",
+    "buildingIds": [
+      "bldg_water_tower"
+    ]
+  },
+  {
+    "id": "photo_005",
+    "title": "Men standing at Farina railway station",
+    "date": "c.1920",
+    "photographer": "Frank Dunk",
+    "collection": "State Library of South Australia B 58255",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Men_standing_at_Farina_railway_station_ca_1920_(SLSA_B_58255)_(Dunk,_Frank).jpg",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/79/Men_standing_at_Farina_railway_station_ca_1920_%28SLSA_B_58255%29_%28Dunk%2C_Frank%29.jpg",
+    "rights": "Public domain",
+    "location": "Farina railway station",
+    "coordinates": [
+      138.2788715,
+      -30.06654402
+    ],
+    "locationPrecision": "approximate",
+    "description": "Station platform scene in the decades after Farina ceased to be the northern terminus.",
+    "sourceIds": [
+      "source_commons_farina"
+    ],
+    "activeFrom": 1910,
+    "activeTo": 2026,
+    "subject": "historic",
+    "buildingIds": [
+      "bldg_station"
+    ]
+  },
+  {
+    "id": "photo_006",
+    "title": "Aboriginal rainmakers, Farina",
+    "date": "1898",
+    "photographer": "Unknown",
+    "collection": "State Library of South Australia B 60681/90",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aboriginal_rainmakers,_1898,_Farina,_South_Australia_(SLSA_B_60681-90).jpg",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Aboriginal_rainmakers%2C_1898%2C_Farina%2C_South_Australia_%28SLSA_B_60681-90%29.jpg",
+    "rights": "Public domain — display with cultural respect",
+    "location": "Farina district",
+    "coordinates": [
+      138.2750715,
+      -30.06424402
+    ],
+    "locationPrecision": "approximate",
+    "description": "Historic photograph of Aboriginal people at Farina. Displayed respectfully; Country associations for the area require careful verification (see research notes).",
+    "sourceIds": [
+      "source_commons_farina",
+      "source_agd_acknowledgement"
+    ],
+    "activeFrom": 1890,
+    "activeTo": 2026,
+    "subject": "historic",
+    "sensitivity": "cultural"
+  },
+  {
+    "id": "photo_007",
+    "title": "Transcontinental Hotel ruins",
+    "date": "2013-09-27",
+    "photographer": "Peterdownunder",
+    "collection": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Transcontinental_Hotel_Farina.JPG",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Transcontinental_Hotel_Farina.JPG/1280px-Transcontinental_Hotel_Farina.JPG",
+    "rights": "CC BY-SA 4.0",
+    "location": "Transcontinental Hotel site, Twelfth Street",
+    "coordinates": [
+      138.277253,
+      -30.0674996
+    ],
+    "locationPrecision": "approximate",
+    "description": "Modern photograph of the Transcontinental Hotel ruins — useful for Then/Now comparison. Shown on the map once the hotel is a remnant.",
+    "sourceIds": [
+      "source_commons_farina",
+      "source_frg_town_guide"
+    ],
+    "activeFrom": 1918,
+    "activeTo": 2026,
+    "subject": "remnant",
+    "buildingIds": [
+      "bldg_transcontinental"
+    ],
+    "thenNowPairId": "pair_transcontinental",
+    "geometrySource": "osm_aligned"
+  },
+  {
+    "id": "photo_008",
+    "title": "Underground bakery entrance",
+    "date": "2013-09-27",
+    "photographer": "Peterdownunder",
+    "collection": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bakery_at_Farina.JPG",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Bakery_at_Farina.JPG/1280px-Bakery_at_Farina.JPG",
+    "rights": "CC BY-SA 4.0",
+    "location": "Scotch Oven Underground Bakery, Twelfth Street",
+    "coordinates": [
+      138.2765714,
+      -30.0673448
+    ],
+    "locationPrecision": "approximate",
+    "description": "Entrance to the underground bakery restored by the Farina Restoration Group.",
+    "sourceIds": [
+      "source_commons_farina",
+      "source_frg_town_guide"
+    ],
+    "activeFrom": 1960,
+    "activeTo": 2026,
+    "subject": "remnant",
+    "buildingIds": [
+      "bldg_bakery"
+    ],
+    "geometrySource": "osm_aligned"
+  },
+  {
+    "id": "photo_009",
+    "title": "Exchange Hotel ruins",
+    "date": "2013-09-27",
+    "photographer": "Peterdownunder",
+    "collection": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Exchange_Hotel_Farina.JPG",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Exchange_Hotel_Farina.JPG/1280px-Exchange_Hotel_Farina.JPG",
+    "rights": "CC BY-SA 4.0",
+    "location": "Exchange Hotel, North Terrace / Eleventh Street corner area",
+    "coordinates": [
+      138.2765622,
+      -30.0656167
+    ],
+    "locationPrecision": "approximate",
+    "description": "Ruins of the Exchange Hotel (documented operating period c.1880–1937).",
+    "sourceIds": [
+      "source_commons_farina",
+      "source_frg_town_guide"
+    ],
+    "activeFrom": 1937,
+    "activeTo": 2026,
+    "subject": "remnant",
+    "buildingIds": [
+      "bldg_exchange"
+    ],
+    "geometrySource": "osm_aligned"
+  },
+  {
+    "id": "photo_010",
+    "title": "J.W. Manfield storekeeper's premises",
+    "date": "1882",
+    "photographer": "Unknown",
+    "collection": "State Library of South Australia B 8007",
+    "sourceUrl": "https://collections.slsa.sa.gov.au/resource/B+8007",
+    "imageUrl": null,
+    "rights": "Reuse not confirmed for remote display — VIEW AT SOURCE",
+    "location": "General store precinct, Twelfth Street",
+    "coordinates": [
+      138.2771715,
+      -30.06679402
+    ],
+    "locationPrecision": "approximate",
+    "description": "Owners and workers outside the saddlers and general store of J.W. Manfield at the railhead period.",
+    "sourceIds": [
+      "source_slsa_b8007"
+    ],
+    "activeFrom": 1882,
+    "activeTo": 2026,
+    "subject": "historic",
+    "displayMode": "view_at_source",
+    "buildingIds": [
+      "bldg_manfield_store"
+    ]
+  },
+  {
+    "id": "photo_011",
+    "title": "Ruins at Farina (modern landscape)",
+    "date": "2013-09-27",
+    "photographer": "Peterdownunder",
+    "collection": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ruins_at_Farina.JPG",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Ruins_at_Farina.JPG/1280px-Ruins_at_Farina.JPG",
+    "rights": "CC BY-SA 4.0",
+    "location": "Farina township ruins",
+    "coordinates": [
+      138.2765715,
+      -30.067044019999997
+    ],
+    "locationPrecision": "approximate",
+    "description": "Contemporary view of stone ruins across the gibber landscape — remnant fabric after abandonment.",
+    "sourceIds": [
+      "source_commons_farina"
+    ],
+    "activeFrom": 1950,
+    "activeTo": 2026,
+    "subject": "remnant"
+  },
+  {
+    "id": "photo_012",
+    "title": "Restored SAR narrow-gauge wagon at Farina",
+    "date": "2021",
+    "photographer": "Wikimedia contributor",
+    "collection": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Restored_South_Australian_Railways_narrow-gauge_bogie_open_wagon_at_Farina,_2021.jpg",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Restored_South_Australian_Railways_narrow-gauge_bogie_open_wagon_at_Farina%2C_2021.jpg/1280px-Restored_South_Australian_Railways_narrow-gauge_bogie_open_wagon_at_Farina%2C_2021.jpg",
+    "rights": "CC BY-SA (see Commons file page)",
+    "location": "Railway precinct",
+    "coordinates": [
+      138.283958,
+      -30.0689161
+    ],
+    "locationPrecision": "approximate",
+    "description": "Restored rolling stock at the railway precinct — modern heritage interpretation of the line.",
+    "sourceIds": [
+      "source_commons_farina",
+      "source_frg_navigating"
+    ],
+    "activeFrom": 1980,
+    "activeTo": 2026,
+    "subject": "remnant",
+    "buildingIds": [
+      "bldg_station",
+      "bldg_goods_shed"
+    ],
+    "geometrySource": "osm_aligned"
+  },
+  {
+    "id": "photo_013",
+    "title": "Transcontinental Hotel ruins (rear)",
+    "date": "2013-09-27",
+    "photographer": "Peterdownunder",
+    "collection": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Transcontinental_Hotel_Farina_rear.JPG",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Transcontinental_Hotel_Farina_rear.JPG/1280px-Transcontinental_Hotel_Farina_rear.JPG",
+    "rights": "CC BY-SA 4.0",
+    "location": "Transcontinental Hotel site (rear)",
+    "coordinates": [
+      138.277253,
+      -30.0674996
+    ],
+    "locationPrecision": "approximate",
+    "description": "Rear elevation of the Transcontinental Hotel ruins — surviving stone fabric after closure.",
+    "sourceIds": [
+      "source_commons_farina",
+      "source_frg_town_guide"
+    ],
+    "activeFrom": 1918,
+    "activeTo": 2026,
+    "subject": "remnant",
+    "buildingIds": [
+      "bldg_transcontinental"
+    ],
+    "geometrySource": "osm_aligned"
+  },
+  {
+    "id": "photo_014",
+    "title": "Ruin in Farina",
+    "date": "c.2010s",
+    "photographer": "Wikimedia contributor",
+    "collection": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ruin_in_Farina.jpg",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Ruin_in_Farina.jpg/1280px-Ruin_in_Farina.jpg",
+    "rights": "CC-licensed (see Commons file page)",
+    "location": "Farina township ruin fabric",
+    "coordinates": [
+      138.2764215,
+      -30.06679402
+    ],
+    "locationPrecision": "approximate",
+    "description": "Standing stone ruin within the ghost-town fabric — illustrative of remnant dwellings and outbuildings.",
+    "sourceIds": [
+      "source_commons_farina"
+    ],
+    "activeFrom": 1950,
+    "activeTo": 2026,
+    "subject": "remnant",
+    "buildingIds": [
+      "bldg_moffatt",
+      "bldg_post_office"
+    ]
+  },
+  {
+    "id": "photo_015",
+    "title": "SAR cattle wagon at Farina",
+    "date": "2021-01",
+    "photographer": "Wikimedia contributor",
+    "collection": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:SAR_Cattle_Wagon_at_Farina_January_2021.jpg",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/SAR_Cattle_Wagon_at_Farina_January_2021.jpg/1280px-SAR_Cattle_Wagon_at_Farina_January_2021.jpg",
+    "rights": "CC-licensed (see Commons file page)",
+    "location": "Railway yards / stock precinct",
+    "coordinates": [
+      138.2839116,
+      -30.0669372
+    ],
+    "locationPrecision": "approximate",
+    "description": "Heritage cattle wagon at Farina — remnant railway interpretation after line closure.",
+    "sourceIds": [
+      "source_commons_farina",
+      "source_frg_navigating"
+    ],
+    "activeFrom": 1980,
+    "activeTo": 2026,
+    "subject": "remnant",
+    "buildingIds": [
+      "bldg_stockyards",
+      "bldg_station"
+    ],
+    "geometrySource": "osm_aligned"
+  },
+  {
+    "id": "photo_016",
+    "title": "Commonwealth Railways Budd car at Farina",
+    "date": "1957",
+    "photographer": "Unknown",
+    "collection": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Commonwealth_Railways_CB_class_railcar_(Budd_car)_at_Farina,_South_Australia,1957.jpg",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Commonwealth_Railways_CB_class_railcar_%28Budd_car%29_at_Farina%2C_South_Australia%2C1957.jpg/1280px-Commonwealth_Railways_CB_class_railcar_%28Budd_car%29_at_Farina%2C_South_Australia%2C1957.jpg",
+    "rights": "Check Commons file page",
+    "location": "Farina railway station",
+    "coordinates": [
+      138.2787715,
+      -30.06644402
+    ],
+    "locationPrecision": "approximate",
+    "description": "Standard-gauge era railcar at Farina station, late operating years before closure.",
+    "sourceIds": [
+      "source_commons_farina"
+    ],
+    "activeFrom": 1957,
+    "activeTo": 2026,
+    "subject": "historic",
+    "buildingIds": [
+      "bldg_station"
+    ]
+  }
+]

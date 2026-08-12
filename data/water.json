@@ -1,0 +1,105 @@
+{
+  "type": "FeatureCollection",
+  "name": "farina_water_approximate",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "EPSG:4326"
+    }
+  },
+  "properties": {
+    "placeholder": true,
+    "notes": "Approximate water features from FRG Wells Walking Trail narrative. Not surveyed hydrology.",
+    "alignment": {
+      "dLon": 0.0010715000000004692,
+      "dLat": 0.008255980000000562,
+      "method": "mean_translate_to_osm_frame"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "water_farina_creek",
+        "name": "Farina Creek / Government Gums waterhole area",
+        "type": "watercourse",
+        "startYear": 0,
+        "endYear": 9999,
+        "confidence": "approximate",
+        "whatWasHere": "Creek and River Red Gums north of the town that gave Government Gums its name. Locations approximate.",
+        "sourceIds": [
+          "source_frg_history",
+          "source_frg_navigating"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            138.2730715,
+            -30.063744019999998
+          ],
+          [
+            138.27557149999998,
+            -30.06454402
+          ],
+          [
+            138.27807149999998,
+            -30.06494402
+          ],
+          [
+            138.2810715,
+            -30.065544019999997
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "water_well_camp",
+        "name": "Well and stone tank (campground entrance)",
+        "type": "well",
+        "startYear": 1876,
+        "endYear": 9999,
+        "confidence": "approximate",
+        "whatWasHere": "Well site associated with early Government Gums water infrastructure (FRG Wells Walking Trail).",
+        "sourceIds": [
+          "source_frg_navigating"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.2752715,
+          -30.068544019999997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "water_railway_dam",
+        "name": "Railway dam / reservoir",
+        "type": "dam",
+        "startYear": 1882,
+        "endYear": 1993,
+        "confidence": "approximate",
+        "whatWasHere": "Railway water supply (FRG notes a large reservoir among railway buildings). Photograph evidence 1909.",
+        "sourceIds": [
+          "source_frg_history"
+        ],
+        "photoIds": [
+          "photo_004"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.2802715,
+          -30.065544019999997
+        ]
+      }
+    }
+  ]
+}

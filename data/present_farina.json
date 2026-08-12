@@ -1,0 +1,730 @@
+{
+  "type": "FeatureCollection",
+  "name": "farina_present_day_frg",
+  "properties": {
+    "scenario": "present_day",
+    "notes": "Present-day Farina aligned to OpenStreetMap feature locations + FRG site roles (farinarestoration.com). Footprints illustrative.",
+    "sourceIds": [
+      "source_frg_site",
+      "source_frg_navigating",
+      "source_frg_town_guide",
+      "source_frg_five_year",
+      "source_osm_farina"
+    ],
+    "alignment": "osm_2026"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "now_early_settlement",
+        "name": "Early settlement / The Gums waterhole area",
+        "shortName": "Early settlement",
+        "type": "heritage_area",
+        "useClass": "civic",
+        "status": "ruins",
+        "confidence": "approximate",
+        "labelRank": 1,
+        "whatWasHere": "FRG: earliest settlement on rocky ground north of the present town / creek area. OSM maps The Gums Water Hole nearby — satellite structures north of the 1878 grid relate to this precinct and campground, not the main street ruins.",
+        "sourceIds": [
+          "source_frg_navigating",
+          "source_osm_farina"
+        ],
+        "frgRole": "interpretation",
+        "geometrySource": "osm_aligned"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.2793974,
+              -30.0601332
+            ],
+            [
+              138.28159739999998,
+              -30.0601332
+            ],
+            [
+              138.28159739999998,
+              -30.0587332
+            ],
+            [
+              138.2793974,
+              -30.0587332
+            ],
+            [
+              138.2793974,
+              -30.0601332
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "now_campground",
+        "name": "Farina Station Campground",
+        "shortName": "Campground",
+        "type": "visitor",
+        "useClass": "commercial",
+        "status": "active_site",
+        "confidence": "documented",
+        "labelRank": 1,
+        "whatWasHere": "OSM/Nominatim/ExplorOz: Farina Station Campground. Open year-round per FRG; ~1.5 km north of the main ruin street.",
+        "sourceIds": [
+          "source_frg_site",
+          "source_osm_farina",
+          "source_exploroz_camp"
+        ],
+        "frgRole": "visitor_facility",
+        "geometrySource": "osm_aligned"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.2727649,
+              -30.0626735
+            ],
+            [
+              138.2743649,
+              -30.0626735
+            ],
+            [
+              138.2743649,
+              -30.061473499999998
+            ],
+            [
+              138.2727649,
+              -30.061473499999998
+            ],
+            [
+              138.2727649,
+              -30.0626735
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "now_war_memorial",
+        "name": "War Memorial",
+        "shortName": "War Memorial",
+        "type": "memorial",
+        "useClass": "civic",
+        "status": "active_site",
+        "confidence": "approximate",
+        "labelRank": 1,
+        "whatWasHere": "Dedicated 2010 (FRG). Placed near campground entrance / north precinct pending survey GPS.",
+        "sourceIds": [
+          "source_frg_navigating"
+        ],
+        "frgRole": "memorial",
+        "yearBuilt": 2010,
+        "geometrySource": "approximate_relative_osm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.2743649,
+          -30.0624235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "now_wells_trail_start",
+        "name": "Wells Walking Trail (campground end)",
+        "shortName": "Wells Trail",
+        "type": "trail",
+        "useClass": "civic",
+        "status": "active_site",
+        "confidence": "approximate",
+        "labelRank": 2,
+        "whatWasHere": "FRG Navigating Farina: trail starts near campground entrance (well/stone tank) and links toward the railway bridge.",
+        "sourceIds": [
+          "source_frg_navigating",
+          "source_osm_farina"
+        ],
+        "frgRole": "trail",
+        "geometrySource": "approximate_relative_osm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.2747649,
+          -30.0622735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "now_bakery",
+        "name": "Scotch Oven Underground Bakery",
+        "shortName": "Bakery",
+        "type": "bakery",
+        "useClass": "commercial",
+        "status": "restored_seasonal",
+        "confidence": "documented",
+        "labelRank": 1,
+        "whatWasHere": "OSM: Farina Bakery. Restored 2010; seasonal operation during FRG works (May–July).",
+        "sourceIds": [
+          "source_frg_site",
+          "source_osm_farina"
+        ],
+        "frgRole": "flagship_attraction",
+        "linkedBuildingIds": [
+          "bldg_bakery"
+        ],
+        "photoIds": [
+          "photo_008"
+        ],
+        "geometrySource": "osm_aligned"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.2764614,
+              -30.0674348
+            ],
+            [
+              138.2766814,
+              -30.0674348
+            ],
+            [
+              138.2766814,
+              -30.0672548
+            ],
+            [
+              138.2764614,
+              -30.0672548
+            ],
+            [
+              138.2764614,
+              -30.0674348
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "now_patterson_vc",
+        "name": "Patterson House — Visitor Centre",
+        "shortName": "Visitor Centre",
+        "type": "visitor",
+        "useClass": "civic",
+        "status": "active_site",
+        "confidence": "approximate",
+        "labelRank": 1,
+        "whatWasHere": "FRG: rebuilt 2017–2019; VC opened 2021 opposite bakery precinct on Twelfth Street. Location approximate relative to OSM bakery.",
+        "sourceIds": [
+          "source_frg_five_year",
+          "source_osm_farina"
+        ],
+        "frgRole": "visitor_centre",
+        "linkedBuildingIds": [
+          "bldg_patterson"
+        ],
+        "geometrySource": "approximate_relative_osm"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.2764814,
+              -30.0672348
+            ],
+            [
+              138.2767614,
+              -30.0672348
+            ],
+            [
+              138.2767614,
+              -30.067014800000003
+            ],
+            [
+              138.2764814,
+              -30.067014800000003
+            ],
+            [
+              138.2764814,
+              -30.0672348
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "now_ops_centre",
+        "name": "FRG Operations Centre",
+        "shortName": "Ops Centre",
+        "type": "workshop",
+        "useClass": "industrial",
+        "status": "active_site",
+        "confidence": "approximate",
+        "labelRank": 2,
+        "whatWasHere": "FRG: large shed west of the Underground Bakery (2014). Offset west of OSM bakery.",
+        "sourceIds": [
+          "source_frg_five_year"
+        ],
+        "frgRole": "operations",
+        "geometrySource": "approximate_relative_osm"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.27594639999998,
+              -30.067519800000003
+            ],
+            [
+              138.27629639999998,
+              -30.067519800000003
+            ],
+            [
+              138.27629639999998,
+              -30.067269800000002
+            ],
+            [
+              138.27594639999998,
+              -30.067269800000002
+            ],
+            [
+              138.27594639999998,
+              -30.067519800000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "now_transcontinental",
+        "name": "Transcontinental Hotel (stabilised ruin)",
+        "shortName": "Transcontinental",
+        "type": "hotel",
+        "useClass": "commercial",
+        "status": "stabilised_ruin",
+        "confidence": "documented",
+        "labelRank": 1,
+        "whatWasHere": "OSM historic=ruins Transcontinental Hotel — FRG stone priority site.",
+        "sourceIds": [
+          "source_osm_farina",
+          "source_frg_five_year"
+        ],
+        "frgRole": "stone_preservation",
+        "linkedBuildingIds": [
+          "bldg_transcontinental"
+        ],
+        "photoIds": [
+          "photo_007",
+          "photo_013"
+        ],
+        "geometrySource": "osm_aligned"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.277063,
+              -30.0676296
+            ],
+            [
+              138.277443,
+              -30.0676296
+            ],
+            [
+              138.277443,
+              -30.0673696
+            ],
+            [
+              138.277063,
+              -30.0673696
+            ],
+            [
+              138.277063,
+              -30.0676296
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "now_exchange",
+        "name": "Exchange Hotel (stabilised ruin)",
+        "shortName": "Exchange",
+        "type": "hotel",
+        "useClass": "commercial",
+        "status": "stabilised_ruin",
+        "confidence": "documented",
+        "labelRank": 1,
+        "whatWasHere": "OSM historic=ruins Exchange Hotel (North Terrace precinct).",
+        "sourceIds": [
+          "source_osm_farina",
+          "source_frg_five_year"
+        ],
+        "frgRole": "stone_preservation",
+        "linkedBuildingIds": [
+          "bldg_exchange"
+        ],
+        "photoIds": [
+          "photo_009"
+        ],
+        "geometrySource": "osm_aligned"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.2763822,
+              -30.0657367
+            ],
+            [
+              138.2767422,
+              -30.0657367
+            ],
+            [
+              138.2767422,
+              -30.065496699999997
+            ],
+            [
+              138.2763822,
+              -30.065496699999997
+            ],
+            [
+              138.2763822,
+              -30.0657367
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "now_post_office",
+        "name": "Post Office (stabilised)",
+        "shortName": "Post Office",
+        "type": "post_telegraph",
+        "useClass": "civic",
+        "status": "stabilised_ruin",
+        "confidence": "documented",
+        "labelRank": 1,
+        "whatWasHere": "OSM historic=ruins Post Office.",
+        "sourceIds": [
+          "source_osm_farina",
+          "source_frg_five_year"
+        ],
+        "frgRole": "stone_preservation",
+        "linkedBuildingIds": [
+          "bldg_post_office"
+        ],
+        "geometrySource": "osm_aligned"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.2771521,
+              -30.066111199999998
+            ],
+            [
+              138.2774121,
+              -30.066111199999998
+            ],
+            [
+              138.2774121,
+              -30.0659112
+            ],
+            [
+              138.2771521,
+              -30.0659112
+            ],
+            [
+              138.2771521,
+              -30.066111199999998
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "now_police",
+        "name": "Police Station & Cells (stabilised)",
+        "shortName": "Police",
+        "type": "police",
+        "useClass": "civic",
+        "status": "stabilised_ruin",
+        "confidence": "documented",
+        "labelRank": 2,
+        "whatWasHere": "OSM historic=ruins Police Station (east of North Terrace spine).",
+        "sourceIds": [
+          "source_osm_farina",
+          "source_frg_five_year"
+        ],
+        "frgRole": "stone_preservation",
+        "linkedBuildingIds": [
+          "bldg_police"
+        ],
+        "geometrySource": "osm_aligned"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.2786911,
+              -30.0656609
+            ],
+            [
+              138.2789711,
+              -30.0656609
+            ],
+            [
+              138.2789711,
+              -30.065440900000002
+            ],
+            [
+              138.2786911,
+              -30.065440900000002
+            ],
+            [
+              138.2786911,
+              -30.0656609
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "now_moffatt",
+        "name": "Moffatt House (preserved)",
+        "shortName": "Moffatt House",
+        "type": "house",
+        "useClass": "dwelling",
+        "status": "stabilised_ruin",
+        "confidence": "documented",
+        "labelRank": 2,
+        "whatWasHere": "OSM Moffat House ruin.",
+        "sourceIds": [
+          "source_osm_farina",
+          "source_frg_navigating"
+        ],
+        "frgRole": "stone_preservation",
+        "linkedBuildingIds": [
+          "bldg_moffatt"
+        ],
+        "geometrySource": "osm_aligned"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.2757388,
+              -30.0661278
+            ],
+            [
+              138.2759388,
+              -30.0661278
+            ],
+            [
+              138.2759388,
+              -30.0659678
+            ],
+            [
+              138.2757388,
+              -30.0659678
+            ],
+            [
+              138.2757388,
+              -30.0661278
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "now_railway_precinct",
+        "name": "Railway precinct (interpreted)",
+        "shortName": "Railway precinct",
+        "type": "railway",
+        "useClass": "railway",
+        "status": "active_site",
+        "confidence": "approximate",
+        "labelRank": 1,
+        "whatWasHere": "OSM places goods shed, stock yards, station master house and Ghan alignment east of the town grid (~138.283–138.284), not on Twelfth Street.",
+        "sourceIds": [
+          "source_osm_farina",
+          "source_frg_navigating"
+        ],
+        "frgRole": "railway_precinct",
+        "linkedBuildingIds": [
+          "bldg_station",
+          "bldg_goods_shed",
+          "bldg_water_tower",
+          "bldg_fettlers",
+          "bldg_stockyards"
+        ],
+        "geometrySource": "osm_aligned"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.2828,
+              -30.0704
+            ],
+            [
+              138.2852,
+              -30.0704
+            ],
+            [
+              138.2852,
+              -30.0664
+            ],
+            [
+              138.2828,
+              -30.0664
+            ],
+            [
+              138.2828,
+              -30.0704
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "now_goods_shed",
+        "name": "Goods Shed (NSU 62 shelter)",
+        "shortName": "Goods Shed",
+        "type": "railway",
+        "useClass": "railway",
+        "status": "under_construction",
+        "confidence": "approximate",
+        "labelRank": 1,
+        "whatWasHere": "OSM Goods Shed platform location; FRG building new shelter for locomotive NSU 62 on the historic goods-shed site.",
+        "sourceIds": [
+          "source_osm_farina",
+          "source_frg_site"
+        ],
+        "frgRole": "railway_project",
+        "linkedBuildingIds": [
+          "bldg_goods_shed"
+        ],
+        "geometrySource": "osm_aligned"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.283758,
+              -30.0690411
+            ],
+            [
+              138.28415800000002,
+              -30.0690411
+            ],
+            [
+              138.28415800000002,
+              -30.0687911
+            ],
+            [
+              138.283758,
+              -30.0687911
+            ],
+            [
+              138.283758,
+              -30.0690411
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "now_cemetery",
+        "name": "Farina Cemetery",
+        "shortName": "Cemetery",
+        "type": "cemetery",
+        "useClass": "civic",
+        "status": "active_site",
+        "confidence": "approximate",
+        "labelRank": 1,
+        "whatWasHere": "FRG: about 1.3 km west of the campground. Position estimated from campground OSM centroid + 1.3 km west (not a surveyed grave GPS).",
+        "sourceIds": [
+          "source_frg_navigating",
+          "source_osm_farina"
+        ],
+        "frgRole": "cemetery",
+        "geometrySource": "estimated_from_frg_distance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.2600649,
+          -30.0620735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "now_info_boards",
+        "name": "Town information boards",
+        "shortName": "Info boards",
+        "type": "interpretation",
+        "useClass": "civic",
+        "status": "active_site",
+        "confidence": "approximate",
+        "labelRank": 2,
+        "whatWasHere": "FRG town guide stop near Twelfth Street / bakery precinct.",
+        "sourceIds": [
+          "source_frg_town_guide"
+        ],
+        "frgRole": "interpretation",
+        "geometrySource": "approximate_relative_osm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.2769214,
+          -30.0672948
+        ]
+      }
+    }
+  ]
+}
