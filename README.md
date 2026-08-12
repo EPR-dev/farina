@@ -17,15 +17,11 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000).
 
-## Share online (Vercel)
+## Share online
 
-Same pattern as other EPR-dev apps (GitHub → hosted URL):
+**Live app:** [https://farina-lilac.vercel.app](https://farina-lilac.vercel.app)
 
-1. Push to `EPR-dev/farina` (see below).
-2. Import the repo at [vercel.com/new](https://vercel.com/new) (framework: Next.js).
-3. Deploy and copy the `https://….vercel.app` URL.
-
-CLI (from this folder, after `gh` auth):
+Same pattern as other EPR-dev apps (GitHub → Vercel):
 
 ```bash
 npx vercel --yes --prod
